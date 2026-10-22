@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-10-22T08:10:00.000Z",
-  "actualizado": "2026-10-22T08:10:00.000Z",
+  "revisado": "2026-10-22T08:24:41.563Z",
+  "actualizado": "2026-10-22T08:24:41.563Z",
   "noticias": [
     {
       "titulo": "Fiscalía remitió a la Comisión de Acusaciones el caso de Petro por el ‘Pacto de Valledupar’",
@@ -9,7 +9,653 @@
       "enlace": "https://www.rtanoticias.com/fiscalia-investiga-petro-por-pacto-valledupar/",
       "fecha": "2026-10-22T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["fiscalia", "acusacion", "petro"]
+      "temas": [
+        "fiscalia",
+        "acusacion",
+        "petro"
+      ]
+    },
+    {
+      "titulo": "\"Solicitamos que se rectifique la información divulgada\": excomandantes paramilitares sobre el denominado Pacto de Valledupar",
+      "medio": "impactonews.co",
+      "urlMedio": "https://impactonews.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTVqSWtNNDVIblhOX0RwaF9sNEJwQTRmOXdLNkdxRTFJSFZCLV9fSVBkTXZkaXc2WnN3b2UtajBaZDF3ZXU0bDFZVkNWVjJHcE5MUzVUOUhGd25SMEx5QUtwMjJlbVlKcG1XWGp2Z1NoaHhweEhfN2Z1QnM3SU5PbjlDSUtEOGN1U0t2NWJQcEQ5QWZQMkRmNEFGcVh5a1A0T2Z2TklZQW1VaTNvOWhoRkxHV2FLMllRWHotZl9yb2g5Z1VzVUxkUkN6bEVIdFVHRXVqb05Rb0ZpVEs2cTFj?oc=5",
+      "fecha": "2026-10-22T03:18:48.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Exjefes paramilitares desmintieron documento del Pacto de Valledupar, pero reconocieron un comunicado firmado con el gobierno Petro",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZEFIQUwwQTRCX0RXU0pBWFJramJqOFRsYzZJdmxMcFFueEtDbW1DT0t0UEE2RFhvLXhoWHcyWTE3SnhzQ3hEMVJSLUkzQzVOWEVvd01VWk5FYXFFdVpQVFQxT3ZmR1JrcnNYLWNmVWEtVHBqdzVOc2tsdldEOGpyTE9wN1NQTU16eTBWNkxRcU1LSWlzTlE0cVZ1N1FOZG9KbkFGZXZzOWw1WGZWOTBueHJwc0s0cWtkeEJIT2Vma21RTjJQNEZySXJXTjhaRU8weFd3UHpoY1hGZlQxMW5WbHU4NjZiaDZfSXVoQV9jdFoxeEJjR1RwRHFtSWVQRDh5ZENsSVlR0gGgAkFVX3lxTE42Y0JVOThEdHFMaGxfRkdvQ1ZmWTZ2aWx3MkYzRVhpYUtWQVg2cHdBT043T01FMFlza2MxWk1LUGV6cUpGRjE4YVpTc1BhWkhINjNDdm51RVlUeVNlMFI5UGQtSW1aS1p2bU53Q3NVZUU2anpxUkcweEVLc0R4NVpjYXVkSDNHSGxySnZmeFp1b3ppWk9GR1Q3UWprZXl1akFQZnlPSTEzYkptVF9GQ0xkMmhGbVUyUFZZWWdtbVpYdk5IM1p3RGxBcWNDUXRwM3UyV3F4R05Ud01TYTktRk1nR2xkZTMwN3JmY3lVYWt5RGdLUUtoM2d0M1FkNUFIelNxMFZlLVYwaUtKTWV6YVFlOTUwWTVmMHlRNWY2RUMtRw?oc=5",
+      "fecha": "2026-10-22T03:06:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "El ‘Pacto de Valledupar’",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFVVZtaFlFUUlVdFpyQjZ3VXp1Z2lTUUxVUlJhSnRfTmNINjUyODhBRnJBY2x4QS1LNDJjTWVsVkVVM1g2YWFmWHNsbDVmVU1qR3ExUU5KME9sb1E5ODBrbm12UTZkc3FTQmVGX2JhcmlKbGY5cVpqb2lwLURYZ9IBgwFBVV95cUxPREIyeTlkbzBpQU9YRlI0dEc0clR5R3k4MFN5MXdrSnhUbkxwTl9KWUdWeGxxRWNVanF6TmE5RC1YSWxBQjVJVTVWeFhERV9laXo3WmxHZVJqNzlPYjdfY3J1OGVUM3ItcVkzT3JXTEQ5TENWUjZxSUU0dUpTYUw5ek1VRQ?oc=5",
+      "fecha": "2026-10-22T03:01:00.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Los efectos jurídicos y políticos del escándalo del ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHNGWm9MWkdwaC05NWdkVEZtMkptdEVpTWtjbVdpV3R5OHhONjFtYTl3NlBKc1ZnSk1xRGtjUTZ0NVpMRU9jaWJrTEpJZmFkUS15V2hJWmoxRF9tMGJnVVhQZVNPYmJBMlRxcG42a0pLMFdZc3dNOUdGMHJLNFlSVWIxVlVIUTZhWmpJWVlzeThOUlpXZ2p6ZnBNRU9wSlh3NVFzdXg3Y19Yd9IBvgFBVV95cUxONUtEZ0huMU1NOVBPSmdMMHItUUhiQldsMlo5S044RmZwclY0OHdDS0xMaGJvSWF3dU4xU044SU1FNWlXQnZ4QlMwNENjT3RFRUlWVnNIS0tzdm41SEZ6UVJFUDJscW92YVVteXlSSWF5Z3EwUDZ3S1JGUHQ1VWtpeGdkUVIyWEFYUTZDQjctV2RWRkltc3kxc0dReExhOWItNzBjX0s4bzc3ZzZ5MW8yTGNmY3BKMno3eXI4ek5R?oc=5",
+      "fecha": "2026-10-22T02:54:55.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Últimas noticias de Pacto de Valledupar: se conoce video inédito en el que Angie Rodríguez entregó balance de octubre de 2025",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeTBrV2QtOHlFamNfSWpkSWdKa3FkcHBXbWNPVEdpdFN3cVFodzktdXhwWjB5dTZsQVowQThqeFZoUG4xc185azJfU2Y4akpvZmxNOVMtQjJEZklLQm1tcXVpaXdXS1A3aC10aWhDcm1aQnNOZDY5alZwTnNIaHE4bVQzU2s3NWktWVY1cVdUNWZNdW5RY2VqMTVfNkdHd05GSGNpLW82ZU9wb0Izc281eUtZVTRGdjNWUW9KTkVWVDlxc0RPenQ1ZDBGamNfOUR5MlNlVnlGWGFyeTZGd045M05URk04bVpmN1djZkpnb3JidmZ2OV9XaUk2b1J3UUZpeFlwUnlR0gGLAkFVX3lxTE1yWm5vNEMtUF9pMk5zckNyYjBVNkt3TFhyWG5PLTAyRDEwTFFmbEtLWFRuNWMxU01lOXREdVA0Zk4ycTFNdVJNRDQwLXd0c2VnWkVMckpJVkhjMXl1V3ZGbjVYaXhjaUdZZ1dWc002MU5ROVNGSFM0MUxkYUktbmhSOGFTOHBQZlRnYVJwWnBER3hSWDZVcW0wZ0hMSkRoNWJZbDMyd2FHQktJenRFaWN4MFVaVzg4WHd4S0wzcHJxbjRUNXIxcThaN01kek00SThVZGNnZEVsUkxuVGFoaGdxZE94YVZ0eGlsb2NpY1BGbHIxT0QxZHZLcVRrOEY5Z0NZOTl5VTBYZl9SZw?oc=5",
+      "fecha": "2026-10-22T01:31:19.000Z",
+      "temas": [
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Excomandantes paramilitares se pronuncian por el ‘Pacto de Valledupar’ y hacen cuestionamiento",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0hmejFmNUFVQVhkV2ZqbDdYNkVlUTctcWdyUEVLbk4tYkhac08yS0NWek9xOXVERDZETDZJOWZBR2wwUlVZVEV1R3BGRk5tZTRNNV9yb0RUOTVFNjllZEtMUnM0LVRtYU5JT1JhUWQ2UV9taTZZZFVwdll1bTlocHFnakgzc2otSy1YR2lFakZoZXJYNDZxaFBXVloyajk3Q0ZmaEJVdlXSAa4BQVVfeXFMT0RxcWgxQ3dXMGo5TmVVTWZfRUJNdERyTTVzR3VTOE04VVkzZlZWY09rR3U1cmRYSXR2T2gwcjA4NFZKeFpxY3FSNl9KOTNEbTVlWUZFWnlQVmQ2aGhSRDJyaWRNVmlScXZsYzlZQ0poQ25kNmg5bjNjdU5vNnRkRTM4M25weVNYcDF3ZmNHWEJjMXVyUlRkSU9VOVV0QkVqc0NWNzh5VEtTczNJQVN3?oc=5",
+      "fecha": "2026-10-22T01:08:06.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Exjefes paramilitares rechazan documento atribuido al ‘Pacto de Valledupar’ y defienden su autenticidad",
+      "medio": "Agencia de Periodismo Investigativo",
+      "urlMedio": "https://www.agenciapi.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTZ2WVFvWGFRenNNQXJ4cTM5ZGtOREJUcHdtd0hYNGxVWXg2aDFGWWZDRk45WWJpb3cxTFhLcjlpeFc3ZzVHUHZ4WW1XVDdCODNkdjllRVM4Z08wM2xBMVRNdU9Ia2JOOHo5NWZxdy1jeThfSVJXbkxoWjVQRWI1SVE2NTZXaVV1eXpRUTBuMXNQTEJmSk0yLXlwMXpNM1A0SmFuZEFBZzY1Rk9rS0JuaVphSGs5R2J1VDRpbkN3Y3QtNkFuZFNkdkZTdUpqejBpaHFiWFZOSGRhV3c?oc=5",
+      "fecha": "2026-10-22T00:39:11.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Crece polémica por “Pacto de Valledupar” y declaraciones de Angie Rodríguez: esto dice Petro",
+      "medio": "El Espectador",
+      "urlMedio": "https://www.elespectador.com",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOG5HcHFxbV85bzJ3eV9UX1FrbVdVV3BDaHh4bmNyWjg1SzJTSXhqZVRSckpHOFQ5ck1uOWVFMVpobU5OeDhieXFheWJ5ZF9GbXJ4Nk5TWWg1bGFfbl9FTlVPb1VlMlI5STI5TThHbHBRTU5yaDVYZnU0WFN1Rm9RM3VCZ3RqeWllMUN5OEpTTGZXcnQ2bERiMFQwbkY4VVo3bzV1cHZDZmRFaUp6LTZ3UFlDeGIwNkVSUlRWMUoyTnoxdmZXTjZV0gHbAUFVX3lxTE9va3V0X2I5NUllSi1vTDUzVk5IR2ZiZFh4dHA4MHk3ZXc1MW9rQ2lodkRfem9ERTVFUGxvYTAyQzhnWDVfRE1qNWFNeWpCNnZzbmN4ZlVVUlRiVjhNVmZKZDFTaW1MeVh6dTZJdjQ4dmdjM25LS0dJRlNnQkZVMm53VzhVUmxseklhQzh2dXphM1NMdThKNkJ1Zzkzam9SdVc1clVBbm9seVFKYkZjaGFFenVOMTZsLTFETGFGblBsaFF2ZEVxVzNvcnhtNWNWb2xNa1l3MWVRUUFCNA?oc=5",
+      "fecha": "2026-10-21T23:55:45.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro denuncia a Angie Rodríguez y Salvatore Mancuso por el caso del ‘Pacto de Valledupar’",
+      "medio": "El Norte",
+      "urlMedio": "https://elnorte.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2dOZGs3XzhNTU16d191VFA2TVZmTmNUOVhVM0hvM0lZRVIyRUcxc0R1VFZ5cUllQmM2RU1iMnR6T2ZNQXVOYkpnLUVBZy1ReWxfVE9oUVp1X0xFNkJPQTlOZ19nWE5oTkFQT0luQVFUMTJtdVdIN1lzQW1LM2M0Q2hrQk1sODZmVlFETFdNMU4wMGNaNlpxRFNTalQ0OE8zYTVrclpZb3pNRXBVNXdwa2tR?oc=5",
+      "fecha": "2026-10-21T23:29:34.000Z",
+      "temas": [
+        "petro",
+        "angie",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "\"No creo que pase absolutamente nada\": periodista Felipe Quintero sobre investigación a Petro en el denominado Pacto de Valledupar",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVDgtT2lDOFVsc2dIU09JUDk3SV9vME01NFpSaGZlZ3ZScFVVRGFEWFVacWtpY0lwTEJaVW9nQjA4TGswTmpiekxUNG1YSEpsLTBTVkdzbWd0TUlBWnM0OURmM0F2ZmpqNHU2UUE0dEtFbjQtTVp2SG1ackVEOUVaMjdfbHA1ZHhrcnpqclBOa0pWS205cnl2ZmZkZlpkVnRJMk81dEh1LTRCemNNQXRIMEZmWGkxNTZYQ0tFeTctc3gwdjgtTGROYTk2ZlpmR1kxZUk4X0pzT3I3amMteE5uMjM1UnlEWk44WjI5Z0I5T2RFV01PekY0THJWYlJYUTFuQjNZOXhkWdIBhwJBVV95cUxOT1Z3MTlOdTRGX013cDdYWEp2VnVWdTBHbDVrZlhlTkdYN0dZX0VpTzFDNkNlVzR4am00ajlsb2pFWkZ0azJ4NUFoWENQSEdzQlp4anN6Y1RVSTU1cHh2Szl5VDlDOWlfRTNfUl9pSld6dTRueXNFMmNOaXRQWW5yd0E0WW5vQnE3V3dXZzJ2aGVFdnh1cDdoZFNUSjA5elFvREdUcXZqeVMwNzNlcFk4UTZvSFJYMUNIQVI0NkNuNlg1WkVZd3NCRWlzRmxRUjRzV1l6QUlva1ZmcUlncGpkbVNCcFliZnFpSExHX2ZyekYyMk5tZi1IMF90M2lBX2cxdDBCOUFDcw?oc=5",
+      "fecha": "2026-10-21T23:24:07.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Habla Álvaro Leyva: cuestiona a la JEP y reacciona al ‘pacto de Valledupar’",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0FXNlZFYkpvUFV2U2tmUFJKcmw2Q1BCQVFTTUtNTE9KWndGMDE0UC11dlBfRFl6QlhuX3N2QXQ0dDM3ZjdYUEtWWVFTNXdmSmFDeFpOZno2dnI1aGx2a3BhZW03QXVGN09vSjdyN1FDaXdoRHVjY1FSSm04bTNNVUxYZEVxV21xbWtZc1RfaEVyR1NidnZhbkVhcnBjcHBrdGtJNGlJdWl6NVVTdm80dUhkVGRnc3VpckhNNnh1WdIBxAFBVV95cUxQMXp4R0hFTlNFb1h2Q3RfaUI3Qko0OVNjNktjbktucjgwQ3BCNUN2dnBkUDg5UnJYbmpuaW92dHUzeExGQWtOem5KOEdLUjFOdHB1eXU0a2F6Y3J0czVaRnVGT1B5VDZreDNKb0ZUSGZ0Z0lpNThYOWpUb0hidzhSQ1FPcF9iakVMSzJKeGExWlRjQlBkczJ4MjltRUhmLTl4ZEhFaWt2cGlpU0JSejBwc015WVpYekJlYVp6bDVWdmlMWW5x?oc=5",
+      "fecha": "2026-10-21T22:52:57.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Exparamilitares se pronuncian tras revelaciones del Pacto de Valledupar",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1dHX0hyVk81ZUVmSG96Q0Fnb2NPMWxuZDZSMFJ1R29uWndudzhkSnlmdUdYYzVWbEdKRzh4SHQ3VnU2T0lnTTJ5bkEwNjVtT0c2OW5GRnBXQ1RNbndoQ21OWXU2OE41Mm1GblJpY0xZWWt6dmdFQXBJc1VqeGk2ejVsRHlYc2pvTTVUUF9HTDd0UEw0Q1lJSmxmNjVOdEUtMlRKaU9kYjl6MVFsY3ZzN0xqNmJGdGlyaUVratIBwgFBVV95cUxPLTdlY2IwTjViaV9IUEExRGNFd3ZWa3A2bnk0NDRGRnNQWmRSelIyaWVYbUJwdG50QnBrTGR2ck15a0lUdmFyU3dUX0hQXzhNcnl3WnlBck9JaG1hQ0doMlBPczcwSWFWXzJvVnlaMXdBM3dDeXYyckp6aDRYUXVVa1AzdFVxR0w5bzhUMms5Q2M3NnNEZTZYcVFQcWNDd2plWklHcTRyTDIySUtQNXpESndOYUVodHd1MGJDYlpUOE52UQ?oc=5",
+      "fecha": "2026-10-21T22:46:10.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Petro a Angie Rodríguez por ‘Pacto de Valledupar’: “nunca le di orden de hablar con paramilitares”",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGMzMC1RWUQ4b21IaHU2UUJNdWxFRG5HWjN2bGltMUc1WVlvRWNKVTVaZXcyYWx5bmtxUndjd3czWGU1QzRaVG1HdFpEQmFvZFR1U1V0YURvODk2aGNQTWVfZGpGOUZRTmVTTEpzR0E2NHhwQnNEVEQ3SnJGMm12YUJwRWcySmhCRVdUMzZRa0hrRkY3QUhqQmlBeW1mby1sMmZNT3B0dF9wcVF4ZGtXelp5YWkyaHV2NEdWNEkxRlpxbmJjTG93Tm83eXEwczRXbDNIUVRwWWRHVmPSAdsBQVVfeXFMT3hjMzAtUVlEOG9tSGh1NlFCTXVsRURuR1ozdmxpbTFHNVlZb0VjSlU1WmV3MmFseW5rcVJ3Y3d3M1hlNUM0WlRtR3RaREJhb2RUdVNVdGFEbzg5NmhjUE1lX2RqRjlGUU5lU0xKc0dBNjR4cEJzRFREN0pyRjJtdmFCcEVnMkpoQkVXVDM2UWtIa0ZGN0FIakJpQXltZm8tbDJmTU9wdHRfcHFReGRrV3paeWFpMmh1djRHVjRJMUZacW5iY0xvd05vN3lxMHM0V2wzSFFUcFlkR1Zj?oc=5",
+      "fecha": "2026-10-21T22:41:46.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Exparamilitares rompen el silencio tras revelaciones del Pacto de Valledupar",
+      "medio": "Chica Noticias",
+      "urlMedio": "https://www.chicanoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWWRpeHVHb1ZqbGlTeVVrQ0NabHZPUkx0T1pmdW9iVGQ1bDFPRGk5cVdXVzB2Tm9KNklrOVF3dFpjbHFCZ0tyb1hoQWkwNjlOalYycEpoLW9QeEc0RXU0NVNYYUI4a19BSUE?oc=5",
+      "fecha": "2026-10-21T22:15:16.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "“Nunca le di orden de hablar con paramilitares”: Gustavo Petro sobre Angie Rodríguez y el ‘Pacto de Valledupar’",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYlVfRGw1N2R4aDhlZGNmMVNFenRRM2Y3ckRtdmdtYkdtZnFwa0lCY09ycHpveE5HNmRCUW1jNzNKN2RfeVB6N3gzN2FMaWdubV9vYk5YSzNqeGxTZG52aUpENEhuSmFacGFONEFXZkxBYllJRHNTUFFmLW9OQW9mOVlXMkpvN1J4dUlpbXV0RGdTblZDYnkyejRBNHp6V1cxbXNHU29INmJDcGNHTzlBa0lidkpZRHBCSDNpZGpWSmtUVjlFSDZPVjFIOUs3MnBfOHBlV3FuSVVqTTFUcXQyZ240UdIB4wFBVV95cUxPSlZHaUVPeERERFpIOFB1cERJMHBhRGcwbHdIZHFqTmFtb1Fic0l0VzJlcVpYOElFLWhpUC1mS2FLc1U5QnR3T05hZHhuaFc4OFJnNWhZREpWQy15LXlWcGR6d1pKYWU5c0ptMXVBX3lTX0ZrcHBRNWtRVU5ramVYaHg0MEotXzVzcXdDdlJyejl5T2MxNE5wYjJ2ZnB2SEVxbng2OGY3cmxXTkdBVmRubUM4RkYwcFJSOWpySGFnTThQVkZReEFSQWFBczJfM2xPMmFUZnRGSDMtYzl2Y2JWRnpnbw?oc=5",
+      "fecha": "2026-10-21T22:11:44.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“Rechazamos intento de instrumentalizar el proceso”: excomandantes AUC sobre ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSUowS3RianJleGZnWTRyRmxNcHNVVkhDUmdyVktJQkJWZ200TmhhWnViMnVla2t3OEViYzRjUmVSMmNiRy00TERQRXlIeHV1VEd1NjFzYTdILWlrVldPdEJ5OU0wZno0aVlFT0Q0XzlRdWJRQkNTQm5VdUZvRTFXaFA2d2h4SnJONGJSaHN6aUltTXg5M3k1clVvTWRQblJrNmxWT3NpemtMVXpabEFmSzZwbTI1OUZKOXROWnJhN2FhampYbUU40gHbAUFVX3lxTFBtNFVxaEptejFaS1ZBLW1MaFQ3NWFQeG9MN3FtdDF2Tk5SNkRvaVUzY2lkVGRmMDRtN093cHEtNzNZSVRQZlMwTExXZUdJU0ZZM05GYWV2bGprU3B5ZTJTVktEYTZPYi1KOHpoa0pWS0dsM1ZaODF3eUFjVWN4ZVZKd2V1VFBpUXRfTFZFd1RBQUhRRkVKMndUNEtvT3cwT0xFdWtoZVF6b2syNVRiVktSQk9iamtkckljODZoOTZqSEVSeEVvdU9rNzZNN2pkUGlkYllFVnNTYWJnOA?oc=5",
+      "fecha": "2026-10-21T22:02:32.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Defensa de Petro denunciará a Angie Rodríguez por declaraciones sobre Pacto de Valledupar",
+      "medio": "Canal 1 En vivo",
+      "urlMedio": "https://canal1.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXl0ZjhpNS1LNG5VODJvcGRrdnhGclAtR01DQUlPdDUtUmJIclp3aUc5NlZXTkt5WnpiNkNTY3RNOElJeDl0VWIwd0dSVU54blFrX21GbHBudzFnQ3oxZXdKbjhEekNQY2ZoYjdYampnMzJFektrcmF3MEhNdEdEc3l5Ym13c2hfU0xocmNLOXNmYXpqelJxUVRkZGVRSkNpZjBNVnJZenJ6OXE0YWxqYU9OaVdLTmlPR2FHS0ZzNGRXMFVLM0JMUWhR0gHPAUFVX3lxTE1ESEpNMTQ1allmSXNzUmgxd08yRkx2T25qbC01elRiVXRFTHdOMkhSQzBnc082ZFRFQVJudlNQM2llakl1dVJuS2l2S0NET19XYWRCb2JJOEZxaTMxUGFVandtcUszcWVvRVJqclhXX016aWwyVDE5QUdxV3U2TVo4OUFQc2tTdk96OTJVdi1QZVFOM1lpWnpiTVJwcDZ6Q2t6d3AzTmxxbkJLNjlxdFJCY3EtWkd6QXpGNEEyZjNIWl9WQVFCTmJsZ3JvOXFBRQ?oc=5",
+      "fecha": "2026-10-21T21:30:29.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Gustavo Petro denuncia ante la Fiscalía a Angie Rodríguez por el “Pacto de Valledupar” tras señalamientos sobre presiones a exparamilitares",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZW1DamVseUsxUUxaSDhSMlE4ZjdtWXNMZWNuaVhzMVJkU0NEM3pXcFJhYmZBN3NTMi1PQ3p5aFktY0Q0bTJ5LXNrOWF0b080U0cyaUNOZ2FOX040OG9kRXJPMl9LTWJ2eml6ZEktZm5lYUhkYjdBVVRFWkJrRGtGRFBBUDV0YXB3aUtZaXhDQ1ZGS1dmcEs5UFhiNU8tTGNleWNRTHJPTU5SbzlCRXZEQ1ctOTRYbW9JU2ZXcHpNaFAzX09oMElz0gHMAUFVX3lxTE53NVFWZmNYeEJOc2tEcFVoMVAtenZrVF9SNGFicHpzcm9XdXQ1cGNLUGdwbVk2UWFfS2dDQ1BTTEdQTDVtcTV5VW5RNjBxekJtV2ZPQUdlZmt6YTdyWFZvdGgwcUZPVG1MN1VnTnBJQmZDczJuMURmcGxpaHF2cGtvS2NIZDhMc3BuNm85TkYxbWZXaXBJdzNQam5Rd1hibFNyLU5yN1VVU0JUeGdobkwtSHgtNmxZdmtCUTAwY1dybWFGSG1pNENuT1Y3aw?oc=5",
+      "fecha": "2026-10-21T21:15:48.000Z",
+      "temas": [
+        "fiscalia",
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro denuncia ante la Fiscalía a Angie Rodríguez y Salvatore Mancuso por el supuesto ‘Pacto de Valledupar’",
+      "medio": "Emisora Atlántico 1070 AM",
+      "urlMedio": "https://emisoraatlantico.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFRzWURWeWtNcGVpbUUtYTAyREZrMXpYTExvdWdtc0VUQ0lZMTZqQzJKTkgzTkRRblpzZ29Fb2VOb3ZrLWVfa0dFcjdvV3c2UDhnN0puMjU0QWp2UlVyMFpzTGl2THFGZEFkeXBrWFMyb2xrV21MazdiWm1KTEdpLVZteWJwQmlXZE5fTEJKaG4zNEc4SnllUG9WVm4wU0RSTFFleXpHdGw0YkRxcldvUWxMdkdKUlBCVExSYTJLTFRKVkZocEJFZjl4Si1ZTFNtZGJBeG9qcEtkeDVhZWIwStIB6AFBVV95cUxNeXVQUXFjRG1ocUtlRzBneDRTWjlxZnk1OG5FeXFyRkEtcFdHZFhuMHBJZ3I1RlpfTTNOR09GeHR2djZVQVVLMTU2SVNfTFlmcXVQdEp2VkZEdWJEUmc5dzFCUExCZ2Z1UHpTSGpibEFFbU9OUHJHcjFvN3E0Z2ZXNFhBZFBaZG1GbUM2NFFOZUpvelBUSC1jR2tKVDlsSmZ2NVYxRFJDLVJXRWxyNnp0Ti1wM3JfcDIwOVlvRUFaR3l2M0gxM3ktVGEwdWV5UXlHTXlMSnQ3V0xlQTI5UGFCUXo0WXNDLTRQ?oc=5",
+      "fecha": "2026-10-21T19:43:20.000Z",
+      "temas": [
+        "fiscalia",
+        "petro",
+        "angie",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Defensa de Gustavo Petro denunció a Angie Rodríguez y Salvatore Mancuso por vincularlo con el ‘Pacto de Valledupar’: “Lo inventa”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZC0zMG9hN0JpSFdLZ05yaHYyM0JXdTNMdlVFMENlTno3MmFTYkktYXpzN085d0J2NW9WWURLZS1WOHBHNjNBOGtUbHpYLUdrTkhKVFB0cU9FaTNpamgwWjRUYjFGWnBhRGtuRTBtNUZtTmp0dDBUVzJfLWs3aEtSTHJleTdINjhlenZuaXp2RGdrWGwzQ1p5RHhvSXRpTk1WVkxld1psbGZKSHRaUDl0aWUtaFJ0RFZReHVZelN5SDlEX3lGNVZ1RlNEUmtKUDVVSFgtQkpUU3oxSEp0Vmw1YjktWk1zdmpNUTI5WUpNQUtoTVpNelFJQXdPc2czZ9IBmAJBVV95cUxQZHRPa2xPcDd1Vm1DWGF2bXM0ZUdGOFpWUHBtWXFydzczQ2M4LWhNaEpxT2E4YzJ5V0l5UDdCY2RDVkZQSnFpY1pCNVJ5aHBqMjR1Q3RDOXd3Q255cEQwRXpCVEdLdjhvZVBKN1hlcVFDVFhqUFIxUjVfTnV6Y1JOeVJXWVhZREx2ZnZRQ21EcG5sdDdCSjFNVVl4Z1BjcVp1enllWkd5S0ZHSkFQOXY0OEFCTUhLX2dTRm1pcFlHT24tVXBhMklPOEMtQmd0VWR0dVVDMGQ3SkZndHZjdG5XYVVOdnNORWQ2Z2dwMEtadUhFZ2daeUJXaEQ0bmEzUUs4cldwZ01hbV9Zd0doTWU2SHRnbWhtUWlt?oc=5",
+      "fecha": "2026-10-21T19:20:00.000Z",
+      "temas": [
+        "petro",
+        "angie",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Defensa de Petro denuncia a Angie Rodríguez por señalamientos del caso “Pacto de Valledupar”",
+      "medio": "El Espectador",
+      "urlMedio": "https://www.elespectador.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2RfbnJ4YlFwZEp6cmFqX3pVd3Z6ajkxWEdqRDlETUxqc1B5LXN6Y1pfZGlNaExxc2JxUi1UcTFOZ05kNi1MdTVLVnIwR19wR1hQYUFVQXMyTmg4Rk11VnZLbUZoTzBUZXhzM184WkNTelh0LWFjWDFTYTE1dm8tVnNwR3lWeFZ3M21QYllBekVWX1BtQnYzamdNLXdxRnVwS1QzNEQ0RVQ5X1k1VUd5X1dCMVZqNHF4NTJnNHhvRTMyN1kzd3hIQ9IB3AFBVV95cUxPdGVyTlpGUGE3RU9MSVVvR0I1T19kVTJYNUN2QXJfdWRYTVhiMTdienpVcHQ0VjRSMW4yU25oX1BvbXBjZ2JuVFRuMTNhR09DMTdMQlA2eURGQXlHNFZPa0M3NzZla01KNzRDR3h5Vnk5UWpoc1lNWm9yX1c0cmpQcDNNcWptSkJmQ3AzZUZEd1B6SzdDNURaVDVNTWdJdHZPTFgwdHJNWG1Fa1d6S1ZaZUlaUVNKb1BzbEx5UUxKQjRpU0tHdElmQlRVMWkxUmZqSHVlRXNSQU9CbmVT?oc=5",
+      "fecha": "2026-10-21T19:15:05.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro responde con denuncias a los señalamientos que sacuden el caso del Pacto de Valledupar",
+      "medio": "Vanguardia",
+      "urlMedio": "https://www.vanguardia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHQyYUhfelU1d0VhZWZlQnJ3V0tOSGU4cjZxV1hmeGlIZzZOel9sRmhLQzc0cEJFUlk2SFJTVnNvc1hOclhuQjRMczhGV0Z5U0tjUHk0UDFtSkh0S3I1a3JjQndXV09QZzc2TWpPalZEMG52blhJQmxHNHNRWnhaN25sV3V5bEtQY1FNNHkwcERwRFd6Vi1DM1ZSNU9Qc3pLbEVqVmtoRGhfalJGV0pFaFNBVE1FUTZzblBpeDQ2cm1JemhLNGhzb0JhYmlWRkRWclE?oc=5",
+      "fecha": "2026-10-21T19:15:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Familia Vargas Lleras y Cambio Radical denuncian a Petro por presunto soborno de testigos en el Pacto de Valledupar",
+      "medio": "CAMBIO Colombia",
+      "urlMedio": "https://cambiocolombia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVlpaSzVvTWQwSDBwcjJGRHRFOUwxWEo0T2pDS0pBZWF2Qk9LVk1QMDN3Q1hFRUVvSnBhZ3BsMzN1SGtBUUtsTTdvZlpqd1hUNmt1Umt2RVUwd1o2UWRPUzdWWGVibWxPZXJlS3BVYkZOdTM2cDdTRmw4cnV0WE1FWnJxWG1YVVhfMllvbU1zSHBMYzhZRjdwaGZGXzlCSGlOdHJlMTNTUkh4RlhXZFN6aEZQNmNRdGNfVGY4bWpTZHhMeTdFTGtFUkZYODZSTnRTQ2FNbGFPOG02cmlGeWxZekpLYnJaUHF0OVAydTFBRkY3WTFGUlVn?oc=5",
+      "fecha": "2026-10-21T19:07:36.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Familia Vargas Lleras denunciará a Petro por ‘pacto de Valledupar’: piden a Estados Unidos que investigue | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFh5TDdXSTlUUV9maDJ2Y01YYUlQS1VtNlBGekRKX3VxdFBLclBMM3dScFBPV25xLXpoQzFoVGN0cU5QR3luVVBYVnU4MWR5NzdwbTVZX2w1Y1hKME8zcURLUTdXMVNCZEUtdnpnOWRHa1lzc3E3SEFJMm5vSGJ5SHI0cUtIdVhZc1Rnbml1YklLU2dyc0xrMU9GZ0sxeEx6bThLMEp1SGZOaXA0MU1RS2lfMlJZTVB3S2ZSS01WejBGRHBfaVY4RdIBzgFBVV95cUxNRTBXWThYVENESUxTcG03bk5QV0IyMG5ZRU80MXBIZHBvLXg0cDRieXhVTlNoN3dxRm12cWhIc0lWazROaHhnN2pqdkItMU1JSW1wZHMwMllXejFSNWoxUldXM0tTWUNxbHB2T0poMHU0S0M5WDI5NG5TYmMybmxkTHVrZnoyN0pXQktzam1UaWZhb3l6R3FzOU1GR1pBVkxHUkdSYkhmUktfTUl6X3BNRVpsTHdmdnVmbV9KLVhadC1QZGJBcVlPaUtvTFNfZw?oc=5",
+      "fecha": "2026-10-21T18:57:46.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Gustavo Petro llevará a Angie Rodríguez ante la Fiscalía tras acusaciones sobre el ‘Pacto de Valledupar’ y su vida privada",
+      "medio": "Publimetro Colombia",
+      "urlMedio": "https://www.publimetro.co",
+      "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQzdqQTFSMGo5R2lDYXo5dU9mc2Zzc2YwSXVwbE41bDBad0RzRHZhS19DQnVjcElzMVFnQ01YQWJERlFUcTVzYkx4M0FpblliUW9PNU5CSDNHdzc0NXVwbTBsbWtmSkJjXzQzT3VPSXlEYzJEQmt2WEc5RlVxNGkzN2RVbkFBcENkb1hEVDgtT3AxZXpGcGZwY3hFLXAzU2c2ZHlXdzFtVWluUzZmaV81MldkdFVWeWxuckpxZWMzVkppNzZiX1BIT3Q3N3dhYzRqTGFnUVN2TGI1WDlid3lkRDhqTmIxa3JjWW1GMEk3TW5VQkljbHdua054VExkTjRLVnhQbg?oc=5",
+      "fecha": "2026-10-21T18:44:22.000Z",
+      "temas": [
+        "fiscalia",
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "(ANÁLISIS) El “Pacto de Valledupar”: las implicaciones políticas y judiciales de una posible instrumentalización de la justicia",
+      "medio": "IFM Noticias",
+      "urlMedio": "https://ifmnoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWg2SmRzRjlIQ1lnLTByVmJEdjFXUXFaZ1YxRDhzbFZtdjJDbmR6Z1A1STJNN1FNWWFabnd0bkpPOHV5aTZ4RndYcENSbWQyVk95X1BqTFNfMGJ1amlsNjA3aldoS0I5YWZoYWQ1UlViek1KWEdZUWJZLUxjN0NINE8zN09jdEhTbnkyRU4walM5eWZtaFFOZzBBNDZZaEFNWEUzRmRxRWo4TnFRazNtSG9IaFpTdEE1Y3c?oc=5",
+      "fecha": "2026-10-21T18:40:44.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Documento de la Fiscalía en el que se pide investigar al expresidente Petro por ‘Pacto de Valledupar’",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlc1ak9OSFBhR3k1VnROVldHVjRwZFZVQmtIZnliTEpMU2gydUtGY0Viek53dmRoWlJOTWhwSmY5b19NZldueGNpbTJzWHMtUENWb1JOOXlmTGI3M0pjTGJ3dElzRWxYZGRLd29ESzFzOEl5emtJYWwwWFhHZVlmLUpic1pUZ0dlckQyUTBVeEhPcHZNeWR1dTFPd3dIc3R1TVZUd3NnZkpRMFAxVVAzTWxJSG5ld9IBtgFBVV95cUxPSzd4aGFxbGc1UEgwWnh5ejRINmZqRlRiUFRqTWZXTFZJZm9zeXByRFZMUllkYXVfMjFjRW80X1NDLS10QnE0NkFEdFVlZ3ItS2lGSHF6amV6VGg5Z1pVVWFfdm03SGM1ZXEyYWotcndTQ1FPSGdPQXNqQWIxVVlSMFlUUTN2eWNTZURBWldkbjZRSnVTRkRtZVlLbTdPMTJacmY3aHkyVkNBWHhUTU16VDY5NVRnQQ?oc=5",
+      "fecha": "2026-10-21T18:31:51.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "NTN24 conoció el documento con el que la Fiscalía compulsó copias para que investiguen a Gustavo Petro por el ‘Pacto de Valledupar’",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWHJ2Q2tOelVhLVR5LWlIakdueVVrSVVPMmk2M2ZNdWozTUlBZk51cThLMGZfdHRsUlBNUEdqbjBNYU5lR2VZakFuTXVDLWxuX0t5S3dJVXYwZUpLckFYbHlLVng0WlJRR1pVMTFhMFdYdXA4RW1ROTNOMUpfN3NwNzhlamp4LXllVHhnNTVha21rNjJ0R2J4c3gzN3pTaTYwaWlrR1pJR0U4NVQxOFNGdHFGSHB4bzlmYngxNVRmQVZpdDFRVFBiLWg4XzFxUVJfV05ZVXFZbXlUZUMwTk5zOThsQ1dIX1hjZU1uWnVHY0lTNWxxU3NJWVJ1MnAzaTVRQzBZdjRDZ0cyUdIBigJBVV95cUxOaEFqblhiNVNoeUlNUUhsTTV0cmREQnNfdjdJY1lNY3RyUklTeGNxOW9qTlJsV2EwOV9zYjkxamxGbEMyNmxUTzVkMWdZTjRycVJob1BUNkhqekU0T0M4Z1VpdDlSdWZzRExCRXZKNDhLZjlwMkItampFdm1IaWdqMVhSSGxpOGZLckx6R1dZWXJBYjZwc29FS19ad3Bhb2l0Zk41SVVmU21HaTBMYmdpYlNjZHh2NnhGOF9rRFRkVGU4Q0ZzLUN3WDdzNDFUY1oyYTJNVDRyaU8tVk9rajJzN1FyWnlxNUh4SlRSNzE2VEZEZUlDd0N3R0pXX2R1dzlQNk13MWs3cXlRQQ?oc=5",
+      "fecha": "2026-10-21T17:27:35.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Gustavo Petro denuncia a Angie Rodríguez y Mancuso por señalamientos sobre el ‘Pacto de Valledupar’",
+      "medio": "Blu Radio",
+      "urlMedio": "https://www.bluradio.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVhQNUhjdjNaaTVBOThTV3hBSUp2WTZGXzRvMXhxLUcwMlJnU2xiU3hfd0RKa0dNUzFFRlhYR1VXWHF5YUt4TnVJaG11UjFQcDh3cVV0TEVoYzNEWC1wUkdTdE5FV0RKdUJudFVzOUtuTVJlTjk4X1BfNFNRRlQ3cTF0b3lBZkNiOWhCTmowM3ZhVE4tX3Z0ZnVUUjJJSU1PeW0yVXdfQU5vQVNHV19mazRGd0RXMVFuc2owejFlUjhIV1hoYk11amMxTFMxTEXSAdwBQVVfeXFMTlhNX09vOVhhUjlGVmRtSldwRlZ6QUFYZEtaQ0pwSkN1TWdEVU1FX0xKTGNhRG94bEd6WVJEMHR4OUZaLW8xVXJqUWV2THNoZnJXQ1JkUm1LaUNDVDRTRG82eXBWQVQ2M04yWVJSRG42WTFwR25VSTNEdzRTX1ZDY25qb3Rlb3BlZi1YRld2Z2RDNFhRbExYTHlYWmJEd3M0R01pQU9sZzJkcnRvOWsyaXh1WmdnZWhsMmJYMGQ3ZHlmaGJpY0JpMVgzck1oUHlDaFlyYklsc3ZVbFRVcQ?oc=5",
+      "fecha": "2026-10-21T17:03:07.000Z",
+      "temas": [
+        "petro",
+        "angie",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "‘Pacto de Valledupar’: qué es, involucrados e investigación",
+      "medio": "360 Radio",
+      "urlMedio": "https://360radio.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkNCQlR6c2g2bm1YNm1CTms2TmlDTHhGTUhNaUg4QWhDMUFvX3hxRzN1R2lHTTNWNmxHQl9sN0ZvN0ZCNGNvVnhHMXlKT1JnUFEzZi1BRGJlTTlpYWgzSmhxX2xjWURvbi0zd1pyRUtqZDRpUVlGU2Y4aVpRdTVmdEhuT3hmZkdQRG5XVmstVXE?oc=5",
+      "fecha": "2026-10-21T16:59:50.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Denuncia contra el expresidente Petro ante la Comisión de Acusación por el ‘Pacto de Valledupar’",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDlJN0ZTX0hONW5VVTVEY3FOWVJjeWMwalM3cVhVYWFQamUwRFk0dnU2TFdNM3oxQ0FvWF9DSzI0TmhneENZV0M2QTk4cnpkcjBLZDlhajc5bHBQM0ZpYjZnUzVCQnFidlRza3E1ekI2M3doM3JDN2dnUHBQTHc3cjFtZXc0T0NSZUc0bUFocnIwMTDSAZMBQVVfeXFMT01SaS1aYkdwX0RaOHdZejE5bHVlRkRyWUlxdmJZVjEyN0htRklZNFd2X2Vsd19xUDFrYlZTVDNuQW1LTTctM3JWMjJ5LWotb2hjSDdqeDFibGp5aHJteXo3UWhrQVp5R2hwcG4xTklmYWQzY3NHOWk4Wmdua1lZb2dBMHhLU0dDZnlVVmxEUTJTWGFz?oc=5",
+      "fecha": "2026-10-21T16:54:46.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Enrique Vargas Lleras y Cambio Radical presentarán denuncia penal contra Gustavo Petro por el llamado ‘Pacto de Valledupar’",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS1NDSk9kRGhJenFhakw5dWdmdHhJMVNTWG85LWhyOXBXcWZ4TVJTczFwcmZQWVQzdHhPT3hJTjhXbkNFaGxmc09MbVkyazA1Y19KdkVMcmFtUWlGNUxtTDFna0VVVEtlZktNUHZ6QThSVW5PN2s0R2M3TEZvVVgtNVlValNUR2lraXJTdXQ1LUF0dXpFV1NHbTdFc0ZWU1pMYnBNNVhuTm5fNGUtajlmd0RfWmZhbnF1bVZiY1ZKeTdvMVcySDA0UVdWUXF3Rk1sRjM5ZXlHWVNWQkx2b19vX1QzVzI1bmNBZW44U1VVZFdIU1pJWGNfZUFn0gGUAkFVX3lxTE1MRDY0RWhva3VEUllVNGRDLWR0MXNmdFlBMzRSa3A2WHRhVkRSYVB0akdjQjJyS3J0MXNXU3RlSkhKeVQwSUpjWlRyYVVCYTBVZ21MNEZSWHhEQUU5VzRhWlUxcGVRLVgyZnQxVnJKX01xcVhJNEwzcThmMjNKUFBpTlZiMFlmRnk3NHJDcHZwbXU4Y1QwVWxvUjA3YWR5d3hiOWdYYUgyZDRrUGltUnNMUTVUUEhSTkxaSTZaTFFHT1ZyRWE4VTE3dkdwUU91VGxkS2VubWRaN3JLRzAyY0QyZnprY1dJNTJGYVVhdVNRZldEV3VPQVRjRFJxM1I3OE0xSnp5Z2FrMUhRSXI2RlpQaVZ5Nw?oc=5",
+      "fecha": "2026-10-21T16:26:54.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Familia de Germán Vargas demandará a Petro en la Comisión de Acusación por Pacto de Valledupar: “Mientras Vargas estaba en UCI, planearon entrampamiento”",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc0k3eGlJbldRd3Q5M1h5Q093OXhZMkhMU1RIWGVnMkhDZHFodHpnZWpMVXlaM0t1cGkwcS1LNlVVNmV0RThidHBURWpKNExhVFhPRU0wQWhQNkhuZ0Fkczl6SFhxSFluRzNQZXZ1eG43MWRfbDZySDNldURVb0hlRkpnbFJVUk9fNkhZdDdhc0QzVVFhOWEzSmZZRHgtWjAzTE5LSmFnQno5TG41QS1BMTh1cEI2MG8tQ3BpQmkxMVdESk5nR20zYU45cE5aOVUtREU2N3hpczlfb19GQXBBdnk0LVRkRll5RHdSdzRscUdXdHRqb2tmYlp1WC11c21DSnlTMHdlQmJfaF9rVlpINXlCb19jRm9RaXo40gGgAkFVX3lxTE00eGZybjlJRmJMYzE2YUt4SGstMC1xX21ZZEtzNUdfeE1kc1Z2NTlyYURKVkdjdi1ia0tPcHVFUldUTzdYSHVnU2g3QjhhcGdNQlNHZG82TlFvNjA4ZWxRdlNxVWM3VjR2MXpDUnU3cXVabWhzV2pNcFh0THp4ZVpwMmF3bUhfek5CeWJvLXV6ZVRhaUpRTDRTZkFObm9NMEN1Ul8tdWtxMzZucDY0OXlDeHZuNHdaRDdFZ2tweXN4NjczM1ZhbF9nSFZCNk9LU2J4aS1wODgyNkJ1WktYT2haQVJGa1hhRnlQaUVVNnN2UE0wSjN5UGFjYy1YRlRyX2Q2SVpnSFNvTWpRRTk3eXNCek55MG1CMEREZ21TUEdrUw?oc=5",
+      "fecha": "2026-10-21T15:11:11.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Cambio Radical denuncia a Petro por soborno y concierto para delinquir en el Pacto de Valledupar",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYlZ1ZzlGYk5ERjgyb1BDRTh2bGdsTzlSYi1WM1Z0MzNHSldFcnpjZ0t0dWdvSGRyU1RPU0pjbVJHX0RqYWZZSlkzUjB5cnpsRnFzeEN4Uk5EdnJDS3czYmpoakpNd3EwMHJGbG1vblZlM3R3YXBFYTd0eW5YZF9kTGNiMUxoT3dtNHc5VU0yVS1OOWtaSmJFbkppaHQ1MmRvNkIzc1JLb3BSajZ0TDA0bjFHWTJYNUxXeWJTWkNlM3BPbWRWMkp0NWRDbmdzV3pwU0ZlbmZLRUxNQQ?oc=5",
+      "fecha": "2026-10-21T14:41:14.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Hermano de Vargas Lleras denunciará a Petro por el presunto ‘Pacto de Valledupar’",
+      "medio": "LA RAZÓN.CO",
+      "urlMedio": "https://larazon.co",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSU9GSXNiaGp3eWY2TmEzQ1lzRW9lYVo1R3lqQ0s1NS1LeXVYTzhhNGwtS3hrcktoNlk5aGxBVDNRci00RFozSzJUclNfRDA1UDFleGd2Ykg5UmFscVp4eVFwQ2lVdDdET0wxTVFXYVduZDMtMXNmUlVtaWtaUjgyc3Q3WnlPNHhLeVlxZnR2NXlpNFY3bzRZWGwwVWxidFpK?oc=5",
+      "fecha": "2026-10-21T14:26:28.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Abogado de Petro anunció demanda contra Angie Rodríguez por acusaciones de presuntas fiestas con menores y el ‘Pacto de Valledupar’: “Está hasta la coronilla”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdThtaUxQTkpYbEItRnV1VGRtNUVHem5wYXRKeXBhVl9LVWI2TXRlanMtcEtHSWxyQjJQeUJWU3J3NDRLLW1QeHF0YlVtNHY5UmVsOU9QMjRwTEx4UWdpcHhOZ202anctekVBSUt2cXQzMkRtQU1vU2t6RTlUT08yWXhHSEszS3NWZk9OWWhLS1dqUklMWTJ4MkV4MjduY3V3UU5WV2ZmaERDeHVEV3ZoYmxweGFtOHVFVS1KNE5rVDY2TFAwYmNQSFZvZGdOREU2bDdKZUFXbm8tdlV6N1ZHZGhFazVlUHNNejdUVXJ6Z1N5NXRvVFkzcm1HUlIzMWx1R1M2VWVYZk9kYUljNGF5YkJ1MzFCSkxJWUgxdDQ1a01UMHlS0gG_AkFVX3lxTE80cmtFdk9ZSmhlcEgwV0RuYzFWVXVPU3F4VFprWDNub3BBR2tXaC0xeDY5RWVCUU1ZQUJSa0Y4bmg3OEJzVUE2Y18xU2dqZUNxUk1IQTQxSzR4N29ZU0hYZnFDMVV0Z1FXM1E5ZE1CdzVWOEg2bkRvdGQtZ0E4cHV1ZVpuV0J5d1FWa09RRGt4RzV3VGlIQlJXTDk4YTVtY3QxMy04SzI2cnk4S3EtNlpGeFJlcHFlZXJTajhCaVVHUC15N2RoZ3hPb0VNRE1JWE5RMUxVejBUbUVJMkw4UXV0WG0za20yWDY5OExFem5uTG9CRGlOUHNRNmdEM3lrazhLOFRoaDJiS0sxaEtuTUwzbDBUOVV6Zjl5blZiSnExMFpEWHdsZlNLQk1XZVM1UUpCb0IwYzRmdmJnNndkSVk?oc=5",
+      "fecha": "2026-10-21T14:23:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Piter Albeiro reaccionó a careo que le hicieron a Iván Cepeda por cuenta del Pacto de Valledupar",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUXNfclJMX0JGN3JKUlJJQWRxa2h6UTZMUnpBcWdMQjJqR3lMOXluQVl1R2lBOFRoNnE1WlFxMXpOUzNtRDl0Q1VmU0RpdWpzQjd4SVBseDdqZzJQXzlOcnpTajlrVVZSNllnSnAtaHJSZ29JM1kwQmVFTUY2V3BjM1llNVlrMXlkZC1RUmozd2VtWGFNZ2hrNHRXaGRYOVhRNGd1aXJjNE5KNm53azdEU0p5VGl4UUhpSEdNbVF3UVhRZDhreHBycVU0UzgxLVlHTFlrVEc5VUJiZ9IB3wFBVV95cUxQdUpaUmxuNThPUVd3QTVfNTlycDN0WjVrTXpYT2tvYTRyTXlOeURjNG1RWWJTOHdnYlZEQmVMNDdkRHR3S2U4MnBiRnc3eW9SSnhPcG9La1NMOW9tc2JTRWJjNURtVDRocERpbEtZeE5hZk9kV1R6ZWtRZVExWmsxbHFtUE5XX3N3bmY4WHRlcjJWY3BiWGoxZFFWMjVLVHVfeWF6dWFDMXpMTlJvaGRBLUc3NUluOG42czFIMWF2NVFCb2hHdzgzNlRJak50czJBWFdOLXdkN201NDl0U3pF?oc=5",
+      "fecha": "2026-10-21T14:02:33.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Angie Rodríguez ratifica denuncias contra Petro por el Pacto de Valledupar",
+      "medio": "Agencia de Periodismo Investigativo",
+      "urlMedio": "https://www.agenciapi.co",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU183WXNYN3hYQTd5cmtJUjA1Q1NsRGFlN2xDcEdxNFVENHlMbkJyRzZkNFgxVjBLSTRHX0RCdmJjSTlZU09hajZuWkJ2MjVFdmQzNXViLU00RXpsMU5KdW5CeWdKdDd1bWc5YWdmeFVUS0wyOGoxRzVqN3h6c2RfNmo5UTZpSUxRR28wYVdFUGNHZUdUNldCOHRRaUI0QTQtR29YdGJfVFI2N3BEQjJhMGtzTDFlU1E?oc=5",
+      "fecha": "2026-10-21T13:48:03.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía compulsó copias a la Comisión de Acusaciones para que investigue al expresidente Petro por el Pacto de Valledupar",
+      "medio": "El País",
+      "urlMedio": "https://www.elpais.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNDNrdFhzVmpVb2xUR0NwZ1RjNzk2ZVNHNTFEaHRCSTVhejJXeFhkeW51TU82ZUpvMUNYajRQc2RudVgzTzFVY0JHdm1JSXFISVF1bDMyVVM5R00tVnlfem9RTWRqUVJ2VlZXQ2lxcklPUE5LR2tkNjFkLVdHN0l3MXN0MGVLbEdMT2xPVFYxVDhGRTdrbkh4XzV0aWFZZzZvejZLeWNobFF6cGtkMHJhVXJXS1VZYzF2eDBOYVlPTGN2YU9CWVg5N09OVFF4N0RuMlBzdDdlamZhbFM5Y0xobzZOb2xPckRkcXNaZFVwVXZHdUM1QUVzN3RmMNIBgAJBVV95cUxPLWJmODFqSEFoc0ZteHkzekZFRlo3bk9GY3JlWWY5UDRmODBIM0d6STVrdUxhWWE0TEFoeFNvSjJrZG5ORmoyRm1VZHh4TThmZ0RHVDVmNi1OQm1rNlNtYjhDZFc3dFdQb3pNUFVOZVFfZ25tclVuUWFvN2hSSWNUclFjVndHdUpacUFma0ljNDBQZnAxQjhDNE85RExLR0Z3cjZEVGNUSFc0UC1odnQyWVdNR2h2N2Z5YnQ0RHFScjlLbGlMaW5sLURRUFdRRjEyVU8tVWlQT1VnNEI4ckQ3VkZ4OTN3bmx1YjVYRkRCTDdiX0I3cUlQT2YzT0NQQnU1?oc=5",
+      "fecha": "2026-10-21T13:45:00.000Z",
+      "temas": [
+        "fiscalia",
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Los Vargas Lleras y Cambio Radical denunciarán a Petro por presunto soborno en ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekJBcjlEZDd6cXZHdXNWNkhuN3ZWTEVEdlJsTW56eFRDRzdma3BJbWRsYnpJcGRoNkJrV2oxS1BrSmdqSWJ3MGt3MEh4LVgxNThvUlBvZXZkNjJrMUEtTlJzWkxsQmpTdW9wVU9fbS12MTkwWGw0WXVyVW04eV9ad2lXcGZjdENDeUFYV20tY0pUMU1jMkl6TjEzWW9mOG5hd3prRjJEOGNvektjQW9jUTNaWW00Ni1SamlWUEkxTXotSTDSAdcBQVVfeXFMTnhnZDNQVG8zZ1lxUk9YQ3ZVTlZaS2stNFBJdjFvRjJ4Xy1ldW9WOGFORjJ0eFF5aDFhRHgyQzVNSVRmMkhmaE1IOEt1M3FQa2Vpc0J4V0ZnendrSFZVUU5JaVVRd2lEdzh5dmNueGJLV0RSdmhPWUwxeHZHY2M0bUNJRjFFcnpuTFZ0UGhKNmtOU01Db0R4UENmMnc4OVU0TVU5d1QwSUxieHBUeXFBN3NXY2ZqUHVmdEJjM3dRbTl6NmluQnAzak1ZcWswb09ZaGtrQmZ3ZXc?oc=5",
+      "fecha": "2026-10-21T13:20:28.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Angie Rodríguez no se arrepiente y ratificó sus denuncias del ‘Pacto de Valledupar’ y otros escándalos del gobierno Petro: “Callar habría significado traicionar mi conciencia”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeDRhemt0Um1RT0UtME9FWmRZS3U3UVZ5X3BYb05XZDFoTlNyX3JQNTRWNWJXRFNpaE1GendUWVZ5VjdGM21aUV9JN0pOY083WUY2SF9lRUl0S25qcFFYeWlCalJKMUhob2czQTkycmVKZ3FMbVJydVI4OWMyYWJYSnFuNGt5X1Nlb3hHRG9lRDVwUms3VGsxRXZPX3MxR2hFcE1yUGg5V004UXNya1l5dlM1TE5LbnVpdGJubXRhU2JHN2p6TWd6ZHNPVG1CLWc3cUtsaFVKQkxoUmN5VXgzU0pWWVg2UDlfODRXZ3d2VnNSdnFreTVvdk1XWWdBbUxvcnozX1JwQjJHV0NIN1QtMF83Z1VKbjdCc2NJNmt0T2N6YVhVd000MVh0RlpFeVA2MUc3V2I0YmFXcUnSAdYCQVVfeXFMT0w2SGZJbU5nYUlFVV9uckxrMzY2Qk1FaF80SXpwOHpFY29YLWJJTU9TQllKYjZyYTB3U2dzV0R6Tm53QTlJanBBTngyUjBEaGhReHVpRE5tejZLV1R1RlJKd3NMTVlIcXA5azNwYkdsbmVwZFhaWDNuakxtUFNUdkJ1OFV3ZlhnRnRGT0dYcG1qR3JCN0RjM1gtOS1KbXNKLW5uck9oLUNiQU9tejc1dVViMU5vd3BES1ZDQVA0Z1pXczM1WGNaMWp4TUZFVVozZC1sRTBFdWZGbW1kVVk4NFJZOU02Q3RuQmFtaGViTjlOczFxYnJMT3l5ejI0VHpvLVVuUUVvbFpFVXpxMlVkTXBQb2NYblFJMHNRTzZNNnJnSlpQSEpPb1RkNE5aQndJckJQUXVKenJwSkFWZHlnUGxvYjgya1haUzhXQlZsdTdtbjk4VlVR?oc=5",
+      "fecha": "2026-10-21T13:16:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "\"Es la punta del iceberg\": Zuleta dice que habrían más escándalos sobre el 'pacto de Valledupar'",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHB1b1cyRExiMjlEcTI1V0R3WGtmOXF4TW9KX3BGZVh1dWZsTTljQkp0VkNZMkwxSVR4aFAwdGNFSGdIT3l2M2FpS0prLTJFQ3Z2QmxVR0ZEemFsQTB3azFzMW5QVXRqQlcydEU1bzRTVUtUV0RPQWYwMk1CQUJnNXRlVFVtX2pqcTlRRkhySzhIU21KUnNUTzA1ZU9uc1JfOTduek930gGrAUFVX3lxTFBYeWJBY295QlQ5OU9Gb1NGVFRvUXNfQVVZM3pseTBNZnA1M3RWaC1YZHludGhrcFd4WmFLTnMwZFR0NnFYM050Sk1mRWs2Vnp2eUFpUTF1U2xhem9XOF9wQkhEOXFVaXRFaWJaaWpaMHlMZzJZN0pZd3k0N2xCZWxEbnlnVVJIUXZvZWdQS3BfbFVlZjdXQWhOZzVmTFNIQUVxZWV3cFgxalEyZw?oc=5",
+      "fecha": "2026-10-21T13:05:40.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía pidió investigar a Gustavo Petro por pacto Valledupar según Pulzo",
+      "medio": "HSB Noticias",
+      "urlMedio": "https://hsbnoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3MtbU1QcHN6NTlPYXJKU1BNYUd2N1hRbGd1Q2hGakk2amtyTFpsUnBLRWxKUDZ4dnZmTXZVU3VqdlpSbVM4QkR0NHRGSzdlTkRyRTQ0N0pRTGFFM1RCWkJsXzhTUzZ5SmY3X0VfeWQwQ1ZWVk9DZVVldFlHelpyVzZwajhFYUdYaF92R0phS2JyZVN6bGZsZXFNY1lBZzNsQlRJeGFmNHl2cUU?oc=5",
+      "fecha": "2026-10-21T12:36:05.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Desde agosto, la Fiscalía envió a la Comisión de Acusación el caso de Petro por el ‘Pacto de Valledupar’",
+      "medio": "CAMBIO Colombia",
+      "urlMedio": "https://cambiocolombia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUFFNWgzbmRQRlBtUEgzejV5WHlvQjBXNGZjZ2hSTjNXZTctTmo2c1VGWWg0X3plRUNxeWFpbEFJS2EzZ3pDWE1FaXR4UDBZUm5rMHV0ZkJOcEF3NlVJWG5LSGFSZ3VPd2trNld4eHJqekZ3N3hqUmNnOWZjYlVJVGYybzlPMUF0Q1FKLTI4a3h6WEl5YUpMZGluR3BLYmFqeC1LX3JSNS1MRFlYTWtGb2FGRHVDbTNWQV9fYTZTVElYTGdMRGQ1amJkekVjTkZ1R1BJNFZhbThydnVoV0dpUjNvMjJpdw?oc=5",
+      "fecha": "2026-10-21T12:30:45.000Z",
+      "temas": [
+        "fiscalia",
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Qué es el 'Pacto de Valledupar', a quiénes involucraría y qué respondió Gustavo Petro?",
+      "medio": "Noticias Caracol",
+      "urlMedio": "https://www.noticiascaracol.com",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbW43NTM2VzNtMkljVDkzUkxQLTA4cDlTV1lzbHI5Qm1fdHUtMlZQM1BxTmMwaXZqSnNnUXl5ckoybDM1NWpwdmZmc1MwWU9tX2I3Q2czVWhEa0xkaHRWN21KbW8wc2p6azZzSkZCa1Y4WURseVdBcU5IUDRRVG1lWHFpclo1X2VBYzdYWXd5b2ZEMGc4NXVNTVktLXNZWWltM2lDbl9fNkk2QmJlcWUzbUhVN09hdlpnM2lRZFZfQmNzRUVZMWdn0gHUAUFVX3lxTE5BYWlUOS00V0d5b1pxX0NwS204RnVQTEJUbHlPcUFoeEdiR0padk1zS3dJWlUtaWgzbmNqYnpFQ1I3N2xQN2FvckJ2VmVHZTUybVN6ZGtZNWU1RHZvaUlQWmpZMGhVZENISDA4UW10MlY0UXB6TlhpT3pqejlLT1JGNTVGbUlSRDRTTWlLajE1SENUZXB2WDAwcjRXb2RxX012QkFLcE5FWXNkZjJrNFlMMUp1dmR2MlBLb1lteS1vSUJYRVg2UmJ0MFhxOW1BWFNIbTFx?oc=5",
+      "fecha": "2026-10-21T12:19:27.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“Tengo miedo que puedan asesinarme”, dice Angie Rodríguez y anuncia que no dará más entrevistas",
+      "medio": "Vanguardia",
+      "urlMedio": "https://www.vanguardia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3oxZHpyakt6aEkxRWRzdVVWYjVBMjU0RnNyLVpvekJpekhuTTBJYk1wYzFuU3lpZ2RiQVJqaHIyUnNmeXJlUTZwSnl0cVlpOFVqM21oUDJnLURiSEFjMnIta3RneWJXYXJqd013MnYzSm5PRDJRWW9WRTIzYzlHTzdySkdwQ296TF9aUlA3YVJEemxBend3TDVnLVJTbm9zbFhZTEtMc0F5d2NGNFBUcVdMLVFOcUlUczlnbU1GZERySzNPWWdpVEhsSGNPeFFI?oc=5",
+      "fecha": "2026-10-21T12:09:00.000Z",
+      "temas": [
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía pide investigar a Gustavo Petro por el denominado ‘Pacto de Valledupar’",
+      "medio": "Risaraldahoy.com",
+      "urlMedio": "https://risaraldahoy.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQai10bjBYUlpBZlZ0WnlPTW5PaTlDVEZoUnJ5dlUwNDlqMXJjaHpLSXhYNWlrb2pEdjhzaHl1MldMY1NlWHd4elZEa3k1VkNSQm1IRTFnV2kwWjFXVFdVVGxPV0EzSXAyYUVua2tyNzk4Zm9pZ1ZEbGJMUnVFM0RfUXZGSUxySFBleFNjSURDLVYxcWtqTFRENk5tbG93MnlqdFVld09yOA?oc=5",
+      "fecha": "2026-10-21T12:00:37.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“No me retracto”: Angie Rodríguez sobre acusaciones con Gustavo Petro y el Pacto de Valledupar",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmpFMFBOTm9DNmFGa1pVbE43M0ozTnpTd3hubk5EbnhCSy1aQW9QODFXdmd5WTc1a1REODlTM2FVZVdJalpaRk5ScXlqQ2lXSDJtWmpmRW9POTVpajNMazJnbWRDejY4RFBPcnA0Y0Q3NEV5dWFxOXRmQXJvME5BWGNYMHd4UVZoWTFwaTVrR1RiODY3WGFUMzg2WmRRdGN2WG5wcFVrRzNlX1ZpYW9zRVNZZDU5NHM?oc=5",
+      "fecha": "2026-10-21T12:00:29.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "\"Tengo miedo que puedan asesinarme\": Angie Rodríguez no se retractará de señalamientos contra Petro",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM08wd1dLcWtuOXJHV1p2ZFllOWhaS3RINUVsaElpUllCeUVHdmE0TTVFVEFYX1BISGI1aUh6eDkxSFdjSm5lX1NRYnlrQnpnUlFBY1ZwYl9fNGpzcm9BZmVFS2pfeVlJa3VUSTFPa0lFeVRfUWpQYVRWVTR0eFQ4RHo2alI2U3NJZ2VUZlhzVWtnUHltVWZwc2F6UlQwYnh40gGmAUFVX3lxTE5Tc1YzZGJYaUstMzVjY3paNU1OWldMZjN5dVMyLV9uRERnX1dJWTdNdHpWdGZIRGNNbzJLd19QQkZwb3gwLUxLZkpSSE55UHFUUkdPb3drN0gwUDV2REtGV2xmVGFLVnpyaThEa0M4QjdmSzB6NmxpMkdYQmluTEdFSnhERGFPSXozeHB1SlB4N3psOUVieGUxcjIwUF9kOV94Yl85WUE?oc=5",
+      "fecha": "2026-10-21T11:21:57.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía compulsa copias para investigar a Gustavo Petro por el 'Pacto de Valledupar'",
+      "medio": "cristalina cundinamarca",
+      "urlMedio": "https://cristalinacundinamarca.com",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVVROEJoSXV6b2dJVEJHMmVWVDlCcHh0clBvanFsVnlBRWVHbjdVMDU0YUc1T2NjdmZmdTFreTlTUHFmMUlrZENmYVVhZHVnTWF3S2J1ZjFWM3NOVU9QQXFKSjA5M0lObTNHTC1XRXRSd2Jqc09NN0UtSXE1a0pnYTFhdTBTMGZMTXd5SE9oUFdNQXlxUk1lZkV2Y1lNZ3VzeWZIOTUxUmprci1Gai00MXpkWG9SMXFwV05aSS1nS0VzVFpLaHc?oc=5",
+      "fecha": "2026-10-21T11:08:28.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Elecciones regionales, festival de poesía, Pacto de Valledupar y más, en El Despertador",
+      "medio": "El Espectador",
+      "urlMedio": "https://www.elespectador.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEEtdWpZUDRleC1wLXRWZzM3MUhaRmYwdnJsaE9MaG0wRHNkTHpTd00ycDVYZzlxZnJoLThPaklDQ2xEc29XYS1XT01CRUphT2FZMS1mSUZ6TUZJODlBa2tLLTMtX0xqSkRkZWhINWVTd1ZqNVZERTdqSkxRSWxJNW5PdUkwV1NpalduZ3kzbHhtV3JVZXZQbFJ1em83dm5zQ2h1MkRFcFVZcFlWckRUYk5OTzYzMGgzbUlvbFQxNG7SAdQBQVVfeXFMT0I2aVgxRFFuMlhZNnJlM1ZHYkM5OGZnTS1yLTVUdm9uQnpHR0NNMGRhcFJjSEwtd1B1NjNLNHVtY2tqTjYtUVdhTDVVVm9vWWhJQ0F1RjlEMU0tWUsxOUFvQ2R3a1lOZks1OGhOYzhnYnI0VWItczVpZ3BCRTE0TW5rRnlFU0VIMVY4MEtseDduamRwc2JjS3pCOURFbEFwdk1yeXVKSDBKdGtFR01PY2lPbW9WWDRLMkpvRkFENVdWS1Q2QTFqbDZrWmVrQXJINVd2cDE?oc=5",
+      "fecha": "2026-10-21T09:54:37.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Petro tiene lista demanda contra Angie Rodríguez: estos son los delitos que le atribuye",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdU1FZkhqdktfOXR3TUpKYUNnTml0MnJyYTBjWUVKUnN6eV9Yd3hZQlRsMm4tZldXWnhodXVLLWxMa3JUWWN4SzRKOTNWbXZrS3NMSG1GYy11SGNCYUVIR2RsQnFkSS1KR2stN3RCMXdzQWtkTGQxUVRPdW5NcFJjd1RfX2xFalU0TnMycG41cTVFZi1tVjBVZmtlenpTYW1lUUVENWFDVWpqYkVzQ2fSAbMBQVVfeXFMTVhpNHBxejdmVjlsYzFZcDhOai1Ec3hGRE9vYk1KUS1SQ2FYNkJ6RzRCcWVQSmhiLVJZaFpQT2s3RF95TlhYNUYyV2N2SjNxcEVybHVCQXQ4MW1JV0dNVktlM1BsRk5VLXFmNUl5ZmM1V2dBRE1mWjRiVURRMkZCeWRqbjAwVTlVd3IxUkdoWGk0VHdCR1J1QXAxeXpIRXA4Sm85M3BQaVNwTE5tVzdnaFYwSjQ?oc=5",
+      "fecha": "2026-10-21T09:39:43.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Angie Rodríguez asegura que Laura Sarabia chantajeaba a Petro con fotos y videos: \"Tiene todo”",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHl6TE9DeXNUcFRud3MwMm1RcGtYaTIyUXlZWW5TcjdHVEM1all5U0FHWEJqU21wN004VFhaREw4Yl81RlBxaEtYTURWQUp6RldTSzdJT3VXQkFsQWRIVnBvXzgyTXM2bUYxZWdKNS0yOG81UExMaVc1N3dTV1M3b2ZIcXdmS1VuSV81aVpTU1BIN0pUT25vQnZLM3VEbUJUU2M2SDJNd1VWUdIBrwFBVV95cUxQU05felJuVk05UFd1c2pPRUR1RDdzZ2loSERWdmUzZ09pVHlHcFhWZEpWUXFYWXJRdkhHWnlrMWRzeHppX3lnUUlOWlZpR0pzZ3lzcWVkSUFXUGNFS3VoeEVWQ29pZzFsT1Q3VjRpUG44dnVNWUFMVE5fREo1bFVDbHJzQ3AyY09IOHZ4NUE2TGR6cjdSaFV2d2pKUlE3c3BqcFBEeFBKWk5EcFNJaHIw?oc=5",
+      "fecha": "2026-10-21T09:16:21.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Carrascal cuestiona a Petro por presiones en Pacto Valledupar",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVamVpaVdyWU40allMVVcxZDFRRzFhbFdabTRKeGx2dXBuVW1lZ08tUEE3NjI0NWotRlNrblRTNlYzQ2NDbTBEWVdqTV9YTzQ2SWN6WHNWcXhWdjNSbXkxTzFuZDNpT3kxTDJ0TTc3ekZxTXBkQWZqaDV3WWljQQ?oc=5",
+      "fecha": "2026-10-21T08:08:42.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Crece escándalo por supuesto pacto de Valledupar",
+      "medio": "El Nuevo Siglo",
+      "urlMedio": "https://www.elnuevosiglo.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGE0Q3djSlZoQk5nMmZhak14STVHdzh6VVZjcDg4VExxOE5hSzhEV2N6OGZwMmstNnozeXlmX3JtWlhxR3RHMloycTE5NjF0cUpuai1LRkIyQTFHUUhCVzdLM2VvamZBWUxZeTh4RlVqbDlxUDl2VjhWQklvZWduOC02Uy1MY3JCaWp4Y0lyU3hOamVVSUtpTjFNQmFsXzlJLWhubFBIbmhNU1RsQ0pKYXo4S2JqdWNhWUpia180QV9fcGlFM3c?oc=5",
+      "fecha": "2026-10-21T06:45:21.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "‘Pacto de Valledupar’ planteaba excarcelaciones y cambios en la extradición de exparamilitares",
+      "medio": "La Nación.com.co",
+      "urlMedio": "https://www.lanacion.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS19pQ2ZXNS1zMWhoLVZZOVpHZjJQeEJkMnBHaEdkNlF3X3oxa1FJQ3pHR2hYTjFGMTVROXJaaUNncEpVVU4yMWgtWFhkQ3hTdHBGZHhKT00tZmF5U1hVYVFXMEtFNGZvTE4yYnFqck0yWmF6c28zYTJUVG05bkxHUHYtZVFGMnY4dnJmVG0tUXpNbXNWczhNckxtMkxDT2VvOC04cWs2c1pJY1RnanY5LXF5X2NqQmlDYUVaQ0tB?oc=5",
+      "fecha": "2026-10-21T05:40:00.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por el llamado “Pacto de Valledupar” - Emisora",
+      "medio": "Emisora Atlántico 1070 AM",
+      "urlMedio": "https://emisoraatlantico.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR1VqVlNCNnZjZDVmUDZ4QWVsLVhjYWh4cFFybXNpWVlZZlJXRlI5U2hYay1IVDl5M1FmRVpKUlFEcVlWVTA1ZnFvMktzY0RmWWxxUHJITUpsVnV1WjlzbFZOLXA2U0hxZnNSbEZaSFg1enVSaUJDMExOTW1GSGpLV3NSS2xBYS1Pd1NORE5SVWlkek9fOGJKckgtaXpGN3Q1SVNnVGNHMWFVQS1aT1hTcDYzUVJ5bzdBbzc1Q0lGaXF1dkMxRzZhNEs4WEN3WHkxREJZ0gHbAUFVX3lxTE84U3RudTlRUEhLYlYzbWRUTXNvOU1oOVlCcE9JWktFX1BPMWpjd1pXOUZHSm1zUzAydE9iT3FxMmxqR185dmRlZ1dET0RZeUZtdk1peUpTWGUyT2haNFdTRGtPYzYyVEoxbF9JR1ZZcGRqZWdYMVpNRmxadDNHRFY4QUVoQktBdGFqSXFYVy1INTZXc2JMMzdfTnBDdjhnd0oyZnBfR1dBb3RkWmkwT1ltaDVNNEJKeEIwUDJsNng5ZUdaM3NCR3JLbFNrSmVpdWhmLU1EdVlxUlgtWQ?oc=5",
+      "fecha": "2026-10-21T05:18:04.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Ni perdón ni olvido para los involucrados en el ‘Pacto de Valledupar’",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjRPcm1sUURHWmczWWJjTHpKSmYyZDBUS3pZZ1Z0Q1FYaWdUVThsWEJpWF90eTNyUWxkcnJnak1IS0lBS3ROWTZHUk52Vy1Wdm1hbWd5TkViS043M21WNXU5TWlNVjlWd1pwS2d2RU5DbDN4R0NEelJRTVA4QUM0MUs5NGZVd0E4ZzZVY0hfOTdtX2h3QnlsUDh1bTFFLVpyUmpTMmJPR29HQ19leDNzREV2cGV3cWs?oc=5",
+      "fecha": "2026-10-21T05:01:59.000Z",
+      "temas": [],
+      "auto": true
     },
     {
       "titulo": "“Pacto de Valledupar”: Fiscalía compulsa copias a la Cámara para que indague a Petro y la Procuraduría investiga a Benedetti y Rodríguez",
@@ -18,7 +664,14 @@
       "enlace": "https://www.elcolombiano.com/colombia/gustavo-petro-fiscalia-compulsa-copias-a-la-comision-de-acusacion-por-pacto-de-valledupar-CB42520471",
       "fecha": "2026-10-21T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["fiscalia", "procuraduria", "acusacion", "petro", "benedetti", "angie"]
+      "temas": [
+        "fiscalia",
+        "procuraduria",
+        "acusacion",
+        "petro",
+        "benedetti",
+        "angie"
+      ]
     },
     {
       "titulo": "Procuraduría abrió investigación contra Armando Benedetti y Angie Rodríguez por el denominado 'Pacto de Valledupar'",
@@ -27,7 +680,11 @@
       "enlace": "https://www.eltiempo.com/justicia/investigacion/procuraduria-abrio-investigacion-contra-armando-benedetti-y-angie-rodriguez-por-el-denominado-pacto-de-valledupar-3594994",
       "fecha": "2026-10-21T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
     },
     {
       "titulo": "Por pacto de Valledupar, revelado por SEMANA, Procuraduría abre investigación a Armando Benedetti y Angie Rodríguez",
@@ -36,7 +693,11 @@
       "enlace": "https://www.semana.com/nacion/articulo/por-pacto-de-valledupar-revelado-por-semana-procuraduria-abre-investigacion-a-armando-benedetti-y-angie-rodriguez/202629/",
       "fecha": "2026-10-21T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
     },
     {
       "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por el denominado ‘Pacto de Valledupar’",
@@ -45,7 +706,11 @@
       "enlace": "https://www.elpais.com.co/politica/procuraduria-investiga-a-armando-benedetti-y-angie-rodriguez-por-el-denominado-pacto-de-valledupar-2053.html",
       "fecha": "2026-10-21T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
     },
     {
       "titulo": "Procuraduría abre investigación contra Armando Benedetti y Angie Rodríguez por presunto intento de manipulación a exparamilitares en el caso “Pacto Valledupar”",
@@ -54,7 +719,315 @@
       "enlace": "https://www.pulzo.com/nacion/investigacion-disciplinaria-por-el-pacto-valledupar-en-colombia-procuraduria-indaga-a-benedetti-y-rodriguez-PP5335735A",
       "fecha": "2026-10-21T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
+    },
+    {
+      "titulo": "“Pacto de Valledupar”: Fiscalía compulsa copias a la Cámara para que indague a Petro y la Procuraduría investiga a Benedetti y Rodríguez | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0hYSnlQVTZtNkdLR3AzNmR2dmpBaXppX19ubzB1MGhvTVBfUUpGcjhZSHhNTmVRRnB2NlhsaGNid2F3QXducmUyWXRaWFZsX3dzMGtUWGw4SVJld3ZIeDhWQVVoTXlYdFN1aEx0ZGkwZnR3SFRpaEstTW5neTNNbWctb2Z4dGZsNGZKRlJ3VXdmR2JiRm1qYlVrMU04YUhLTFgwdTlBcGVXbjdGaXVLYnEtcTJubUYxOUtqM3djM3pHc3dMYWp0di13SVFiN05FbkVsbdIB2gFBVV95cUxPd3VNNmgtTVd2VkRXclRWcXpsVTNpWTNqWkFvVld2Z0VvMmtXNmZCZlBpVW1rMFozOEJnTTdjanB6YUdwSEZ3NC1rYkdLOGgxXzU3QkZtMmcxcnhhR1NSVW9lbUhvN2JFcm9oZkloOUtaQVd2cFlUVGtUdGhSMjdUdWE1UlRkdWNQdV9JdGsyQVdJUGdDdERFQTFrcV90LU9oUW5ueGRtQVE1VkZZbE8xTkNUR1AtRjIzYTZrc1hQdjJ6b1lCVUYwUnZwUXhaTW1KOXlJMUZBWGJwUQ?oc=5",
+      "fecha": "2026-10-21T03:56:53.000Z",
+      "temas": [
+        "fiscalia",
+        "procuraduria",
+        "acusacion",
+        "petro",
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Hija de Germán Vargas Lleras pidió a la Fiscalía investigar el polémico ‘Pacto de Valledupar’: “Mi papá fue un luchador incansable”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSE1mN21GX0ZfcXBjRzJoSkQ4eXIzXy1VdDVaOTJNSlFOTWdFMzFtX0VwendXbmp2SG1QekEzdk1sTF9aWXVLN0htYThJeTAxSUZrLU9QSXM1Wkowa1FlNDMtWjlZdFBLNkZadmZSX3hwbjJZVm43a0VMLWYwUEFxN3lrU1ppYW5fSFZOV0xFUjRPUW9fUmVWTFgwMVBrd2x3bG8yS25qUDNORWx0WlRnN1MwUEJQam9Ea25RemhaQjBEZGRSS3FnWFdNQjFXcGItcWdDYmY2RFZQWnhEbUZZWDl4U3hhbExvZUFNT3lTQWVvM1dKbDlTYy1XSEJ0bTRY0gGbAkFVX3lxTE5kTnFxbFB6bGZuZzZlWjh0Y0locy1tMEZkS3Q2UXptdm9XTzBSd3hrQi1sLXVmZGV5MWd0WGJrMlA4Wk52SEFVb1NiREdpOVdvZG5WbEVIZlBFa1BYekZOOWVWbFlmUE9WX2ZVbnh5bUpTU2JiMHVuMlBrWDNRUElYMWpyaHBmSWFBeThyaXFsV3YtWWZSMS0tRjRJZi1OLVB1TUw1bjFpZldFWlRGY194Q05YRDZOVU5yRkFJWUd5dzBFOEFxNlRKSThJSGhSZ2JmbTNHLXBwX1I2MUFBWFNQc2FvTGd4a2JUVW80NURVdXlZZXhBOXNfSk9oWXhRVzB3SlkyWjFGaEt6d3IyXzFFOXJBa3hsTkhZb2c?oc=5",
+      "fecha": "2026-10-21T02:38:43.000Z",
+      "temas": [
+        "fiscalia"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "'Pacto de Valledupar' en la mira de la Fiscalía, mientras la Procuraduría investigaría a Benedetti",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQakphMnpnalpadEJxMVdZb1FpUU9saEZVbVBUNzNJaWR5TmFKc25wcWY3T0RGLWtEdERYbDA1U1NqMU94eVZYWDh5MVlITklfd3R1YThzR0xoUlJWaXJZSXdoNU1TeUtZRGwtc2RvN0tlSHp3NE9zZS1DTlZsNC1mWndldnFpejUtQnY4cUI1MVRGbjJreEtndGF3MkpYaTNEU0JqRlU0LWZpWERObktiQ0hiQzVSbElFd05PTkRLdF9ESUpGc0RvQms2ZTUxeVA1SUo1Q0FjZkNpeThL0gHcAUFVX3lxTE5yT1ZzVjhsSEduLUlTTXo0WkRXOGFYaE9TRXRrLWFhNGxLNWFYY0FFS0hNUU9PVjdRdXZCdEJDUTZYU2lTUGlpazJidVZpWjVFUE5OcEJFWWdiRU9EODNRZmJ3U1JZZExVV2RGSmtKOGhGSlZPTG5UcUM3OUd2Q0RobnpuSjRjMXJPVHhmUnptZk9oUFBVVThiSkltY3dhMlZIbTRIclJFRTRlUEwyZWZ4bEF2c1NoWDlWMnB5aWowSnBCTkFsal9qd1pmajhRT2Z4dnRKWmZtbnplM18?oc=5",
+      "fecha": "2026-10-21T01:07:49.000Z",
+      "temas": [
+        "fiscalia",
+        "procuraduria",
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Benedetti y Angie Rodríguez, en problemas: la Procuraduría los investigará por esta razón",
+      "medio": "Minuto60",
+      "urlMedio": "https://www.minuto60.com",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1pWaW1nYTlrSG13MVMtU2cteXhuaDl4SmdxN0Iwb2t5cDFqRkZmNDNWcXpMYlhQWHFEMVFONEtpeHEydXV4TEZKWVpFalctNG03MVlSNWZLUks0c29ON2VTUzNnMjlzbjlPS1dpMlFUQmRIM20zT2Z6amVIRFFqM0NDQ25ZSmRPbElkYUJfdzdjUDk5TVlUTkY1RQ?oc=5",
+      "fecha": "2026-10-21T01:01:45.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía remite a la Comisión de Acusaciones denuncia contra Petro por el presunto ‘Pacto de Valledupar’",
+      "medio": "RTVC Noticias",
+      "urlMedio": "https://www.rtvcnoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlIWlFGZ0RPVzJBTXA1R3Z6SzhOazRKcDZFZDVBTm5uSTlqWFBWaUpUdV9SUF9EcGstbms1OWxPZlVqNGxQdEdMaC1ib2RueXd2cG9NOUd3RFkxQjRGTTFxTVNiR2dDUWcxUUFRZkxpSWRYX0tZdGJjMkhlRnNNem5ab1dBV0VXTE5CcEdjYXVDbnk2aW9CbEFoWTJwODlEazhFX0N1dy03U1pEeTV0N0F0c0YxUQ?oc=5",
+      "fecha": "2026-10-21T00:07:27.000Z",
+      "temas": [
+        "fiscalia",
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro deberá responder por el denominado ‘Pacto de Valledupar’: Fiscalía compulsó copias a la Comisión de Acusaciones para que lo investigue",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTnFPRWtHZklLRzZldDlTem1xRGZYZjdLQnlqRm0tbmZyQ2VPMHRvYzBOemxwNGVUTE1tRUdzRjkyVTQ2YWM2VmRZR0tGTUVVNjFxcF9lODByY1NMaXdzUXVjVEFMd2JINFZmZS11ZkJQcTVsT3phR2UzZU5TblF4VWdidjdNQlpGZTFxY21EQmF6Wmo2LTVDMWZJYVVqUTFMb0o2ZXBYeXJtc3Q4dGJCQzF4a1Uyclg3Y0JoRlR1TXNERElLdGxDdzZUTTdkRjhoRTJiaXpLYmk3NzR5cFRzUVEydm1HbU85eWZ5c3B5cTB3LTcwWVZfTVVWXy0tbDkyaWo4R2hhZFltb2RVNXVR0gGqAkFVX3lxTE9haC1HWUhQTnZhSjQ1NnU3eFRCSlQ3SUxLbk81T3NrX0EwaDVnZUJpaDI1NV85OERoSkJZTThUb3JuYlVjTkd1MUk4ZmJJSWZsSkIzVHRhWDlTWll0T2Q1b2ZyWWV2Ri1iWkRrLXprMlZWZnJHWEJCWmpYa3JRVDgwNmhweHpNTWN5VHVIUHNIV19ZdTBobnh5RURBMk92RFphelRPUzF4YjRfVkwwSWRaZWw5dUw1M05mNllWaVVtVWVILTVVSkVNbWlIMkxGSVU5Zm9VdXNfd3FOVVAyNUd5WGNSVzBYZm1sNTJMZDRGb0lUZ2x1RlhwdFRQTkVwb1EyNWtJcnZhQkdpLTcxUEwtdHl6Qll0Mndfc0Q0ZTZLc2FydjRvaExtalE?oc=5",
+      "fecha": "2026-10-21T00:07:00.000Z",
+      "temas": [
+        "fiscalia",
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Las imágenes del encuentro en el que se habría concretado el ‘Pacto de Valledupar’: así fue la reunión que tiene bajo la lupa al Gobierno Petro",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaElsMTdwejhmZ3E1ZXcwRTNNVGNaS1hPcjlqcjl5R1BaZDFySkdpYWFmU3Q4eVRsRlR3YnRxd1VhanpWeG5xUlBVeE8ycG1xSW50UmtPekd4dlI2VThONnJ1Z1J0c1VELWYya05BZDBSZkM4cW95QUNTQ2R4Q0NQdU5DQWR0aVJINmk1YW52dUc3Z280V3czMHdVTnJxdTV1eTBKSlVOaGItVnEwOEJ0YVR1a2lDQk85MWFjVmZabVJ3eFNWWHFPaW9fYk81RUl5dnhVSTF2NS1WVExTRWgtMUJZOUZZQllpS3BEeXhNVEVTLVo1Q3Q1WS0wMGxYZkZESjR0bmJFeElBd1FaLXBfbEpiQdIBrgJBVV95cUxPYXN2ZFJMZ0Zvb2FDRXA4U0QxSnE3emNfVFY3djNISWk0QmZzYUdKcFVhNmpVY1lqYkNTdmoyMTB6MmYxNXg3Tl9JZTE1M09kQklpYTBJWEx1VHNtLW1RWGJRc0NKOGZxX1NuSEoxM1BsaHlndFJHT2NlSmVQSENUOXpyUlZQS2Z2bG1UMWViWExsSjltUG5nMXl1Yk1YQy14MHZNWVlxY0NVeEVJd0l0VFF6SElsVGhDeTRZN3VBMnlYdmVqM1JsRF9CanVsMUdVX3FPSUNpcmh0S2VCTnd0azc4MzJNT00xSWNYTlNlaWJTWGRYazR0cmZtcHRidVlodTFrYnVqYjhkWFJ0ckFiUHdjcno5anpma2ZmcWRNY2hTb3RIZWI4MHBHX1MyZw?oc=5",
+      "fecha": "2026-10-21T00:02:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Gustavo Petro tendría responsabilidad en el presunto pacto con exparamilitares en Valledupar?",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQk1ObmEyVGZJOEl1T2dJaDh4TVFsRG1oTjRBQ2U5YzVZTXM3OENiNDBwaXBGMWNnNUlFWHMwZFpaU1FfRnR6TGRZdHdSdEYtR3phaXFpUTVNd1Z2dDlRc3lNbjNFZWsxYVhfQ1FlcE5SNmVkaXdXOXM2MzEzYjJvNWlMRDVfVmFuMFZaMjZURnNTUWNhWmJlUkdLT3B4X3dsNkdsT0xrV1d5YTRWeEgtMU5nRTJrQ1VISGFVZ2h1dWxRNjlwVDg0T0x6YktUY3B1M1Bn0gHTAUFVX3lxTE03ZnlpWmo2VXlYQzVBVmtZZFU2cG4weExsNUpNN0swa2tJcDF0QlVhRnhRNkRpOTlLTHhITk5VQ2ZJcnRRRk5qdkQ0RktVbkswUXBkNmNTbTE2b21weUt0MllkQWZIdnlwMHVtai1Eem8xdEkxZElYZUpVV25KZXhtTkRIQnN2TFpRRV9tNE1zVWN0MHQ5c2xKSzhRcU1FYVE0WG91OHBJSDh0bUVjSlVtZUEtSDhJM1hzTzdFVkowLVMxV0VwMURrMDRtalNld2N2Vzg?oc=5",
+      "fecha": "2026-10-20T23:46:57.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "La Fiscalía compulsó copias para investigar al expresidente Gustavo Petro por el “Pacto de Valledupar”",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ1VlTklRb1dSMXFjY3BsN1dfdW9MeWtQYXhHY3NPdVpuSUdCWVhwWHBoQmhmZWh3YTVjRHlpYXZCc1FxOEtYZExSeE50Ykh5ZThyRms1cEhnYW1UNjB1elRqRVpfNVdwNDRsNGhqc3VOVjJGbVVvV1NpRU4zaXRvRTdUSzhiZTg0SXNMWWZ2ZExJdkJ1aEtuTWlSTG11SXBSRlNVOEVFNElNYlVjVHZBV1dRT0NlWFlVQnNlV3luS2o4ZEMyd1dHY2VKcVAzZXk0OG9EYUt1dTZRUVg0TUpWMQ?oc=5",
+      "fecha": "2026-10-20T23:17:41.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Angie Rodríguez y Armando Benedetti por reuniones del ‘Pacto de Valledupar’ con exjefes paramilitares",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWRzUjB6NnZlalczR0w3czNBR0pnTVVuWFZlbFk0bFNhaEhoaVM3MWkzMFFOZFhsQmdrVnhqemFGbXlWVW5fQ3Y0T0xSQzROQXhKSUVkWDRZYllJRzQxc0pBSTVHMmo4WFM5ZzNkMjJUOU02cG56MVBDWmhCUHVkOFV0dVA4X29WVWxQWVFRSk5kWlNwQTVlVmtwa2ozSmx6dkZDNTd2RjBCcGozTGJnbmJiSnIyM184dE52QS1LSHFlOTg5XzdLVDJsQdIB0AFBVV95cUxQNjdqUkxCdDVSUDR4alBhWlZlWmdHLVVKR0xTa3JxVDgxRzNyMFBDS3M1Q1dnSE0xZXIzdkowQjdKTUNEbndYR2o3RFR2Q2xsNWJUblNlV21HelY0UDBsRnRSbW5hT2pmZW52SFZiMmMwTWppd3ZMXzhpRno3aDdaMFk0cWxpeklCbTFXVElDTnFubVJnRFF4M09hckdsS2RxY0JfWmJaYW45RGxPUk1tYUY5azRCUnAzYzUyTHUzdzFneWpxSE9xMkJFZmE4UVE2?oc=5",
+      "fecha": "2026-10-20T23:06:35.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Angie Rodríguez y Armando Benedetti por el presunto \"Pacto de Valledupar\"",
+      "medio": "El Pilón",
+      "urlMedio": "https://elpilon.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXlYak9YUTl5c2tnSVp4RlVFVVEzajFYcHBWX04xRkFnSlNvUWpaWVNCeGpGUlRnVlRnMzZKbWlMd1RESzZCWUNLbW45TDhzMzhGR2FWYk54ZGN2N00wMFBNemhTTFNNNThNMXZEV1FMN2tFQy1wMjcxTXB3YTdONWdacVpnckJsdXlVLW5aeFVvSWVldE5yLTB4UkRvc2g0UjBvbzNJZUFtV2xDVm9WQS1JX0lWVmoxNW1DQ2tIQWdReGpQSXc?oc=5",
+      "fecha": "2026-10-20T23:05:58.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía tomó decisión sobre Gustavo Petro por el llamado ‘Pacto de Valledupar’",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVJOc19vM2NMNFkwRWpEWHRRNVJ1QlZ4RERJUGZTVlJSNVF4bXlpdWpqMzlnUzNqQmktYVhCc19IX1U5XzlrbUk2RlphcHdMWnloUnJmTHBhYlFCNTB6QTlqUW5lcmFGMTRIYkdMTXh5VkRSaUVUTnVyTXpCVkd4VUNTRURLWVVGYmZzWldoUzFBMFRxNFNUVmF6VlgyQ1Rk0gGmAUFVX3lxTE9yN1liOWl4WW82dzlDVGsxNjFFbjhPUUFIclQ2eURia2t2d1hJcTIySkFjSDN1ZWV5c2E5RFVDOEJhR2txRlFfcU82VEE2RWFYUFVHdTdSTTlzRHJ5VGdDLUNYNGoyOGxWbUVwSjF4TG1uUjlqTFdXWTlINDNDck5vMmk3SHMyNEJNcWxWR3VOQTdNY2NzdGc5bzA3azlQOWdGSVBkVVE?oc=5",
+      "fecha": "2026-10-20T23:04:15.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría abrió investigación a Benedetti y Angie Rodríguez por presunto uso electoral de exjefes paramilitares “Pacto de Valledupar”",
+      "medio": "Focus Noticias",
+      "urlMedio": "https://focusnoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02eXlFTjd0LUlxQ0ZEY0VPaDN0UmxIQkRvb1d1X1lNQW5IN3dqcGxUQ3FMd0tldHRUeGRnS2lraU1nQXlPWFhkSk03YVYyeDZVWnIwMFo4TE5RcjkyUVg5Qi1CTXRiMnNCeV9oUEUzdkxmTGkw?oc=5",
+      "fecha": "2026-10-20T22:55:58.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Qué Es El Pacto De Valledupar Y Por Qué Generó Polémica?",
+      "medio": "RTA Noticias",
+      "urlMedio": "https://www.rtanoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlVXZ6YW9mSm10VDl4UTV3V2E1LWlNbF9XRTdFSnZGc2FKOFljTXBaRTR2TXVDZlhqM28tOVkxdklycXhEV296ZFpNWTFfQXlldndGbE5MeWVhMHEtTk15UVJrSUtDMXhkS2RyZ2RhSTJQQkIyRGp5OHJGOEw?oc=5",
+      "fecha": "2026-10-20T22:51:57.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Desde agosto, la Fiscalía compulsó copias contra Gustavo Petro por el denominado Pacto de Valledupar",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGZFQ3QyWS1xZUdJcXh1czNCbmFRNkRPeWhoVVZCSWd6Yy1mZ2FqXzZ2VFZyVnNDc041S1lja1pZc0JlYmhTeDBBaHpQZmlsSTNYMHAyQ2lyOXpoV1lzYzdwQjFGNnZRemFLcUtQWWp2b2NGVjl6VmFTTWN0UU9zVUdDdS14bFE4VzI3U2tNWGVIZDNZTGo5MktwQml3WmlVTXo2RkxFXzBXX1JhSG9CcDc5ZjZtcmdjMHFhMU9WazQyRjVJTU4tUlVyVTlmdnZoV1FZUG40Q2t1MERHMDVIbXgxRdIB6AFBVV95cUxNSElxRVhxV2MtVXlTTlB4MVRZQkozbmxZeExFMFNRU3RHM3BDdW44dGxCNE9fUndXWDdILXNFX0huQ0pxajd0QlVJeC1xcGhYY0JsSTFnaHBMclF4bm0yZjVtQ0tvR2ZSZnhuVWswZW5HdkxVcnFfS0RQNEpDYnRMNHV3enNkdlJCQjlrNms4MDNkUEI0aGQzRjRHMWJkT3pvVkkzcW0yaGhHTWQ3UVgzNDVmZWF3V0UwNWNSeWpOTExNVlN6N2ZCSEM3LW83ZDBQcUVsQUhULVk1N0F6MEtwT1NuemZzWEQz?oc=5",
+      "fecha": "2026-10-20T22:49:52.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Hija de Germán Vargas pidió investigar mención a su padre en el “Pacto de Valledupar”",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXJiOVA3VVltUkxGbnRXVC16bkZPVW5hZjloUUNyczBpMXc4ZjhtWG85SkxPYTJ5MTNMQ19ubnVnVmJqcjVFTDFUU0lkbnFpbmJqVWxWRWQzbmJIZWFGcDFGdXhxVkhJQ0RTSVlrWmMzYmItZDBtcktodmlZU1FhaDNWLWJEM0lFdG4teE45ZjRGTm5XQ2lOWG10emQzWlF6dzBSdnYycm5BTHFaTDRONXJmQkJxUzhsVFHSAc4BQVVfeXFMUFJPUm16aHh5VWZacmlKdFh3WHI0a3BLWU1oQXQwdzZ4UHFXQm1IUU5HR29YR1VQNGtfa3hYeVU5WldidHlPRVp6WXJOYmNoVXFrdDdsNlpvRHh0N2FvYWJxNFlSQ3EzSW01bDBZLWpGa3EwLWR3TWpwOWNyS1dUX1YtTE9XOHRNU01VcVpBTUtjTGIyYkN6YXNZRU9HczNFTVM5QXc1bkd2RWZrYWZsWEJoSU9OaldBU0IwN2VuZTlQSVZVUnM0SGRxZ18tNGc?oc=5",
+      "fecha": "2026-10-20T22:45:20.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía compulsó copias para que se investigue al expresidente Petro por el ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3FIOERVSDAzNld5dXhuLTlDSlY4bGV3c3hLeXZkQ1ZSRjg2RnV5MkRLTmdDYlN6VnAwNEhpd1FDSzVRMFRUckpha3hjU01SeVNIUWVuZ2xhMVg0XzZzMXpjYlFnUl9xYWJpa3ZDQ2ZyMl9HYUdiWThvUVN3dmpXanBkZ0lMcnRHMUhneURBeDdFVEVNTi1RQ3ZmRmdKQzZDYzhnUkx3VG5BbWh4Z2dpcG5lR24zeHJHd0Q3VW96QnhodXREUllUdHM4ONIB3wFBVV95cUxQQXVZMkZzMi1oLVpSZGdKdFo2T3NhLXJxMFhuSDM4NXdoOFk3bXc1WXl1OWM4NVBTVHNtOTRSV1VKZndLUTE5U3NsV0dNbkFTTjI3TkIxTGxMWVlHckJ6Y2hCMVJadjI1UGdwdFB3ekhrZzRjSlYwOFpyNzFHUmdEMENMOGFTa2FtUWJsRnFRTWd6ZTZBMmc5X2lyV3NSdnpOMzVCckV2X19WaWV1dWxpMHJJV2Y1RkE2a0QxbnRULXRjUDZKU2t4dWhoanJuaklJSGlZMDNyeTdYaVFlVE1B?oc=5",
+      "fecha": "2026-10-20T22:45:04.000Z",
+      "temas": [
+        "fiscalia",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Qué es el ‘Pacto de Valledupar’? Las reuniones del Gobierno Petro con exjefes paramilitares que desataron polémica",
+      "medio": "CW+ Noticias",
+      "urlMedio": "https://cwmas.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0wwemFfbHI0aWNVRlRPUFNsNkZwLURxek9BdW9sMWxGRUs1RGp0S2hLWndqY3BxRERmVmFWZTFVbWNhZVkzbEdobktjSnpJejhFRkZOM1NkZVJ3UGdqMEZYTlQ3VGx5NGQzbWNWZWRBc3o3cTFEazZqSUIzWUFwQVRYU1phMW1OejlZR0ZLNlRXNHV1SlZVb180VGdFNXBWOUFFNTRYWUVCZ2hzWFY5YVlCbGQ1NEk0OWdaVWxBa1N5UTZWUlRMZ09nSVNWYk9WZnhzSlY0T2dpaVdiei1KTXJrcU8?oc=5",
+      "fecha": "2026-10-20T22:44:47.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Clemencia Vargas pide a la Fiscalía investigar el presunto pacto de Valledupar y defender el buen nombre de Germán Vargas Lleras",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmNBMUVnSkh2dU5DUzZWTHBWaFZLUHdWbUR5dGxxbFRCVTZvNnZfaEdnaVNWZEY2TEZhWDcxOTZBbEc2eUgxRnFfRmpRVVByYlZiQUtkaFdSOWt1S3lLZWV0MFBFZlBvSkVYZWFRaU4tc2ZKVDFaWXlySVctNENGMlRVXy1hU0U3UElvcjVDTzhncVN0cTA3cHU4bDdtX1JLNFo0a05qYzNwQnFHQi15WWhQa0JuWHdHa3N6MmJ1a1VBLW0ybWZVbnFXcml2R3pab2xJS1hpRDNwdnU2am5yOEh5bkp6VlVUcXJHelVJTmQ0TXBtVFJBdDVLbzZvMEs3UjVYWmRvN0HSAY4CQVVfeXFMTkMxVHh0ODh6ZWgzQkMybjhXcTgxeEFqU3JRU3lCSUtQYmlicGhCSVladmFaSnNIWUdkZXdPZFJjR192VXJweHpXUHp6d2E4V3BrblVaY3ZwQ2tKTTlBVkhtUzJ2THlyVk04dzhnMVpyb2Z6dE50ZWR4cXg5QkRvZk9vbWRVSVRlZnRIcWd6VW9Xb1dpWXRMYkxaR21Edmo0SFZCZjdtUm1zb2pFalJqeXhsMWFXS2twVDQtNFZCNmJFaU83RTVvRmRDb2xNTnBMcVN2bm41QVdpWjI0S3hkbjZxUDl3aFgwTGlmNU1FZHdlaF9oUzFxSXBxSzdkcFRyOHQ1Snc4RlFMUTJ3MUdB?oc=5",
+      "fecha": "2026-10-20T22:35:47.000Z",
+      "temas": [
+        "fiscalia"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Denuncian al expresidente Gustavo Petro ante la Comisión de Acusación por el presunto ‘Pacto de Valledupar’",
+      "medio": "Focus Noticias",
+      "urlMedio": "https://focusnoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTk5c19sWFJwSjF2LVhhUkhiY05aSll6dm9rMENRSndLOTJIbDZEa0tiZ1JQdGFhN2hMVHV6S0R3QVJsaHJ1bXhCNUtzUFlpTUtmQlF0SC1EYm5DVjhDSWxMOUo2el9FOVIwbTM3NXBYalE0VVUxRi1NSXJZWWZidmlSMy1BZ0NXMWQ2akd0aDZGT2doMU84ZVZrTGVFUjJVM0xoaW1kR0xPUVJUckozdkRGU3A2ZzY0NjhDSTBpWGNQT0d3aFV4V3Nzc0Y?oc=5",
+      "fecha": "2026-10-20T22:30:58.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Caso Pacto de Valledupar: Procuraduría investigará a Armando Benedetti y Angie Rodríguez",
+      "medio": "CAMBIO Colombia",
+      "urlMedio": "https://cambiocolombia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjZfSDVKWmZ3OFo3LUZoV2NpelhLcHF0NzRGU3VqSlVKX0JSYi1idFFmSC1mclYzYzliX1dxQ1NqSWcwVWRObndzczRacFRVX2NjSDFHcU53b19XUmxZM1d5eTdSZnhPSm9YQ25CR1d5RWRIeW1OZFFVbEY2N09PS0FuUEltZmtvQVhPd2JLT2RLZWFYbmFYYTd1alltNXg4TEtDeFFicjBydmtKVWNoVkd4WkE2NjZJd0JwaE5ScnRacUFJTWhVMWlUcmZnYVZpVlhB?oc=5",
+      "fecha": "2026-10-20T22:17:36.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Benedetti y Angie Rodríguez por presuntos ofrecimientos a exparamilitares",
+      "medio": "Diario La Libertad",
+      "urlMedio": "https://diariolalibertad.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUg5eXBSNENzSUw1ekM3RTNCaEg1X0VvYW03LTc3dThrTUJfbXpBYVRxLW1DS2NCUW5oaGl1X1J5eVppZi1YcE1JNFk1c2djcU5EeUUxUG8wRjd0NlNiR1FkT3NwNGlrd1dnc2ZxdjhXdUpDVi02RWRIY1hIOEtfbjRObjFSLU0xNEdCZkhsakNQdC1CMm0tZkdwdko1Tml2bk5FMnQ5TVBGSUR6bnBCeFlWRldLQUpXYV9kdko3Zl9UamF2N3RtOWJ0c0ZrYk1fcW53Zml3?oc=5",
+      "fecha": "2026-10-20T22:10:13.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Gustavo Petro fue denunciado en la Comisión de Acusación por el presunto ‘Pacto Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc013ZTNYUDU3UHdFeXRlcERUM2RHWkFweHV4c2FOemo0Y1dhTWZMZWhpelV5Q01CZ1g1ZDJqaTYxb0hNMU5pWXR1aFpiTnVJa3FCSi1yenpoWlY2bnRTNmhQLXNiNW95R2MzY1k5WnBWblFDWmxCQk5XcmZOdnFTR0JOZVRIQ3U0Ulg2RURWOXd2LWlhQlJNenU0WWNIWnBUZ1lfYU5BR25FNWhMOVVJb1hmbVBES3EzNGM2cTljY3RSZ9IB1gFBVV95cUxQdVJ1RThVbkctbU5INVN1b2VnN005azlodGtKNFBzNkdQcWFLT0p6WHVTdFFSa29BOVpOSl9ZZVBVdDZrZkVOV0NaZERQOXd4bVRJV1hOeDVPSkVFU1FvWmg5alFtbV84T2JqU0ZEUUFBWlc2aFlQRHIwVnpOY2FPb0RVRGUxV1BOM2w2T3gwdUVRSm5vWDEyVWw0WWRqVE9RcEhmSkRsNVJ5SHhuM1FBNTNoWmtCekd6NklmTG1TQU1NeFNQZWNGaEYxMS1HdjlTQnFnYktR?oc=5",
+      "fecha": "2026-10-20T21:56:35.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría pone contra pared a Benedetti y Angie Rodríguez por caso de Gobierno Petro con exparas",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ3hoMFJtSzBhb0NTZloxcjlPc0lucVpfV2U2eGhPVFVwTVVtdVZHZDlfRmxWekpvUUFhcXJqQ0dGSGU4TDlaNnZ5eE53VGtCc1Vzd1BnTE1QYjhKaGRMWnZIZGJtdnQwWGZNeUdHdXcxSDdlQ2NfajhROV9aMDZYTVlKa1ZlWnJQQjAyN0k5VGlMcWdmbW9Kb3FaRXdSemVyaFlZWW9aTHJqMk9aRzRkMmJsTdIBuAFBVV95cUxOcUJuS2xiT2FZUkh5ajdyOWY3cHRlUHdjTDQtUC1ZUWlBTWp0Mi1SclIxdWVfRVZDS3hiRDdpZFcwa1FmNFVLYThUZzdLQXRLdU1wNFdnWFJ3bkJfWENUalBEVy11bkJmbnVhdlQ5cWtLSWhrUXhIb1lMcFpQbzA0d3N3UWpHNTFRZ29IREx3X3VUREJyZ2I2TUNoTG16UGNHMDhZeEp3UnNjLUtGNS01MWFzdXlBMXho?oc=5",
+      "fecha": "2026-10-20T21:44:58.000Z",
+      "temas": [
+        "procuraduria",
+        "petro",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por supuesto plan con exparamilitares",
+      "medio": "Noticias Caracol",
+      "urlMedio": "https://www.noticiascaracol.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXg4OHVvWlc1VDBPZzhVT01LLUJwb0RkS0pTSVZnY2lxdVRSVXV4dXVlSEU4b3UyLTF3a25RaTJoZUMzYlUtclFHZG5aM25Cb0xYRjRCNUV5OThyQUtadlo4ODdTcnNpRGE0VTZSYXg5QlJ2VWJSLVpfbVFJa1d2Qkt2RDZTR0twbDJURGNWRHRLd2lINnRiNGVHYXpqVG82alh4N21LSnRqTGFrUmJtcE1wckRheU9OdkR2b3l4NjFseUN3RTRFUUpzeEJXV1Z0cGtFcl92Tk50SXBq0gHqAUFVX3lxTE56S0poZmhpQVBsc3VYZXNZbDhScV9uV1RIa0pBUDl0dlN6R1NLQWU1NnVkSXJIQ3lNRVpFLWZxV1MwRkZEbmZHSXFvbFVMWjVvWDViSjVMYmN3Rl9wYUpZZWswaFRnVUxJNURESmo2Um9oeGYybFhYa2FGdDNpYklocEJRY0VXSFF6SnExY3VGNXZCSGlKUXRYaFE1Qk1NV0w3RjlLX0I4UmpLbHJYaUdid0lBVGlzbzJCbEpBelBNRzdBeERUYmVPWm5PWVdJcHprcklYVTJrLXZlQWRLa3pXV0ZKTmlDLWxmdw?oc=5",
+      "fecha": "2026-10-20T21:35:38.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
     },
     {
       "titulo": "Pacto de Valledupar: Procuraduría abre investigación a Benedetti y Angie Rodríguez",
@@ -62,7 +1035,170 @@
       "urlMedio": "https://cwmas.com.co",
       "enlace": "https://cwmas.com.co/poder/2026/10/20/pacto-valledupar-procuraduria-benedetti-rodriguez/",
       "fecha": "2026-10-20T21:27:47.000Z",
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
+    },
+    {
+      "titulo": "Procuraduría Investiga A Benedetti Y Angie Rodríguez",
+      "medio": "RTA Noticias",
+      "urlMedio": "https://www.rtanoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82b1kxZVUydGs3dWRvVDF3NXdOQ3NQb2xnMWEtOUtUdWZQV3pQVU5Rc181dEhWMmpldjFPaFlVSnhJYjQwaGI4WVFKZXZ2b2c2ZzhHdDBiTnVKZWpYOVRWUVpoTi13QlRUYzZjRHVIeWM?oc=5",
+      "fecha": "2026-10-20T21:00:00.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Le llegó la mala hora a Petro por movida que hubo en el Congreso por el presunto pacto con exparas",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblhoeU9JMUwzWFFXMlYyaGV0ZDZRaVAwZWdlNUFLdEpCeEJiWGdLeDQ5R0JvX2VrUG5TSWVXT0gwcTB2X29Zd1BlTHdyMnJIZU5oR2Q0Xy04UlRaZ0Q4R3F1Vlp0eUhBenE0N29na2NyZ3ZTTEtQbWYtaGNIMTd2dTdOdlptWUVhTkh1bUdHLXNITTkzY2Jj0gGcAUFVX3lxTE1KQXpzd21GSWZmSGRDalpOWDJHMktQZ3VocWJUWXZfNWg5STRaMnpTT2tpYy1yaWlJSkJQTXhBZlJHVHpfR2JRandyVzhnRGhaNVc5MXV1T3QzWG1VeFZ3b3ZlTWFUOG9DY056U1REaGN1bzA2alV0Wm1OSHlNQTV3VlV1RUZ1ak96bXNrclBNcHM5RjVIQzZONHZOWQ?oc=5",
+      "fecha": "2026-10-20T20:56:37.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Álvaro Leyva respaldó a Angie Rodríguez tras las revelaciones hechas por el supuesto ‘Pacto de Valledupar’: “Le creo en un 100%”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWGFTVEdkRFhnbEpLY3hhbVR6Y01vRUpKZ09XYVpRT1dQcF9YRmd5SFVHcHVZd3ZQVkdZR0gyeVRKTEswcnJqSzBydkxrWjNxUThtTldQUzMxNThYOF8xRjdpa2JoV2dTVy1aVmFtOVd5MUJQRTNlYXE5SHBWc1YzR0UtamxTcEJjN290a0pwTC0wemx5Um1lZU9GYXh4YVRkMU94elJXekZPSWRxMlk4MXhXRGhuaVBvTlY5a2QxUVVoVFZKeUV0amNrRFV4eC0zdXNPWllUTjBvUHlPb255c1FwNjdNaEF1ZGlxOGJBb2g1Nkp6WjBqemJMd9IBlgJBVV95cUxNS0VBRUhDWllodWs0RVZZeXhnak13SzA5dU1FY250OWFXVE11cXlXWGJvMHpsZVZFcTVtRHVycW5NUkNhUDRJY2lHalNBd0pKY2l4QXNsRzdKWjdSNGlEbDhxblFORHdleXBlSDQ1NzJ3VWxhWUhRQmtCOUs4cE83UjZEMkdza040WkNrRzFiTUpaZkpMQmt0UUpqaG96Zlo0blIzZUFvMGJFdkRobVNXYWVoTkd1T3p3UWFuNUtGTkViZWVUcXhSSVdPdXNYRnF5eElUa3lFUGlaM0hmUWtSMTNuUFREcWhYTVh3dDNROW8tdHZGeEtjSlhSRU40WVhpaU12bTRMbXFVLVZVM0pfN3pZZmlXQQ?oc=5",
+      "fecha": "2026-10-20T20:54:00.000Z",
+      "temas": [
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por presuntos ofrecimientos a exparamilitares en el caso del llamado ‘Pacto de Valledupar’",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMjg0b3g4VmM3cEtXUGRXaEFEMzdoTm5qbGdXQnM4dDdmOHh5YWFJalJ6OW9xSldkT3g1TXJVQzFyX3lCZnY5N0tSZEhxTUtZZFZKdGpHWG9WYVJseVV5TDZSN0tJUW5ibFRjUHJVcS13cVNKRTBJUmV2OEpTT1ZkYTNzREVlQUVYRnpUOVkwQzktVVJHRkplOUx6NHh2M3ZENlJCdG5id1V5ODRLQUp4UGRwVkNrMXVTVl9QVnphVzIwR3hRSTg1ck1QaVpRMWM0RDVHTlczZmJxN2E4Q1RBN2RrQXVvTHRjM0dhaXhScENZQUVsaktXSVU1cVNYZy1yM3VSSEN6RnpFTVZCTXg3U2I2dENyU21fdzVtV1RNNNIBugJBVV95cUxNVnFSYVRVaXpFcVVVdTFrQTNweXlnM3NkVG8yMVZuUVQyWkNEMHlSNXQ1cmZHN3hqeF9xTkM0bVdpa183QjA1RXMtRENpd1VEclhTU0FtVDBhTGJUNGxkUGZ3VEZtWWpuMl9iejFHWFY2N3lDWVdlRDV3amxqQVZOU1hSVE1DYi0wRWZ3bWVoYVNvVHpONlM4cjA1Sl9Ra2lZVjJINThiUGRhR0NEeFRUUTRBWHRXQkpEYzQ2RkF4cFhWTnJHakgyeW95UVVfcDN4aUt4a3Q1TzFuZzBQaW94S2IwUzQ3WnFuRGg4NEZWbTRHQ0FoUW53aER2SWZRelEyY0xxMHRmSEpDZG9Vcmp3djhQM2pRTlU2WndXZVprWG9MeVBFMURNdHh6UEhFT3A1WmR4RlpscmstQQ?oc=5",
+      "fecha": "2026-10-20T20:50:00.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar”",
+      "medio": "La Silla Vacía",
+      "urlMedio": "https://www.lasillavacia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkg4am96NkkzT3Y5bWxKeTFjbkJBUXVZb2l1eVlkOHBBenI0aTR1X2xESHJNcmI3bmpDQmR0QWx5VTZPR01wWU94UkMwdndZTEZZTzdRbnZtU09jN0JGUElLcXM4cnd3b1J2YU1wYXdJX2lSekw4WTR2NnAzREJJRjhBV3V0QThvZkllTVpMTnR2WWV3dDFiRnQxeWR0d0NPQjNHYw?oc=5",
+      "fecha": "2026-10-20T20:31:09.000Z",
+      "temas": [
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Pacto de Valledupar: Procuraduría investiga a Benedetti",
+      "medio": "cablenoticias",
+      "urlMedio": "https://www.cablenoticias.tv",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEdWVE0tN2RQWk8xNzlEYkwyOXA2cEwxbFd3bVVuMkNhUXg0ZzFsR3MxVFJKcmpNUF9vcGFlbmxVR0FORkJfNG5oZElHOHZrNTB3bk9nWTZiSVotaEs1QlJmMG9VUEVhZkRtOEZhTEpjdEUzcUt4aHpLaFFvd0JwejFRXzdoRTlZRFBmWE5wZlVqbnZ6U0xmVENfNENMS2VBTkp0ckF1Nl9zdw?oc=5",
+      "fecha": "2026-10-20T20:29:09.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Así respondió Álvaro Leyva cuando le preguntaron sobre lo dicho por Angie Rodríguez sobre el pacto de Valledupar",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV1g4cDZ1OVZKSno0ektzUURxMEhjUkl5RlAyUWEtYy1RdHlCVkt2TFdfQUJZaEc4RDdOb3NNWFNSNkpBalpSS1ZKTjlVX1hVRkJ5Y0JpVERWM05paTBUSUN4czJVQng5T3hmRFhZckhUQkpDVGQ5N09YOS1XRC02cl9CbWJaQ21OeTRKckI0Y1RqMmI5RTRsakIyZXBpdmlkalJLR3lFNVFnSEZ4SzExSTJVN1lhYlFCT21JaDBDb0xoSXhnUGczSm11NGJYQUNpRml1ODdVOVZXSlI3eWNud2syQUlYQzVocFBvbUc1TE51UUozeDdneUZ6Wjhic2Nac1NFNzR0Yy1sa2fSAZACQVVfeXFMTnJoMDJfRU1jang0MDlqbTlZRDRJSlpIdTZ0eE1uUjVHalZZYzdmRjVZNmFQRUtKdUxfT1g0X2RhVlYwWlQ5WllKbmtnQ254MkNYS1dFSzJ4MGtJSEdBUlphSlpIbi1uc0xRZmJ5dDRlRk1UM3pjWXcySEtKbmxvYV9KX1NGV3lIVnMtd0pwbFI3X2o3SndlQXppeHNfLWNJeGF4MjhOd1FoRmp5Sy1MVElwVXpwU2NZbjg0Q2dIWEpuaFowU0R2dllicUNyNTRtNm83RFpvZDJ4VFJxVnVoMDBMcDlaY1c4T0NMSDJjdzJJY21HbGdSNFNQOXduVTM5aDhfbXNZMzZSNTR0VEp4aUQ?oc=5",
+      "fecha": "2026-10-20T20:23:38.000Z",
+      "temas": [
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría abre investigación disciplinaria contra Armando Benedetti y Angie Rodríguez señalamientos del ‘Pacto de Valledupar’",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRDhYb1pRS2pKVXhRcWtNYnVSOWRKY3RENDg3ZHppUVEwT1hERE81cjlJcm9lQXE2WHpvMWZMNnRYQkJyZVVub3NGSGJjTDZsZE14ZXpoMGdYcWhPZnNDbmNTMTBWWFEzank1ZjMwV21YbjhUeDByRXl5OW5YVkwwRUFLN0NtVVhYS2Zxc3RXVGJYT1VmS01yczFfcEUxNFVtZFJSc2lJY29VS3RNZS1EVFNJLUFzRDVrUE01UkFmcmF5MDhpUUdwRTBURUhNaENNNHlHcE1ybWRtd1N5NVFaLVNQNkI0dWdwUnBBYjMxYzFfbks5THZYa3d5bkRaTFZIVjU1UEV30gGGAkFVX3lxTE1VX3RoaVM4TFM0V1lWTHhJb3pvTE5DSXVSeWxaUmlTODJyem1tcy1tN3FnWnRPS2hSRTRXcG9FNHd1Rmo0Rk5sTzd3QTFBRk9fMkpxUHE5ZnZ2UGhVTXgyNUI3TzlYNjRDSXdzXzQzSVVaRDhCc2VjQTV0cnJTdUo5SkZaS0ZDeXpKX2xiUG16LUZ2ZTZ1UVZxVjEyMG45a0JOYTZLUzVXdl9adzk4ZmNOb19BQjdrSTFqc2ZPN0xkUEZTUHVUbTlHdHJlaW5IWnVkcXdEOVFRYk1ULXliOWFOdWIycU9NaDBqUVpQeHVndWFWNUhobUpwTlJaZG1NRlFhbHZyV2c?oc=5",
+      "fecha": "2026-10-20T20:23:29.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro niega Pacto de Valledupar -",
+      "medio": "juanpaz.net",
+      "urlMedio": "https://juanpaz.net",
+      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ad2ZOX0ZJZmk0UEdMdlhLUk8xaXBiMDZyaDQ0TE51YURUaHdLV2RDT2E1c3g0MEJ3TS1sQmUyYWVGOUlmMjFXemZPTFNBaUNIeXQwM3lFajRnSWg1UERtSUZ3?oc=5",
+      "fecha": "2026-10-20T20:15:13.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Investigación contra Angie Rodríguez y Armando Benedetti por el ‘Pacto de Valledupar’ está en poder de la Fiscalía: la analiza un equipo especializado",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDNLdURMTWQyQVpTakJGSzlBYW9YckxpdkJTZHZNc2E2U0ZIbGhjWS03TklOVE1LMXVlNFFWUmlkVDFlRVNtQTVYeGYwekF0MDMyaXhhYzJEal9uY19PWERxTDA0YjlDeFNuYnZ6TkdWS01ZRURXVjQwM3gzRzFxRkVaaE5GSUNLd1RscE04Q3lnMXAwV1BNaHh0c1c3MGlfZXN4RVc2QmtheGw0ZnluLW1HdkpWdlRIWEpCYm9tc3pXYmFiQkhiYTBBOUpOUQ?oc=5",
+      "fecha": "2026-10-20T20:10:29.000Z",
+      "temas": [
+        "fiscalia",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por el llamado ‘Pacto de Valledupar’",
+      "medio": "Chica Noticias",
+      "urlMedio": "https://www.chicanoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sTkdaY3JQNm83MndSN08xX1lILTN2dWdkbGlWMnRLcXExZjJNbmowVTAyOXNteHhfOUpOODdsb3hrS25sbjFZalZwOThOSW4xa2xybFh5QTZsZC1MTXJBY2FoMVE2WkhhbnFpdy1BZnhLc1JiSWFEbEZYZw?oc=5",
+      "fecha": "2026-10-20T20:07:37.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Benedetti y Angie Rodríguez por el ‘Pacto de Valledupar’",
+      "medio": "La FM",
+      "urlMedio": "https://www.lafm.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3htYzUxQ1NIQm1qUGZnZXB2Q2Z5VWF1XzQ4X1lPRUtEb1BzaVBHbGdvZVdJR05Eb3p1ZU1vR3oweFBxdkwwZHo1clh1YWlHcHJkTkViVDhveURuQ3FPMFAwQ01UcHUzV1ZDa2drQUlLV2JUQnJqMzl4XzExNXh2VTZTcVJoSVRJSWxuVU04VVgzSUh4V0J2czBhdlhpVEtEOWlndVRNMHFUZEXSAasBQVVfeXFMTkp1MEMzM01jeEhrWkFHTXNLak1WUVVlT0lLVWV5MFI0OVVadjZTV2pLWUpCRlBsSk5TMThvaWM4RFo4X0hRekVSbVRlTUR0QUlqLU9uWDlQWnJhUzFmNmVWaUFpZGlsNGdMMlo0bmFDbG1HcXNGSUNrMk9uLVBvSlVLaUY3QjVVLXVvRTNqNkV1SEdSQlV4dmp2Z2NVTUtENWZScDZIWE5wNGQ4?oc=5",
+      "fecha": "2026-10-20T20:04:56.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investigará a Armando Benedetti y a Angie Rodríguez por caso Valledupar",
+      "medio": "El Nuevo Siglo",
+      "urlMedio": "https://www.elnuevosiglo.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTNkc1NlYy10ZlY3REN6ZVgwNG9vZXZKbVF1ZVdDYmxZOTh2S3psMjdNR3R6SDNuREZUaGhmdXVRYlJpQnR0YlA2Tzh0eVo4d0ZHTWtFMHpuMGVQQzBfZmkta3ZyVjgwMVl1YTRjR3M4OUp2aVpiczVmWXExUlMweDRoUk43ODlJMXZNLUN2VDR3TnMzYnczZzdEaUhhdVk5Mk16V0R5TUowZ2ZPekRTWmU4eEZ2VWgtT1Aw?oc=5",
+      "fecha": "2026-10-20T20:03:37.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
     },
     {
       "titulo": "Procuraduría abre investigación contra Benedetti y Rodríguez por caso \"Pacto de Valledupar\"",
@@ -70,7 +1206,256 @@
       "urlMedio": "https://www.elespectador.com",
       "enlace": "https://www.elespectador.com/judicial/procuraduria-abre-investigacion-contra-benedetti-y-rodriguez-por-caso-pacto-de-valledupar/",
       "fecha": "2026-10-20T20:03:00.000Z",
-      "temas": ["procuraduria", "benedetti", "angie"]
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ]
+    },
+    {
+      "titulo": "De la Espriella y Benedetti: el Pacto de Valledupar y lo que hay detrás de su pelea",
+      "medio": "CAMBIO Colombia",
+      "urlMedio": "https://cambiocolombia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa19VVzdkNF92bDhIZ1Ntbk5nS1JnREpZV25jb2RhaUJod2YwWXdXcUVpUnVjNVkwVUU5OTI5ZXktb0JBaU1vdGdENVc2c0dQcWRpZkxYUHU1cUx1Sm1PTjJ6NDlJd0NGLUtvMTk4cjdVSXRSeC1jdEhYRkhqTXQ1UlJoc0UtR1BBNW9WMkphNUt2VVo3X1VNVUdHcS02bHNFTlc4c1lPOHRQd0N1UHRweXVxdkxzVmlYeVR5SmFxRTZYaHhvM3RoWWxqR2FZY2c?oc=5",
+      "fecha": "2026-10-20T20:00:00.000Z",
+      "temas": [
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría abre investigación a Benedetti y Angie Rodríguez por presunto plan contra opositores",
+      "medio": "LA RAZÓN.CO",
+      "urlMedio": "https://larazon.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHFnRDJJWUE0Sy1zODE5SFFIeVNPU3ZlWlRvOVIzeWc3Q3I2NVJXeERrUWg4dHlnX1lhb3I0amt2YUZ3WGc3aGhxM1FKRXR1amc1SlhuS2lWbnFVcVFBV0QwRkV2R1E2ZWxpWjlHcmp3VDJRbHd0ektMT1c0MVByWnBaMlI4NUFpRjl1ZmhKUTV0NzYzSDJvdXlodUNBQ2JBZnJLTFNpUFh2bHJyUFEwR2dkMzVQcmdj?oc=5",
+      "fecha": "2026-10-20T19:57:53.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Investigan a Benedetti y Angie Rodríguez por presunta instrumentalización de exjefes paramilitares",
+      "medio": "Blu Radio",
+      "urlMedio": "https://www.bluradio.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1NhQmMtLXRPTm9MM3lmZjdnd2NsTVdxR0ZlYy00VVlpQmZ0WXJlcjQxWjd6Q0xUbGhJVzE3LWwwdGxuVzhqQl9EM0d4WWg4aUhodHJoM2hHbm92dDBYNHRpUUZQc205UEdTcUgtZWJGQ3d1c202RDZiRERZLU9JVDB2Y3IxcV9lRHB6Mk5ZN1NpaldsN1NfampmNm90UWRuS2dyN3h0VWZ6MmRUOGNUaGs1UlIySTRfQnJhVkRKSl9idXl5ei1OSWVpYVAzTG1zaVQ40gHgAUFVX3lxTE5kVU9UdkpudEVsS1B2aDJNRzNFRFRSN1BVRjMtMDZMSk95cFdXdy1oS3hsODVRbUZCMzFwMURCcEk5SUVDRDdueUpoYVRPOGZRV3VxdkRKUlFUQ3M0S3RGbW9rRWZOcjRYUWZlM0xGWGFPeksyWm9wbmhYTXJlZzJrU25rcjFmaWc4MTY5WHBFNDUtRVgyanBDN0hUSkR4VnVqWkxIWWJhNXpfNjVEekE3anJNeEN3VDRsRl9RTlNsU0lDb0duaWdmaFJDbFBPUFhZX1VKUmo1bGw3MlBSZk9X?oc=5",
+      "fecha": "2026-10-20T19:41:49.000Z",
+      "temas": [
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría investiga a Armando Benedetti y Angie Rodríguez por el ‘Pacto de Valledupar’",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLXBDb2xIcFJBbWYwVDNVWHhBSGRyQUpoRFdQc2lVbm83VW5adlB4a2hkNG1OM24tZjlxak1ZWEdIUE5kOVhBQXhCakhDTGIwdUFNeTlDaC1GUGlDbUl4WlEtVXB2ZlI1bHJ0NFNQaFVERGNWWF9FWlBrNHIxdEdkYlJvU05uenpPeGtMX2VYc2FWaUhub0JyUlpWSmJEdU8wYUxBZTZIWmFtbVNHdnFzeVJvUkNvV3hDX3lPMzRTNWR2X2xEZFBSVjg3QXpRby10MHFPQ3QwQWs4dGQ3VjBtNtIB4AFBVV95cUxQYzhMaXVmMTVoWUlISF8wdXBsUDJDWjlpLThkSVJIZlkzd3VGTHFsdXluVlNVR1VDSWxod0huYlI3S1lPblhlWlI0Q3RIOTBxS01zT2lUTnFuUFpkVm15ZHdFY0RtTHM3dlJLMXJXX3FYcXphOXF6NkI5WlZTNi1GVVgtUXZnNkNUUVQ3QUtUWDM3OFhqZW1HU2ZYUmZsd2I2ZXEzdi1LSUJqWXBxX1lON0tMcUlpcWJzOWNtMV91TkZZZmJQeVZJRVNvVUlUTzBYcXNIajI1QXcwLUFEeEZKZg?oc=5",
+      "fecha": "2026-10-20T19:32:24.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Gustavo Petro publicó documento sobre el llamado ‘Pacto de Valledupar’: “Garantizar la devolución de los bienes de los paramilitares a las víctimas”",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOOWJ5UTZRNzFldTNEclVVVmhybm0wc3FfcHpkRUVtRWRGVkRveHRqaTVsUVZodzlJb25WeGxOVVhlVjhqV215aW9qOVRjU3MzMWNIQkRwSmsyMnEtVUVJVHJDQWdCa3hLTmlkLV9iVFp5d2psbTZUR2F3dGNZNkM0bG9fS3NGa3Z6bkE2aGNrOTI1dERYLVoyQ2l1ZTRORkFQcEtqMTZTTlhXRjNLYVhGSlhNOV8wQ2JoVUYwQnA5aWNnRXVJaDZFMlg1dFE3d3o0TEdwVlFhTXduSmNjemJPNUxEVjFjTVkzbHZ6aHEzMDNjNjVZNERsTV9SWmtYZzJkT0VjSkRUM0tnMjEyVXRaM3Z1WnJZVjTSAbICQVVfeXFMT1R5ZmpPcDZBQ2lVTURPLTZRczdrMFlGRUJidTJXN0hxNk5LdVdWckNfX1FUTDFHMVVGNEk5czJxS1VEbGJxU29DcEtrcXZaRnlER0JMSGxsWE53dnRPTXNhTExheXVXMHZ5N0dpajMxQ3BNNk5yQkoxM3RKaVUxMFAtZEljUWNER1RqTE5DSjlMNVF5YzBvT1BDcFV5c3BKWXk2cUNMcXY1VnM2WVdJWjAwOV8xQWZWS0d1ZGs2cllHOVVtVHBlUXZHdlFpRlRMVzRGcVducXQwR2d4OTVFSl9pWjh4MmhpYjJMZTJNQkxGSHNUZ1pNcG9EaldJQWNRU2xmSmFWV1RnQXhNaXg1VWVMVnd6VWVoUTg4cWJLMEdYdkhVbmoyRkJUU2ZDRnJhRk53?oc=5",
+      "fecha": "2026-10-20T18:51:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Bancada radica denuncia contra Petro por ‘Pacto Valledupar’",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aamxyM0xWZ2pINmxUMENycmZrYU9qSDFpVVFHenZQd1IwX293WG14c212bVM3M3FBQXEwRjhlVXpGM2VqTVMzZ1lhRC01SkU2WW9TZV9acXFkeTYxVkR2Unk2LXcxS3VfLTFXUHpqNFJodHBWM0swMzBhSm4?oc=5",
+      "fecha": "2026-10-20T18:49:44.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Bancada de Salvación Nacional radica denuncia contra Gustavo Petro ante la Comisión de Acusaciones por el presunto 'Pacto de Valledupar'",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmZRMDVNUTJsZmU4OWlQQUVwcUhKSnV3ekFvNXZ1S29VNkxzTXd0QXFVMUk5ajNXd2l2VDhNbTBtZDJOMU0zNlREeHExTm9Kb25EdGxsY3NFUm1ubmRGSXFNQ242dElMSFpzR05lUV83Wk9qVVdEZ2xKc013MG9ERUdHVFYwRkNhekIyb3JNT2JVR3o0U2loZ0pBdGpVSUVaZUU3eGVfUkNKUy1ZZzNBZTdTYUFQamJiTTZKLUxhaWxxZElzOHc0TUd2cWZMbGMwc0x5ODQ1cGxZT0JkcFNlZlFFNEhDX2hPaWNDeExHdXI2TXlGU0JTdi1FSHl3RUR0X0JtV1FOZmVfblR1R1lMZFF0b9IBmAJBVV95cUxPN3FZck5lNEk1SFg1ZEFTemlYNVJzbGVBdm9WOXJ0ZjdtamtqMmpGb3hCb09NbzJzU2o1R2VHQ3NFWnlLZkZKbDQ1MXd4VUhmeE56NXVQSFNUc1NIOVNtNWN5OFgwTzlfUkxNcjVVOTF1dkNTX1lGaHdGcFIwcEdRN3B3YjVEMjNzdnZ0T2tYNGhVbGlSYndabktCN0tDaGtENmJHbjhTbDZsTUNzZElqV2I2MlVOMEFzelhvUjNqVVI5T3Vsdmc1ak5kMU9RMXdzZEFmTHNsMFFuTmpWWHVJLWk2dmZuV2Q1c09EalhNYUdjTGpuUGIteDAzT284cFlHd2FMejR1TEdRSXdlT2tGNkE0X2w5RmJS?oc=5",
+      "fecha": "2026-10-20T18:35:49.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Lo que el gobierno Petro le habría prometido a exparas en el “Pacto de Valledupar”: excarcelar a gestores de paz y hasta revisar extradición | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTRNeUJxd0hkYnd6UlgxaVpPOVBmLVQ2emFrVVBxTzVnZVpmZXdrRmJfQm85SndJOWtwU2RsREFWaW1FU053SmlkZlptTE5fLXNJdkVBOUx0Um1qVkR0YXFnNnVFV0ZtenN2RUk0MFNtbmFabFVoemZPU0VsZ2xMQU9LdDhyWEdNM3dHaGxXbEd4RG8zX1h2NmNUY2tZUEJ5ODJFYXMxd2g5TWtSVmhTZzB3SdIBuAFBVV95cUxPV0w0a0pWZWktbktoRGNlczNKR1BLUE93NFZScUt5UkRIMDB5NVlNdERwRmd5VVhlX1haQ3hYaTJDY3lQcTVvX09FWTk1cWNNc0dRUkNGQ1BhLWN5QTNEc1JjNGp1SlFzc0xlYmZUNFJnSTFLRERRbW9ULTFHd1JIM0tJdWZVNUhMcTZmd1ZnRE5uYUYtMkE0dDdZSDJENTNMQzJjUlZacFlJRlBwVkZ6Ym8xZngyNm5h?oc=5",
+      "fecha": "2026-10-20T17:46:45.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Detalles Pacto Valledupar: Oferta Petro a exparas vs Uribe",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODNJM3lfVTcwb1F3cDFQcjZpM0h4WVJDTXc1eUpwbmtYdmtlZHFuNlp6S0pNLTBmaDJiSWRQRWZPbTVxT1VDb3NjMW1kOTV4UFItcWtuRGlNNW5fdTdGeVpIS3pzQldxb0wwT1FBSXVwSzNXNnhmOV81b0tQSGh4Y2xFNA?oc=5",
+      "fecha": "2026-10-20T17:15:07.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro publica documento del 'Pacto de Valledupar'; esto se habría firmado con exjefes paramilitares",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGFsNjBnY2tlZXJ4UE9lcWhwWk45TGs1LXN3dkhGUldiY3JRckQ2VHZiNmtOeUZyZlRXeVhWU0FuV2gyN2duUHlqTXB2bE1hSTUzc3ZVSWF4SDZBN3c0cWZzaXlzMElwN2w1cGp1bFBObldUR2VzZ0NWa0FBZE0yb09HSEtwalFXT3lBV1hWRnZvVF9aUnJRUWo3VGZGazVsNjRYYdIBqgFBVV95cUxQWmRVam1FelRCcVZXVW52OGRaeUYxc1YwaWZVZURzbUo1bk9aNTR1Tm1QVGhxQXZiNWo4NFN1b0tyZnNMQ3BWeHVaa1AtWlF3NDMtSEZHLWpveXVhek5QYTZHc01nSnJjNE1kaWFNNXZsRlJpaWtxb0ZwTWF3VFBPQ2ZPSjdRLXBBM0VWNzgzS3JuVDRKaGx1c1VLLUJCaWlUSXZjaUxxY1lEUQ?oc=5",
+      "fecha": "2026-10-20T16:44:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "El documento que no se hizo público sobre el 'Pacto de Valledupar': los compromisos entre el Gobierno Petro y exjefes paramilitares",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaXBDdy1HbHd1ejNwU3YwczNOTnFrRmZoYVU3WEFmdEZ0b0JMQ3o2eDVORHdwcVE4UVdKQV9LcTBpWlVJWGtBZmgzcTVoWmR4V0lLMHhva3JwdWRrb1hSemF4RWVCUFJvOGNfUE56YTJPTzZZSndmMEdEVXJ0cTViRXNIWWktd0haQTJZRDhhRHI0ZmZxanFabHo3alJyRUxrMWZWeElHdG5qVEpua0g5djdkcG1mTVFOZm5iWHhVNGNpWExDYVdiY1l4NzgxTVpraE43M2pWZUVCSFV6MlV5WThPQ3E3NjJyaWt6T0plb0hwM3RYLUhUY0FodDNlQXItc0NtY180aW82Vjh0OEMzenBB0gGXAkFVX3lxTE90VTV5R0xib0RKdFJGNEFmUmRTa0RBUVNLQVF5blB3eTJ3X1BUYWFGcEhhTXg3Nmd3OHJDVWhnYXEzNlhNMGwzRE9MMU9uNWE1WGt6aVYza01DTU1fSHllUnRIZzVCNFRYWkYxa3BJcWJzUEJMOWxYSTJlYXgwNTczYlQzcmNHNzdKMUFyQUxKNlRGOXdEVjlVRXZiWnhFVkRIZ3hWM1hMS21MM0Z5T2l6ZTI1VmlWaXJNQWJVVWhJTjMwaDRDQjR1ZTZXTkFBNm50b2RINTBDVHNMcDdydTl3MldxVXZLQmJnNHRBcjdMemtwbW5zVmpXRnFTSm5vSTdoRElwa29VTVA5ZlFvZVJyaWpCMXE4RQ?oc=5",
+      "fecha": "2026-10-20T15:56:05.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía investigará a Petro, Morris y Benedetti por el Pacto de Valledupar",
+      "medio": "El Nuevo Siglo",
+      "urlMedio": "https://www.elnuevosiglo.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa25hSG1iN0pQUVpxaldXNy1EZzh6V2F3Smx6LXZHYTRiQ3hXbVRlTUtvMVdkY0RaeE1uUHpabjN0c1Y3WG84ekdnLU1WVlU0TjJPbEVlMzFjMkIyMDczdjBZUGxETFdUdkZaN185a2s4X08xWVZtb3Q2LUhlamozQXlWSjNxNzl1bDRNYVJsZ3Vqa1Z6TlFLaUY5R0J3OTVqaW1QdTZXY1pGVDFj?oc=5",
+      "fecha": "2026-10-20T15:36:08.000Z",
+      "temas": [
+        "fiscalia",
+        "petro",
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Qué es el pacto de Valledupar y por qué sería tan devastador para Petro si fuera cierto?",
+      "medio": "Fundación Paz & Reconciliación",
+      "urlMedio": "https://www.pares.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3o3bVZ0VWlaOERVV2JVcUk4YWNDWWN3Z2Z5d1ZQQkl2eklrM3otT1dPOXRlYW43anRuR1l4VlE2SUxTZjI5a0tKbXN5TTk5ZG5sRUVOWF8wM2FNQjU0SF96enQwLXRkTUQ3aGtON01lU0gyblZ4RTFtSy03WnNab1FfS3FaTGstTDFwdFVOTXdlb1NQdEdqY09PZU5HTkxFaXlNXzJiOTZsY1duTzF0bVlKVQ?oc=5",
+      "fecha": "2026-10-20T15:33:51.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "‘Pacto de Valledupar’ planteaba excarcelaciones y cambios en la extradición de exparamilitares: documento habría dejado en evidencia plan de gobierno de Gustavo Petro",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNEJmOTRhNU5KT0tHclVILVJrd0F5Y2ZxTFJFbzZaNnYwVFJFa0JLdklaTkVJNHRVRXZrZlNnbXlsQXVUY256VGxaNG1JRThxLVFiSTdNSnZxT2ctZTFFNy02bmlEbGpiRlNxM0d2Q2dURmdkNjFOREFIVUd4dE4tdDJTdFVTUXBNNVNGdnBIRHFoM001WnNZaE90a29ZOHNJYnVQcDFnalBUbHBpLXJlX2lZVUJOcEpacnBFSkx4eHY1VlZJWFJvdTJ2bTQ3R2NUUS1CdTI2UzhqYkdCeFVLZ3FTRm9HYWZwUnF6Yi1kYjFydndvOU5KUU4zMFFlWGJzQk52cFdReTdTVjFVZk9aZmw5UUVjZUdzUTZ3TzJjRzQxbm1EeGhyVndDS2xPZzgxNFHSAcwCQVVfeXFMUDhBVEVzVjRhVW1GUWppcjYtYXU1cVVsdUFSREtXV2ZQWEY4NmVvVlUyZXFyWmVQOGM4a1pBUTVuZUtQTEpxTlZOdWxmUnhfdEpFT0VJY0VhQUQ5T3VJb2NTOEtKbmdGb2JHOHctZlZiY3JkV1hhbjlkREdySWRGR1BuZmJTYUNfc0NHVW9JckJiek5BOW5jNmZTQzRLeWdaQm1JWVl1WGthX3ptdGdmZGxsTDN4NFZYRExmbEplTjVSZWM2ZklRVmYtTWx1RnRPcGV2aTY2eVFZcWNwOXRja3hGZ1N4cWxJQ3VIRFJPWDVkRi03ZWpPMUR4R0MwVFJaeThfN2RMYXg0bFRMQ1Btd0wzV3dGRVhkR3o4Q2dBekxhZkxlTUY0ZEx4Vi11VDMtcW0zUTdBeDhpTE5Pc0o2YUZjZ3FLamlvUUw1X3Q?oc=5",
+      "fecha": "2026-10-20T15:04:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "El pacto de Valledupar | “Para él, todas las formas de lucha son admitidas, así sean ilegales”: le dicen a Petro",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmEtbVJLNlFnVU9HcHlHQWJyM1pwMUwtSHA4QmxUM1ROOG5wbmwwY3JBdldBM0pQZEZObktHS3p5RjJaYk5iUWo0NkNFMTRGSWU4dktsWU5NS08xT1ljakRPazlEZ0RCb2dFRVVMUjBGZk9DWkZSR0pWODNpejhfWnJzRHhTbGZEMGpRYXNYbUUxTGNBb05yb0NSME5yR2h4eHJzVGFCUW1CaGR5NXdYelYwamdRWF9YOG9WVkVQcWFCM1ZneEx6d2pFNlQ3dXBQNXMyMUptdHFMU2o4eDFXZUE4ZHlSNFNLRUhxY3lwSzdtQdIB9wFBVV95cUxONmFMNGJ5NE5wNFpOU3RiYnJvXzh5NXlJT3BPTVJwTVZQM3RJY3RRdjN4dHkzSWNmM2dWWGV1ak5VZmlIeHRjZ01mWkIwOUMyTzY1ekFYeTMzMG5zNXI0RFh6bmNHOFpUVWVUMEF5c3EteUQyTDBYelJMMWlRam1CSDdEc1VOSlJNejE4Y3JGckJraVByZGxoSGM2U3dHaFEyQ0NvN0lEbGhLcVg4VkUzM1JuV0FJSlBBa2pyZEtPQnQ5UG5WRU5VaDhqczBnQU1XRWRBOUFaVFNXV0RUUUwzUnpMNFl0WVMzUENmaldSQXNqY2ZMcnRj?oc=5",
+      "fecha": "2026-10-20T14:24:11.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Explosivo documento revela detalles inéditos del ‘Pacto de Valledupar’ en el gobierno Petro",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWJ5VWJWYS12cXZneS1YQUY3TWFvRmlEV2RmUGxtbjgzU212eUNXeDRrSk1tM3BfS0VSeGo2bUloNERsQWJiNDN6X1RTTkVHZVNrLXZaU245SmVpaWJxXzJEQVdGUUZyNnBWdUdUcVVKYjVxT015SVhEY2hMbjFVVnF4TkN6Ml9lZS1iUEtyUVdhWDVOOGRaS3FYejl4MkFXS0ozNXNhSGpkSXBMQnZCck15RkHSAbQBQVVfeXFMTzdsYnZTVjJqMFNNcTRuNDBoWjAtUUR4YmdTRXduZWxCanZFeHlNajVXMnoyalV2YUYzWEdSc0NJaWVWOTFiUG9wRlRjSXRqSzZqQk9EMDBqYVZJb3FYS2lrR1N1aDJ3eENfV0RrMnhrUEM0d1pZZmJ3TWNuNG0wbE95VDRvZnc2XzRsLUZYcC1oTndhdG5USmlWRHVKN1B3em1YQW92SzVjcVJXVU5TS3BkbFEw?oc=5",
+      "fecha": "2026-10-20T14:12:27.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Hollman Morris habló sobre el Pacto de Valledupar y presuntas presiones a 'exparas'; aseguró que no hubo participación de RTVC: 'Investigarse a fondo'",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNRW0yZGd5N0JmX1didXZzNXRqbHR0ZHVwSV9ZcTdHYkpld3lNWDdLNkYzdl9IYkUxa0lMZXJxUGstVWVTeTdBNGRwbEROd3Z3RWJmTXdERlIwU2F4Um9aYm1yUEZ3cnppcnF4NFBlbHg4RXhiN2NCanhsWmlaLTRzVjNHb2JjZnNXU05GSVd2VmNBN1lsUXRYU3Bjd09rT0xrdktCdXIxYXNCalhEc3dEZEM2blFGeDZIY3M3NzVoUVRjdjBKTkIwdUdnamJMcnhOc0FrQ1pTSlcwSlpwaGVxWjk2MXhtb1VsOUpxS0RjSHQ0ZzA4WnR4M0J1UzNFaEMxZkhKd2UyZXVhMnFzcHZVN29HM1ZOSG5KUGFrTFphMDRYSjJVc0JURdIBrgJBVV95cUxNb191YW5laWFjTG90bWxsV2JfNTAzcnYtam1uUm1ZeHBSeU1JclRwZDNJQXNUZ3Q0U3hoc2o0Nm1hRXBzUDU3RmxHbDVLdlAycUZJZEkzMVpkTEZma0JlVlQ0Um5aRm1IOHB2anNKd19mWlA4VFV1T2dHMGhtQ25QUmhwc3B1Uk5ncHFlOWZOZXlhUlNLWEk5RHVuTmpDNlhhMmhuOEUxYnlWQnIxMG5fbF9ieXdMN2ZTc0hoLWhiWUF0dnRYa25MV0VWczh5eGRHNzRfLV9vNkU3bF9FamFFdUppTE5fcjhWYkNJNGRnRmNDQkx1YW9OdERtYzNBMXo4SHVEZjJvX3VhWENnLTB6NlVOZXdma3N4OU1VSnMxMkM5QVQ0Sk85VWRCOVF2QQ?oc=5",
+      "fecha": "2026-10-20T14:09:09.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Hollman Morris detalla el Pacto Valledupar y exparamilitares",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJsUUFHbHV6VU8tZWVDcGV0MXgxVF9UZFV3WGlQRVlqUWU0cTdOREVaU2Z2b0RYREVBLTdYTWY2R21LdEN0RU1yWXpzSmxzUU5Xc3N5RzNsODlUbjB3N2g5d1dzczRrM0ZmYV9lbE9oRXlaNVdsZ2xWVmVUWkZLT1hjY283Q1E?oc=5",
+      "fecha": "2026-10-20T14:09:09.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Hollman Morris desmiente relación con el ‘Pacto de Valledupar’: “Buscaba entrevistar a ‘Jorge 40′″",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFFueE9sUFoyVVBvWVZyam9XRWc4aFV3VFFHTEhkd0Y2Q0twY3I0cGVOcDNjSVlwTmZ3bTluS1c1cjBidTdydUgtX1VUZl85aUVpRkJVYjk1bHdRbnFkdGtnem5ucEJqakllcWVBTm9CX01hZjlhZll2QWx5cHZmYTZrZkpGRlhZaHh1RENMeUpWczMwUm5XTW5iMnVUa3JsSnptbnBWZWt1SFZUZG14S3hOZ3J5T3VOcVhnUWxjeDUyWmo4QkRF0gHbAUFVX3lxTE1FRUp0Z2FJbnF2R0I0bWZGUzNRdWI5WDN6a2lkOEVWQVA2ckJxUVpQSlUzTnIyMWZHZ1RhQ05hcnNZeHQtZGJnR3QybjNEWHhlTUI3Z1RMaUlmblFMR0VxNmtHdERKOG52T1JESWFGWWZFZi1YMkhuSG5pNkZxRXZrSjUzMUFxdTRBMW10QjFzZ2NpVFY5WXloOXZHZVZMZ0V6R1kwYklxX2VpYmFqTlQ3VjZfWGFDdldDT0xRMzl3em1XbnA5ajJlV05uY2h6QmxzanhsaDJ4c09wYw?oc=5",
+      "fecha": "2026-10-20T12:01:23.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "\"Un montaje contra De la Espriella\": revelan detalles inéditos del polémico 'Pacto de Valledupar' del gobierno Petro",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanlXYTB4RFV1S1d2QVc4ZmtpM3VSRVREdXF2Y2JBV1Q4T0lPd1ZmVVY4azNiaTVVWkdBU3lvWmZYb3A5N1JkeDBrZFNtV2R5STdhOXBCZkNtTjdad0pFS3Bwck9WTW56NkhjZmFFeC0xeDMtUFo5MnkyUTRPOTNzeUVBcmlxbnM2LV8xTUNmVzJtS21fTUdNTjBpS1d2cC1hUW1mMTBMWVpkUdIBrwFBVV95cUxNaldXa2RkanlnNWxGcnpxNWVuUEo0VXNLUllubC1YYUpUSER6MllxYm9aS201Uk9CMW9wZS1rMi1iN0FPcVpxR2diLVRKMGN5ZVhsX2pabzZaakdVQ3diV1lxM1BnX2RjcllYb1ZmSEs5RG42Wm5LWldEM2xBYm84Smdrd3ZNcUtKbjNMSExEbnNYbWlHNDAyZS1NT2JBLXdyQUJSZ3d0QnVRQlRCTEMw?oc=5",
+      "fecha": "2026-10-20T10:48:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro niega presiones a exparamilitares por Pacto Valledupar",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmtkbW93T3lEYXNmNWk2WUlnX2R0WkJOSE5uQUxqOGV0bEF6VEhyV3FHSDU0ZGdJbFRDWEV6NDNVMWFneFM4TW1YWlJhdHdTQThlRjYyMDd2MHFUdVpvV2NuMFV6QVZOTU8wLUNvaGQtZGJaRkJ2OGlYbnNoWXVTcVpSOWdkUQ?oc=5",
+      "fecha": "2026-10-20T09:31:21.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "¿Por qué Angie Rodríguez no denunció “el Pacto de Valledupar” siendo funcionaria de Petro? | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeEczU0NDZld6N0hoUVpYMUtoOGxiZmJoQm9oeFNJUlJDTV9VcmE1cVI5Sm9OTVJKVVVPXzJhbnI1a0JuMGU0RXJZd2IyRmVsMFdJalJwd0thLUJMTFpxajhtU0pQTzFqOERSZGVVVlZxNWp3aWk2cXRoU056MnNOa3gtcnBwZXVsMFBZcVlpMjV6Um5xbkFkREp1bjVNZ0JBRjFmdmNidXFxR2wtR3lqTkJmWHpzSmxpRTFTYWZuZC1LVU9aSExndkJPSDdDRHV3Ukwtano4cWTSAd4BQVVfeXFMTjNFN0d0YkhLUzlkUmUzT0FIdk40SlYzWlB6bW5HY1Q2SkdCcTdScWZDd1dRdnE1bmpnZUQyQzhjQzJHMWFCb1RfdEhidkU1eXpLdURGWlZxQzl4WnF5SmhCNjBFWEtDZFlVUFpvdS11blItQjNUeFVJVlJlWklwMjlNZUkxVmVraERNb3V3aGpFRWdZUnFvQTFPZldBOVNicWhiM0pNZEdKbm1xR2M1OFpOa3pGbGdOVmc2ZkMtVE9SVDRBQ2JoVDJiaXVKQkozaUZGdVlYRW43SkdpekNB?oc=5",
+      "fecha": "2026-10-20T05:01:21.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
     },
     {
       "titulo": "En agosto, Fiscalía compulsó copias contra Petro por “Pacto de Valledupar”",
@@ -79,7 +1464,10 @@
       "enlace": "https://www.lasillavacia.com/en-vivo/en-agosto-fiscalia-compulso-copias-contra-petro-por-pacto-de-valledupar/",
       "fecha": "2026-10-20T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["fiscalia", "petro"]
+      "temas": [
+        "fiscalia",
+        "petro"
+      ]
     },
     {
       "titulo": "Centro Democrático reacciona al presunto 'Pacto de Valledupar': Gobierno Petro habría exigido a exparamilitares declarar contra opositores",
@@ -88,7 +1476,189 @@
       "enlace": "https://www.eltiempo.com/amp/politica/partidos-politicos/centro-democratico-reacciona-al-presunto-pacto-de-valledupar-gobierno-petro-habria-exigido-a-exparamilitares-declarar-contra-opositores-3594638",
       "fecha": "2026-10-20T05:00:00.000Z",
       "soloDia": true,
-      "temas": ["petro", "benedetti", "angie"]
+      "temas": [
+        "petro",
+        "benedetti",
+        "angie"
+      ]
+    },
+    {
+      "titulo": "Denuncian a expresidente Gustavo Petro en la Comisión de Acusaciones por el ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2lrQ1B1eWJUbTgwN0RsSGZCb1JXLWl3MUJ4VDVFMmtKXy1rMnAyR1pOdm1PUFFxejVBNXdsa3FzN2hSZ2RSQzdMUjd3Zk1CUUd1bVJScXdNX0tjZjBLcDhpdFJROHlwblp1d3J4bEN5YW15aUtSLVNxT2lmSnZPOHVaQ1lwVF93c1hEek9tbFhfN21RMHBtVjZEeEg0WnRlZWExdWhpdUR0SHRXTlktM3NZR2EwYVJzdkltYTVWLUtfLUVuOTVRYW9n0gHeAUFVX3lxTE5NTjBiZ010eFMyd2hBWU5HdnMyaFc2SWVoY21UdFFpMmN2SmNQQXNhWGpVSXVCcTVZbUN4UnZwM2JMNDlnb3lPeUFlU1JubjhMekYyV3BjOFFDOXZ5RE9EdlhEOVhjRno5T2tIWFYzQzhrSmxUSXVVY3VoZC11RG9LTXdpZFZKQVJ5OERqYThsSHVXdXRPRmVtSF93cTFVbFBVT1l4T2R2aWxtZG5qVVVhMkxYemZRRHFKeGxfNEJ1Vk44RFhGcjVnWWthYmVIZXYyVEJqNFhGdzlZRGVtUQ?oc=5",
+      "fecha": "2026-10-20T04:45:34.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Denuncian a Petro en Comisión de Acusación por “Pacto de Valledupar”, ¿qué piden? | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDZyMDdsUXBwVTdFbzNhX0JRcVd1RzFtYW9LalBQUDM0SW1PcVRsUExOOUYtWUl5V0w1bTVUb0xQdDRPV0lBNVRLZnUybkM3cGpBOTRiZUFlVE0wNVd3c1hISl81LV9lWU85S0lyQ2hjbUJZb0VNWWFGbVVfVDNIN1liamVnYW1tLVBOTnVjaVZJcm9PNmF2VXlxR0JGSTN2aVZMUTRWdFIxaHQtbjA2SU9aX21oWGZBOHh3bXlBdkFIR0HSAcgBQVVfeXFMTVpqSFZDRlFqVUV4SXNjSW5DbEdfNEVIdlVZeXc5WkoxTUlCRlFUSUFiVG4tdVJKU2ZkMHM1cTgtQ2VMYnhVZFN5U2psWkFzNGwtZnRxV08xT2lZbjRkcTlEcXdsNlZnNEVhQXRiMUx4OWdQcmFDRjc1NjJsMDIzdzlpZXMtczB1RGFYMk5rS3BxaldPY2JXSF92RVRlN1JINE1tRUQ4ZnU5TFVrWGNldTFoZDQ1TWxMVXpkdHRfWGpLVGItMlZnVjI?oc=5",
+      "fecha": "2026-10-20T02:58:57.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Armando Benedetti y Angie Rodríguez bajo la lupa por el ‘Pacto de Valledupar': ¿Cuál fue su papel?",
+      "medio": "Noticias RCN",
+      "urlMedio": "https://www.noticiasrcn.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzhwdzBLZGJka0RMeEdHTkxwQ0xDQ3AtbmdhbFJybTVGR24xTlQzT2d1WEU5djJiNmppVFYxc1NqYWpnUGNWZzhFbWNIMU5ZQWxsLV9yVGRYcHJfVnpUWXpMY1p3UGMtQ1d0WDAwVGE1RFE2TElyUlRZRTVyTG5mTU5lSk9SYUFwTENOd0g5SDFWdXhDREJMRm44YWg3X1k1OGdXZUxvNTBxd1ZOZTJ6RU5qSjN5SG1JS3dqQmNqQnFNb3dsODk4VTBydkY1QdIBzgFBVV95cUxPSE9HZlNjRzZkSV9WTHNmdFladVBCRW02SXN6UzFjQWJvVElMakpkTTlJazlHUks1NXpaaXVvRmR6UGxJMmRtb3U4MHM3NUVqUXhJYUNvaVdrcFRrZzUtY01SRWNHcXVxUHdpalZIVG1UQ1lnalJmNm5jendUZVF6bzFhaVI5c2Jnc1BBRHJLRXE3R3FvX1UxdVBYWXpDbnFpZWF5SEIzVmdaRjlZcHNWYldXQnpTdms5SmhkakVIRTNIV1d6NDNlcHllRkk3Zw?oc=5",
+      "fecha": "2026-10-20T02:15:14.000Z",
+      "temas": [
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Centro Democrático reaccionó a denuncia del ‘Pacto de Valledupar’: “El Estado no puede ser usado como arma de persecución” | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRPejFOWDNJUlZENl9kaWFXemIyVWZJS0szZTdRbThDcnZFSFBMeFJQTDA2RXg3bzJDNk9VQXN2REtZcThuSkZmZ2ZCZ01YWEhYbERFNG84dnB4dWZMWmtzal8yeEhyNWcwZUVWV0s3VTcxeU4wR1NCd1RsOV82VldHbU1oLTFxZHRXX09ySWY5aVFaeHg3blZ4U0pPRVZrVGxuT2lGc3lxdmtCMEVSRnFabFI0MmfSAbwBQVVfeXFMTzRYTkxXZGJSZ3JQLWhtSFlBNzdBcmZjaXF0ZFJTbEd3UlVrS3R4ZVU3RlhSeE1JeDkwZm9BYkJBa3BaVjFxajJHRXg4QnA1Q2tyOGM4bWllZlhTUXZkNmdxeXprbHpFWUF2Z0dlNGNZTU5UNUVMMlVHbkJ0OXZkMzk0Z0ZKaDlCZ2dfZnF4dVc0VmdqcGU3c3l0bmJxSFV5U09KRlpVYnZJckwxOHItakktb0VZb0ZmelBhQjY?oc=5",
+      "fecha": "2026-10-20T01:02:24.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Así respondió Iván Cepeda cuando le preguntaron, en vivo y por llamada, sobre el pacto de Valledupar: exparamilitares dicen que lo vieron en avión",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOV3A2UURvbjFSN0hKaVRGTXFwcm0xaUZDRzc3MEhSM0FiOWdGYUREVkZ1Q1I2djNWRnVuSmNJejVrUDZLRWJUNkhDbURGMXZ4VG05aXFaYTJEbDdfNmtMaDZOWU15aWk2YTE3T3k4Q3FJNzVHXzR6MC11S1p5TkowV19objlBeVBlRkt2QVlPakNZd2lraE5oUXlyZ3Zhd3ZSMzctWFBzTzFqOTJqeHZNQ3hENzJXb0VyZ1V1TmstZml2S3pnV3ZwQzl0SmF3YU5oUUYtcF80ZDIyRklkeFhzcUpjbGF3Y1p1OHRpQzhCazJKNGVMdG1uSEVoSWxBdDFVR0hNQ2pCSzJNdVlTazFMNEVNZTBuYjJuSlJYTEhSamVnVXY5TUpReWpfYUJ3dXU3MlY5ddIBugJBVV95cUxNaXpkbnViVDdWbVB6a0U5WUN6d1RBaTBMallLenp2OUh0RlpLRnpzaXF5MmZNRG4yaXpTSDNLUjJOWnlyU242OVRydU1JeTdCTmc3aGNlbVBNb1h1S3QtOGZJak5UVG53TmRDMllCSHZfNWQ4NnFlUU9ib2Vvdk9aaTF0SGhpMDB2TkktbjFRWF9wREpFS1YzbmxPQ2tUT1lrN2pwTnRZNG9abXJIYmhIS1FBSnduU0YwYlJBc296aEEyY09zX2ZPQVhJS1VuSnltNEI5Zm1xdDh5c0NTOGpYck5oWmk4eTNJQ1BtQ3l1MmpMTTBUZnJwWmhQRVJDc2NUbk1TaVNmcm9FMXVsRXhhU0xDYUFCWkRJdVdQMklQRzBqNUJqdVJlZjNydG1VamJISFptTW1FQzNfUQ?oc=5",
+      "fecha": "2026-10-19T20:37:47.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "‘Pacto de Valledupar’: Gobierno Petro exigió a exparas declarar contra Uribe, De la Espriella y Vargas Lleras",
+      "medio": "Agencia de Periodismo Investigativo",
+      "urlMedio": "https://www.agenciapi.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnhMUUtkY2NVYkJPdUNuVVltOU1OaW8wZkR1b2libjh6dTJCcnc0cFZBM0k3OEFHRjhTTVdFQXZhYjMyM29Ld3lIaEdJNERxU1piMmtWbElJaXNiNV9MaVN4MkpSVjVrNG5MLXBEdkVkaGVpR3lzcll3YS1nRTA4dWFrR05zc3pCZGhYMGRiSkF5cG5kYkFRNkM5Y1BOSXp6VERGN3lNSUxLc3VyQU1WckwxQ1Zxb3RjeUVZZS1EMmhDOUxQM3dDelprakEwbWNqenNtUHRrZ3pUZVlHUEE?oc=5",
+      "fecha": "2026-10-19T20:13:37.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "De la Espriella apuntó a Benedetti por 'Pacto de Valledupar': \"Ni perdón ni olvido para ese criminal\"",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDFkRG1nNlJEMVJkajJya3I2OVI5VnN2U0lTMkk2a0VaaG9WS3pVN2I0SVB5bktoc1NmSjk4Y1Q1ZE5BMjhnbTZwelUtT285STRCb3BQYkxxVVRmWjRxcG9VVEsxMFhqQnJtWHYybzJsZ0xlcDFQX0lnaUtmc1psVU9MSnUzS1JFVEF3ZzJXa3o2amlkUHM0eDM1U3k5b3JWR3l0eGRnQktCREZSdHJj0gG0AUFVX3lxTFAxRTFMbFA3bTd5amRWMzAyR0g1d0tLNnlIU3RiRHd2elFrUE5rbVpTZ09LTkVueHZrWDJ0RXRCUEM5V19xQnJhRTB5MzEyaGIwbUtlZ3lFSTljeW1SMmM2UjFETzN6R3c5aTJoQ0tEYUNOR1pUYVpncUJzTklnTXJDVHRQVXBva3RlWTJFODJCMFJYamZlSUR5RVUzSS01VjlJd1MxN3ZGTFRmbVppQllXQVBoXw?oc=5",
+      "fecha": "2026-10-19T18:33:36.000Z",
+      "temas": [
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“Delegados de Petro nos pidieron acusar a De la Espriella, Uribe y Vargas Lleras”: Mancuso sobre el ‘Pacto de Valledupar’ | El Colombiano",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2c1Q2EybTRyaWQ5MVJwSmw1STBoLVhrQzhhZW9YUFZRYk84R3hZNUQ4aDAzSnRQb012TGNoQW9WV1hlMHBDbjBhTmJQNFV3VXM4cWROR3B0LUJDR05OemRpOU9GVmJaYWw2cWI5YXJURHA1QkxicTdMNVVfU0FrUjdKMFpNUUtQdVFBVDZla0ZYSlBZVXpDeDRsTUFrZnlIczE1Q0RRNTdUa3pIS2lFN1lsR2IzZHdDVjZHS1Q5N3NJZXJOa0lJ0gHMAUFVX3lxTE5sTXo4ckx6THZ1bjVoWnJXYjFsZnlZdlM3NmZkenoycFJvQnVvRzJKWkFuSDJ6bE5QTUFsUFB4azM1OTJ0X09vd2ZyaEVIN2x0c3R3c1FqXzExTVgyZWhlek1iR1k4SU1YM2RhTFVmWURTZDlvU1N5UWtHdlNpLWo3dEc4QVBkbTk4X0JFSHRGOXNjaHIycWZjSzBTbDFUWlpZaG55YUtxME1wb2dRdWNYbmthb09ya2s3VjUxX3FzOFJLWS1YeDZFbVh3ag?oc=5",
+      "fecha": "2026-10-19T18:15:53.000Z",
+      "temas": [
+        "petro",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Pacto de Valledupar: Petro exigiría testimonios contra opositores",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXbTJNYXhfUTVvaUU3WHJTakVreGQxS05qQ0VwbU5ENzdyWEM1ZUFKRFhKM1ppdjViZTVwd3kwUmlPSDByUW5yUWJqU3BYNHc4dW43MEJTaV9VdFFEenFMNjlZTXlEdEVoNGZSa2xjbkhENWNnTFhXNw?oc=5",
+      "fecha": "2026-10-19T17:10:57.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“Ni perdón ni olvido para ese criminal”: presidente De la Espriella a Benedetti tras polémica por el ‘Pacto de Valledupar’",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY3NlUjhZY0taRU1XYW9KZExPVVBUeHhmNHpXUHhRUVpyVTdiWUNZMmROM19OTHhJVHlKRkxNR21DQUJyS3FFZTVHeFFTOGpiaE45SW9VUzJMY0ZzT25vOHZzWEdJRk1IcnFlbDV4WkNZNExzdXFoNnl1UUZMZFRyeVBWZjZYbVhBRmR5VFRpeUdydUEwM1ozRzBzWGYzZlNaTlJZWHlXaEc4LUpjS05WaG1MalZKeVNLRkFkQ2V2X2tMWHVfTXNfUk53TWlyQWNtSVJuNFJ1T2FpYXlYNVI3WVR0MEttUjhwTXJDLS1n?oc=5",
+      "fecha": "2026-10-19T16:13:45.000Z",
+      "temas": [
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "De La Espriella a Benedetti por Pacto de Valledupar: “Cree que porque está callado pasará de agache”",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlRJQTFMN0MtbjV6MGpmeU5XWWhFUkZpUE1wWS1TemJCWXVDVlhUNTBGRnlUNFYxRzF4TFhVMFk5YmpNR2xGZVh5NzdyWXR2NFp3ekFjU3EwS1hWbkkySDBCVkZreWtNVnlIRXhiRW1DZDZhWS1XeWNQaGxxakM5bG53eUdVdmtIay1kWkN2enBGZDc1ZWRXVHhMZGtnVDRidXhtd2NVTHZHaGhrbXA1YUF4UDZiQmxVdUJmelowXzFLcVBSOWg0cmV0VEXSAeABQVVfeXFMT2JPVWM4dXIwc1JtbTNyWXFWbkFuU1FuemlLaUFmdTVMVkQzM1MyX0hlWC1vaEZnX1BCRjZOdkt2d3NiRDFEaWRrSmlraWtkaGlLS3pIMW03aDhjWlJCaW1SelBNVUtMZmUxeG9BUGtmcVhMQVdzYnlvOE5jbGxtcFdIUUxZTUduN3Eza2x3ZnBqR2FvbVd1U2Y4dmdNbHJ0amxPQ2ZrdG9nNDA3YUhMQTNra01Md1ZwLW1vRko0SlRMdWpEcnRiQXFiUHBfVnJadGFJZEdaQ01nVk1iRmZmVnA?oc=5",
+      "fecha": "2026-10-19T16:02:48.000Z",
+      "temas": [
+        "benedetti"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Abogado de Mancuso habla del 'Pacto de Valledupar': dice que Gobierno Petro exigió a 'exparas' declarar contra Uribe, De La Espriella y Vargas Lleras",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQaUlCUjd0R1BjSUNsRnhXS3ZBYzRxanF5Z243d3ZyaDk0djNQRUdoRU01YU1wNzRjNmhURjd2Umd5dEx5T3hYM3kzeW15YXpwVkd6R0d0UGUxbF9oR3Ezd1pPRUJMb1NpNWlWZGNVZ0k4c1ZYWWlMelRsbmZPMHVrTzB6ZmJ4UmhXSkM3QktDYlM2bTRqR04xZE1qM2JZa3ptVTdiWnhyak5ZaXFXcmlZaDRiWTNvakJrVC14RXNYR1RGNGwyYUNUQXR1WThsNkhOTjhrOXNIV1VrcFU2dEpMX19vNnRBblpXVkdMeEZuc0pGaGVwQnRELVVwUFpvV0xlbDBwUU5zZngxejZYbkc3TVhRM0R4UXNManhGb1RlSlQ4M0dzVXfSAasCQVVfeXFMUGJlRU10RmU0LUMzRUI1SmUxY3FJMkVPekRITFhqSDJIbDlVMnh3YWJhUThJS0NNYzNOYlRzQ0xzYmFRTUU4V0Z5UG5vVmprc0pGSmR1cFJSQzh6Q3ppTUFLb2x6OGxVZkJFNTFYQ1ZXX05MeXVoVkZ0cThPVnBueWZ3U3QwTmdXYVdjNFpXRkRZb0pJaE1lYVBzT3YzUFVLME9IcUdCRFFkY09LVTZkQWVwS2pXS0d5WVdycExXcG1rT2d3clllRmsxVlQ0d3o3aWszUmJzYW9Sc3UtZ1BNd1VuU09WYS16bW9iZ1JzcnRCbVc4SF90YTNnUDlyUUxRcW1kYi1wTTRIT2cwVUdTbEM0Q2hUX2pERXVzZmdDaTZtNjl2YUg3alczNGs?oc=5",
+      "fecha": "2026-10-19T14:27:13.000Z",
+      "temas": [
+        "petro",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Mancuso: Gobierno Petro exigió declarar contra Uribe",
+      "medio": "Estrella Digital Colombia",
+      "urlMedio": "https://estrelladigital.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanFOcWZiQmswaGVvOEJHN2ZKRUtBZDRieF9rVnI4SXB1RmdtbGhZcVhfTjlUMEp5b20zcks4T040Q3BvTmhDUkJheXVRWEkxeDdTMm5yLWFES25ZdUxBRkdVNXhSRmhxbGtMajRCUmc2VDZqSkRieFdBMXpNUG0wdW9OMA?oc=5",
+      "fecha": "2026-10-19T14:27:13.000Z",
+      "temas": [
+        "petro",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Exigieron declarar sobre Uribe, De la Espriella y Vargas Lleras: testigo del ‘Pacto de Valledupar’",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGNhOUxMZjViTnhPbWFuMjE1NTdZeGUzRjNVVlp5RzRpX0NOVXJ5MHhwQXpraFZyMDVZUWxRQmJjRkVwRDYzeXRxSlpIeTlvRFdpVlVubmNrUXpiUVYxMURaTEs0b0UycURFNG45UThqTThZZTQxc3F5ejZQUnFza0dSSEZmX1hfUzdBUld4ZWpEZkNMWGpIRUpvNndxdlRyeVNZbloyMGZKVmtGWUk3UXBCX2JROWo4V1c2X3lPdjl1V1hxVExzcmpoY9IB3wFBVV95cUxOZzlfQnRaOHpSS2t1VEJXWkdrVUdONndKUkMtYWxZMG9hS1FYalktNmtUZFZ0dWRSOWE2Yml5WVRfWW1uWExQeDJ5aXFycmRSXy1ZdmpSdzhsUnp5Mk9JUG5ObnBaakdkY2pkMzlKMGtCZ0V5WTNVRV8zZV9qTWVGNUh1WkFvbkFQZ0oxM0NOaG1IWnBVaXhjcU02M0xxd1RERFhhM1pzOTBlZ05YcjB6RGpWRUR2SVNxdVpKdFJVTXlrSWh1V3NXcVo4MmhMNndpalV3aGVScFhSVUNPVFBz?oc=5",
+      "fecha": "2026-10-19T13:26:29.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Angie Rodríguez denunció presunto plan del Gobierno Petro para convertir a exjefes paramilitares en piezas de una ofensiva electoral contra De la Espriella y Álvaro Uribe",
+      "medio": "Infobae",
+      "urlMedio": "https://www.infobae.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQOXM4SDZjam1EMTNqc1RMNWRrUUhTUmNZUi1nT1VYRWplb1NHeG9LVVE5M29VUWxQM3h1dm9sNGdUSHNhY2pYM3FUazRleHk2TnZmclM2V1dCcUcyODhCeGtLcDI4ZWZ1SUwzVkZrY0ctMlJDMnpKdEJvdzJMNlVxWkhKVjNLcW9YUDNBSmQxNVdJMmV4WDl3QU5FazZmcGxaWFdWaEItUlpxSnZKM1pOV2NFMzZlQURXaDVCdDhxdm84T3lKbnlWV0p5S0ZEemZfVjg4aHVfelpPY09aM0ZIampxSnl2UUpocDhNWlJicWxlb1RiUVFQbldrUXN4M1VjYnZpT3JzTGktSmZybkhxQ253MzExc0FialZqQXRnNXFPTWM1UndGekhLR1JwNmZ0VXU3S19iTHdrTmfSAdYCQVVfeXFMT3JOU1ZfNXI3eW9GRVVDakc5Q3NQM01nTmhkVjlDOGtrN3BUQ0Q3OW13eDY2Mkpzb0xfT2M2OFdTbUgyb3QzYzNQVldzemFoUGRlSC1ZZXhFLU9rVWs0dm1jQ0xNM2Y5NHM1V0ZYRzBOVkloYzRoN3VjcHZWbnVxOU4xYWVSTkYxX21pNGdSSGtGN0lWWkRrRWdfaWdsaHc1amU0TXdPYW1ReGZxOFJvWjNpTllEZ0ZOV0ZMWUttY0ctUG9YaGVHNVdUYmlVcmFXTU43SVhGOTNQdVMyMlNEdDlKY296Y1BmNXpCdkd2QTRvc1lrWHQ4RWtLUDNtSDZjTzMzRHQxWlU1eER1aHYyMnlsY0k4aFJSVmZhQTlQOXhPOGNNS1pjdlMwdDBqejZqNDB1VGZ4cVhmRVRNbi1CWVd5ZWluV3B5NU13S2FsWGd3dTl1OFRB?oc=5",
+      "fecha": "2026-08-01T07:00:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Exclusivo: Angie Rodríguez reveló el plan del Gobierno Petro para que exjefes paramilitares acusaran a Abelardo De La Espriella, Álvaro Uribe y Germán Vargas Lleras en medio de la campaña presidencial",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQbzFhMjU0SkhoOF9XUE1iV1g0Zm1HQVd0bUxVMENGanNUQVVQLUZqeW53clV2enFvNHlWMDgyS1lWVTBIaUdEelNINGQ1eG8yZ2sySHhEUDFCbWlCd2VQRlNHeG5OMDZ2NnFMM2RyWkMxTmhqdzZKZFBLajRyTHZ4N2dkSEREbHdkcDhCVmtQTW1XR282cjFtZ3h2eUExRDZleThWYmlNTTlMbzNwNlJ1cGFSZUtiLWdmXzNVMlpEMU1uV194Mjl5bWliRzYtWjRlc1FCOTNnLUhCNVotWFN3emtLSGV4LUNXd0ZhVFhRWXo0TTg5ZVdZY29fZHJraE1WYXVWSkVnRlM2VEJvMU1PakMzLWNvUGl4WUFJTEJBUUU0MzgwVE5TbXRYakEyYngzSS1XMzFHMkpfXzBpWjRmVnZYcmIxTUNTVF9tdnYxaGx4WjE1SXBJREtPUHJsY3hRcXJJ?oc=5",
+      "fecha": "2026-08-01T07:00:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
     },
     {
       "titulo": "Mancuso confirma la versión de Angie Rodríguez y la señala como parte de la petición contra Uribe, Vargas Lleras y De la Espriella",
@@ -97,7 +1667,10 @@
       "enlace": "https://cambiocolombia.com/pais/articulo/2026/10/mancuso-confirma-la-version-de-angie-rodriguez-y-la-senala-como-parte-de-la-peticion-contra-uribe-vargas-lleras-y-de-la-espriella",
       "fecha": null,
       "mesTexto": "Octubre 2026",
-      "temas": ["mancuso", "angie"]
+      "temas": [
+        "mancuso",
+        "angie"
+      ]
     },
     {
       "titulo": "'Pacto de Valledupar': Minjusticia pide investigar quiénes actuaron en posibles beneficios a exparas",
@@ -106,7 +1679,10 @@
       "enlace": "https://www.bluradio.com/nacion/pacto-de-valledupar-minjusticia-pide-investigar-quienes-actuaron-en-posibles-beneficios-a-exparas-rg10",
       "fecha": null,
       "mesTexto": "2026",
-      "temas": ["justicia", "fiscalia"]
+      "temas": [
+        "justicia",
+        "fiscalia"
+      ]
     },
     {
       "titulo": "Petro habría pedido a exjefes paramilitares acusar a Uribe y a De La Espriella, para ganar elecciones",
@@ -115,7 +1691,10 @@
       "enlace": "https://www.pulzo.com/nacion/salvatore-mancuso-dice-que-petro-les-pidio-acusar-uribe-espriella-PP5333982",
       "fecha": null,
       "mesTexto": "2026",
-      "temas": ["petro", "mancuso"]
+      "temas": [
+        "petro",
+        "mancuso"
+      ]
     },
     {
       "titulo": "Benedetti respondió a De la Espriella por pacto de Valledupar",
@@ -124,7 +1703,9 @@
       "enlace": "https://www.diariodelsur.com.co/noticias/benedetti-respondio-a-de-la-espriella-por-pacto-de-valledupar-si-me-quiere-oir-hablo",
       "fecha": null,
       "mesTexto": "2026",
-      "temas": ["benedetti"]
+      "temas": [
+        "benedetti"
+      ]
     }
   ]
 }
