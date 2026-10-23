@@ -52,7 +52,7 @@ export function leerRSS(xml) {
 }
 
 // Solo titulares que de verdad hablan del caso
-const RELEVANTE = /valledupar|angie rodr[ií]guez|exjefes? paramilitar|exparas|mancuso/i;
+const RELEVANTE = /valledupar|angie rodr[ií]guez|exjefes? paramilitar|exparas|mancuso|currea/i;
 
 const TEMAS = [
   ['fiscalia', /fiscal/i],

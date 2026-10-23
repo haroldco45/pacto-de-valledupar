@@ -1,6 +1,6 @@
 // Service worker — Pacto de Valledupar. Siempre intenta la red primero
 // para que cada vez que se abra traiga lo último; sin señal usa la copia.
-const CACHE = 'pacto-valledupar-v1';
+const CACHE = 'pacto-valledupar-v2';
 const BASE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'data/noticias.json'];
 
 self.addEventListener('install', e => {

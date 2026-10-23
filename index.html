@@ -120,6 +120,14 @@ nav.tabs button{flex:1;background:none;border:0;color:var(--muted);font:600 11px
 nav.tabs button .i{font-size:20px;line-height:1}
 nav.tabs button.on{color:var(--accent)}
 nav.tabs .cuenta{position:absolute;top:0;left:calc(50% + 6px);background:var(--accent);color:#fff;font-size:10px;border-radius:999px;padding:0 5px;min-width:16px;line-height:16px}
+.hoy-cab{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:var(--shadow);border-left:4px solid var(--accent)}
+.hoy-cab .dia{font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.hoy-cab h2{margin:4px 0 6px}
+.hoy-cab .cifra{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;color:var(--muted)}
+.hoy-cab .cifra b{color:var(--text);font-size:18px}
+.nota .hora{font-weight:700;color:var(--accent)}
+.badge-vivo{background:var(--ok);color:#fff;font-size:10px;font-weight:700;padding:1px 6px;border-radius:5px;letter-spacing:.05em}
+h2.ayer{font-size:19px;margin-top:20px}
 footer{max-width:720px;margin:8px auto 0;padding:0 16px 24px;font-size:12px;color:var(--muted)}
 footer b{color:var(--text)}
 </style>
@@ -137,7 +145,21 @@ footer b{color:var(--text)}
 
 <main>
   <!-- INICIO -->
-  <section class="vista activa" id="v-inicio">
+  <!-- HOY -->
+  <section class="vista activa" id="v-hoy">
+    <div class="hoy-cab">
+      <div class="dia" id="hoyFecha">Hoy</div>
+      <h2>Pacto de Valledupar hoy</h2>
+      <div class="cifra"><span><b id="hoyCuenta">–</b> titulares hoy</span><span><b id="hoyMedios">–</b> medios</span></div>
+      <p class="small muted" style="margin-top:8px" id="hoyNota">Se actualiza cada vez que entras a la app.</p>
+    </div>
+    <div class="card" id="hoyLista"><div class="vacio">Buscando lo de hoy…</div></div>
+    <h2 class="ayer">Ayer</h2>
+    <div class="card" id="ayerLista"><div class="vacio">…</div></div>
+  </section>
+
+  <!-- INICIO -->
+  <section class="vista" id="v-inicio">
     <div class="kpis">
       <div class="kpi"><b id="kNotas">–</b><span>noticias</span></div>
       <div class="kpi"><b id="kMedios">–</b><span>medios</span></div>
@@ -282,7 +304,7 @@ footer b{color:var(--text)}
   <!-- NOTICIAS -->
   <section class="vista" id="v-noticias">
     <h2>Noticias</h2>
-    <p class="small muted" style="margin:-6px 0 12px">Un robot revisa Google Noticias cada 3 horas y trae los titulares nuevos sobre el caso.</p>
+    <p class="small muted" style="margin:-6px 0 12px">Un robot revisa Google Noticias cada 30 minutos y trae los titulares nuevos sobre el caso.</p>
     <div class="buscador"><input id="q" type="search" placeholder="Buscar en titulares…" aria-label="Buscar"></div>
     <div class="chips" id="chips"></div>
     <div class="card" id="lista"><div class="vacio">Cargando…</div></div>
@@ -312,7 +334,8 @@ footer b{color:var(--text)}
 </footer>
 
 <nav class="tabs" aria-label="Secciones">
-  <button class="on" data-v="inicio"><span class="i">🏠</span>Inicio</button>
+  <button class="on" data-v="hoy"><span class="i">⚡</span>Hoy<span class="cuenta" id="cuentaHoy" hidden></span></button>
+  <button data-v="inicio"><span class="i">🏠</span>Inicio</button>
   <button data-v="cronologia"><span class="i">🗓️</span>Cronología</button>
   <button data-v="versiones"><span class="i">🗣️</span>Versiones</button>
   <button data-v="noticias"><span class="i">📰</span>Noticias<span class="cuenta" id="cuentaNav" hidden></span></button>
@@ -363,6 +386,38 @@ async function traer(url){
   return r.json();
 }
 
+const diaCO = t => new Date(t).toLocaleDateString('en-CA',{timeZone:TZ});
+const horaCO = iso => new Date(iso).toLocaleTimeString('es-CO',{timeZone:TZ,hour:'numeric',minute:'2-digit'});
+const clave = t => String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9 ]/g,'').replace(/\s+/g,' ').trim();
+const RELEVANTE = /valledupar|angie rodr[ií]guez|exjefes? paramilitar|exparas|mancuso|currea/i;
+const REGLAS = [['fiscalia',/fiscal/i],['procuraduria',/procurad/i],['acusacion',/comisi[oó]n de acusaci|c[aá]mara/i],
+  ['justicia',/minjusticia|ministro de justicia|cancino/i],['petro',/petro/i],['benedetti',/benedetti/i],['angie',/angie/i],['mancuso',/mancuso|villamizar/i]];
+const temasDe = t => REGLAS.filter(([,re]) => re.test(t)).map(([k]) => k);
+
+// Búsqueda en vivo (GDELT) al abrir la app: complementa al robot de GitHub.
+const VIVO = 'https://api.gdeltproject.org/api/v2/doc/doc?query=' +
+  encodeURIComponent('"pacto de valledupar"') + '&mode=artlist&format=json&maxrecords=50&sort=datedesc&timespan=3d';
+async function enVivo(){
+  try{
+    const ctl = new AbortController(); setTimeout(() => ctl.abort(), 8000);
+    const r = await fetch(VIVO, {signal:ctl.signal, cache:'no-store'});
+    if (!r.ok) return [];
+    const j = JSON.parse(await r.text());
+    return (j.articles || []).map(a => {
+      const m = String(a.seendate||'').match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/);
+      return { titulo:a.title, medio:String(a.domain||'').replace(/^www\./,''), enlace:a.url,
+        fecha: m ? `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}.000Z` : null, temas:temasDe(a.title||''), vivo:true };
+    }).filter(n => n.titulo && n.fecha && RELEVANTE.test(n.titulo));
+  }catch(e){ return []; }
+}
+function sumarVivo(extra){
+  const vistos = new Set((datos.noticias||[]).map(n => clave(n.titulo)));
+  const nuevas = extra.filter(n => { const k = clave(n.titulo); if (vistos.has(k)) return false; vistos.add(k); return true; });
+  if (!nuevas.length) return 0;
+  datos.noticias = [...nuevas, ...datos.noticias].sort((a,b) => (b.fecha||'').localeCompare(a.fecha||''));
+  return nuevas.length;
+}
+
 async function cargar(){
   const btn = $('#btnRef'); btn.disabled = true; btn.textContent = 'Buscando…';
   const resultados = await Promise.allSettled(FUENTES.map(traer));
@@ -377,6 +432,11 @@ async function cargar(){
     datos = copia ? JSON.parse(copia) : {noticias:[]};
   }
   pintar(enLinea);
+  const extra = enLinea ? await enVivo() : [];
+  const sumadas = sumarVivo(extra);
+  if (sumadas) pintar(enLinea);
+  $('#hoyNota').textContent = `Consultado ${new Date().toLocaleTimeString('es-CO',{timeZone:TZ,hour:'numeric',minute:'2-digit'})} (hora Colombia)` +
+    (sumadas ? ` · ${sumadas} titular${sumadas>1?'es':''} recién encontrado${sumadas>1?'s':''} en vivo` : ' · se actualiza cada vez que entras');
   btn.disabled = false; btn.textContent = '↻ Actualizar';
 }
 
@@ -405,6 +465,35 @@ function pintar(enLinea){
     .filter(([k]) => k==='todo' || usados.has(k))
     .map(([k,v]) => `<button class="chip ${k===filtro?'on':''}" data-t="${k}">${v}</button>`).join('');
   pintarLista();
+  pintarHoy();
+}
+
+function itemNota(n, conHora){
+  const cuando = conHora ? `<span class="hora">${esc(horaCO(n.fecha))}</span>` : `<span>${esc(fechaTexto(n))}</span>`;
+  return `<a class="nota" href="${esc(n.enlace)}" target="_blank" rel="noopener">
+      <div class="t">${esc(n.titulo)}</div>
+      <div class="m">${n.vivo?'<span class="badge-vivo">EN VIVO</span>':''}${!n.vivo&&esNueva(n)?'<span class="badge-new">NUEVO</span>':''}${cuando}<span>·</span><span>${esc(n.medio)}</span></div>
+    </a>`;
+}
+
+function pintarHoy(){
+  const ns = datos?.noticias || [];
+  const hoy = diaCO(Date.now()), ayer = diaCO(Date.now() - 864e5);
+  const deHoy = ns.filter(n => n.fecha && diaCO(n.fecha) === hoy);
+  const deAyer = ns.filter(n => n.fecha && diaCO(n.fecha) === ayer);
+  const fecha = new Date().toLocaleDateString('es-CO',{timeZone:TZ,weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  $('#hoyFecha').textContent = fecha;
+  $('#hoyCuenta').textContent = deHoy.length;
+  $('#hoyMedios').textContent = new Set(deHoy.map(n => n.medio)).size;
+  const ch = $('#cuentaHoy'); ch.hidden = !deHoy.length; ch.textContent = deHoy.length;
+  const conHora = n => !n.soloDia;
+  $('#hoyLista').innerHTML = deHoy.length
+    ? deHoy.map(n => itemNota(n, conHora(n))).join('')
+    : '<div class="vacio">Hoy todavía no hay titulares nuevos. Esto es lo más reciente:</div>' +
+      ns.filter(n => n.fecha).slice(0,5).map(n => itemNota(n, false)).join('');
+  $('#ayerLista').innerHTML = deAyer.length
+    ? deAyer.map(n => itemNota(n, conHora(n))).join('')
+    : '<div class="vacio">Sin titulares ayer.</div>';
 }
 
 function pintarLista(){

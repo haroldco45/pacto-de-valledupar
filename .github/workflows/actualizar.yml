@@ -2,7 +2,7 @@ name: Robot de noticias — Pacto de Valledupar
 
 on:
   schedule:
-    - cron: '17 */3 * * *'   # cada 3 horas
+    - cron: '7,37 * * * *'    # cada 30 minutos
   workflow_dispatch:          # botón "Run workflow" para correrlo a mano
 
 permissions:
