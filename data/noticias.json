@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-10-25T05:10:22.590Z",
-  "actualizado": "2026-10-25T05:10:22.590Z",
+  "revisado": "2026-10-25T10:04:45.530Z",
+  "actualizado": "2026-10-25T10:04:45.530Z",
   "noticias": [
     {
       "titulo": "El ‘pacto de Valledupar’ y las otras 5 embestidas a las elecciones por las que piden indagar a fichas del gobierno de Gustavo Petro",
@@ -65,6 +65,15 @@
         "fiscalia",
         "angie"
       ],
+      "auto": true
+    },
+    {
+      "titulo": "El ‘Pacto de Valledupar’ debe investigarse",
+      "medio": "La Nación.com.co",
+      "urlMedio": "https://www.lanacion.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KcGNGNkdYdW9lcFkycUVRdXV5WjQ3bTdzaHcyemFDbGhnbkVlSW1Kdm1ZVVZSNGpoenBtdDZmQ0pJUmUzV0VYeXVHaGxpNnhhU0ZrSjBRSVNBWTY4WmtyMGVkcDZDeV91MU56OGVKamN0RlNtTjYtcw?oc=5",
+      "fecha": "2026-10-24T05:28:00.000Z",
+      "temas": [],
       "auto": true
     },
     {
@@ -1489,6 +1498,19 @@
       "temas": [
         "acusacion",
         "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Caso Pacto de Valledupar: Procuraduría investigará a Armando Benedetti y a Angie Rodríguez",
+      "medio": "CAMBIO Colombia",
+      "urlMedio": "https://cambiocolombia.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGdFZ25FSUlzX0pPZ3NkeWRJNURPclkxYXcwbkR5UHRxTGxxc3JzQ1pseHRUR1R5c3hxZzNaNGZRLWZybEJvaHRqUGVsZ01NS0lZZG5Xa2N2MDU3d0p5RW9Xc0E3UHhSeF9zcFR6dlh3ZC05cDBucGVaU05nd1plNDU5UXFDdWVKVkNVbjdBYkYtMk1DRm1vc1F6YWhpckhTaTJ2NUlPeDF1cGlfMGpNdE96a1Nrd0FNWHZHS0NDWHRxRmE0V0dLUjJjaEl6MDRwMm1ibzl3?oc=5",
+      "fecha": "2026-10-20T22:17:36.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
       ],
       "auto": true
     },
