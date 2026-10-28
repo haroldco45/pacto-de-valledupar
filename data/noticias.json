@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-10-27T23:57:51.178Z",
-  "actualizado": "2026-10-27T23:57:51.178Z",
+  "revisado": "2026-10-28T05:24:29.647Z",
+  "actualizado": "2026-10-28T05:24:29.647Z",
   "noticias": [
     {
       "titulo": "Fiscalía cita a exjefes paramilitares en investigación contra Álvaro Uribe por masacres de El Aro y La Granja en Antioquia",
@@ -1926,6 +1926,17 @@
       "auto": true
     },
     {
+      "titulo": "Pacto de Valledupar: radican denuncia contra Gustavo Petro por reunión con exjefes paramilitares",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOHl5OTlXQ1hoTHJVVmNzcDZRTmMwbzJndkV4QTdNdjl4OGJnbVRlaGVLWFg5YjZjVXczbTJ1d0VvZFE2bnZ6NHBRVzVNZVVkMkhUdjlnNkVydFI5S285RGFfRjdGejQxS0x4VFQtTHBnSUxTS0NWck5IRlZ1VzYwOXZ5Nkdiel9MZlFCLW42eVU4VnYwSWFUS0c1YXM3cEVEWWRKYllSUlpTVHozREtJOXZmTEk2dERMMkY2YTJrMFRBR0pvOEVlRmZEY2Z1UWVmZmEtR1BIUzkzeG5M0gHiAUFVX3lxTE1WOG1IaWpPUmdxQmtMMDNZNFB4cENlNmMyWFhlVWdUXzh0bWEwWVAtOXJTSlV1VEZZQWJJaHZrSjdNdE9GSVZBcTlYOUZBbXRGWVE0TVpadU5yLWtoQy1mN0k3U05NRV96NTNLanREV2tXeTZRMGZZTG5FM18zV0NIUUhnN3FZUFh6b2dIX1A5bWRtamE5b2RzckFnUlRWOHRDU2VvbnJHVnZSSm5nTXRENjNuakZuUUNNNXp3a3h2M1EwYUI5bngtQVQ2emFhX1FKcDFrT1lVdGc5MkdjSzFDenc?oc=5",
+      "fecha": "2026-10-20T18:15:46.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Lo que el gobierno Petro le habría prometido a exparas en el “Pacto de Valledupar”: excarcelar a gestores de paz y hasta revisar extradición | El Colombiano",
       "medio": "El Colombiano",
       "urlMedio": "https://www.elcolombiano.com",
@@ -1964,6 +1975,29 @@
       "urlMedio": "https://www.pulzo.com",
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGFsNjBnY2tlZXJ4UE9lcWhwWk45TGs1LXN3dkhGUldiY3JRckQ2VHZiNmtOeUZyZlRXeVhWU0FuV2gyN2duUHlqTXB2bE1hSTUzc3ZVSWF4SDZBN3c0cWZzaXlzMElwN2w1cGp1bFBObldUR2VzZ0NWa0FBZE0yb09HSEtwalFXT3lBV1hWRnZvVF9aUnJRUWo3VGZGazVsNjRYYdIBqgFBVV95cUxQWmRVam1FelRCcVZXVW52OGRaeUYxc1YwaWZVZURzbUo1bk9aNTR1Tm1QVGhxQXZiNWo4NFN1b0tyZnNMQ3BWeHVaa1AtWlF3NDMtSEZHLWpveXVhek5QYTZHc01nSnJjNE1kaWFNNXZsRlJpaWtxb0ZwTWF3VFBPQ2ZPSjdRLXBBM0VWNzgzS3JuVDRKaGx1c1VLLUJCaWlUSXZjaUxxY1lEUQ?oc=5",
       "fecha": "2026-10-20T16:44:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "El trino de Petro tras el video de Salvatore Mancuso sobre el Pacto de Valledupar",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHpYN3VMcnRTTE1GTjlTQ1JRVW82XzN3em93Y1BfVVVqU09oR1gyZlk2dnV4R2s3NlVXVzZBVC1MWXZ5ZGVEaGJjTmJOZmNVbVdkcmVwLVlZbjk4TE5BSWJwU3lyclA4cVVxMG9VRGJRQjh6UVBzSUsxWWtpcHBiRXU2b2xvbUt2eHdpSzhwUlAySVVheUZZdkRlWnE2M1ZTWkZ1d21JZ1Z0LWl4UnJDVTk5ZF8xUFRQejZoWnVxWng5NkI0Y0YxY2ZB0gHPAUFVX3lxTE9CRVdJeExJSXNGUkdhT25EaURMUmtEeUJxOThhUUsyMWViUnNxUk1JU0V3TlRjMGROZ0VKZDY2N1E5ZG53N0VYLVFxWGk3cG9jSXBvSTBzNXJfa2dPWmMyWV9BalZmdDh0Q1dNNDJDZ2dWYXJteTgxNkx3T2Fsc3R2bDI5U1R1alY2Vlp4UnRuTG1nOTZ4akgxdXNYSVcwQTFUUExKU1dKSDBVc0tzT1c0eU5aYkVRSXdOVUo4ODladkhUSXBhUlFuNU1rR3cxTQ?oc=5",
+      "fecha": "2026-10-20T16:30:45.000Z",
+      "temas": [
+        "petro",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "“Con el pacto de Valledupar pretendían ese modelo de gobierno”: senadora Claudia Zuleta sobre escándalo que salpica a Petro",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY2dCaVlIaERpQkJjaFpOQlA1WnBGanpNSG92dDczcG5WU3FxT1gteFplc1Zlbm9BNnFycHd5V2JrSkd3RnBRcDFybnFhNXp0akllWnJoMjBLUWgxWFVIRWlicDZ2WW1ZTXQzWTktOUVQeEZ5TGxfN3Q5S3hfNmU0cXdVUndiMHNmSVZFRHhJeVJNQzhDNEVqU25ZWi1TeG1VdnFBa1ktc0RXVzN1aER1Qk1GTG9rXzVfVjlZZnNKc0NCVGI2SUhIdUlFUW9BWHh2WHNTdE4xTE0tYUxJTlZnVE9nWjJwNXBPdll1RHdLSVNUc0tNQ2k5djByLVhKUdIB_gFBVV95cUxONkR2aXRGZGh3X0Q5a29XUDAzWkdTYkN4NUZnZFM0NjZ5bmswcmk0SnpLTFVFb29ZOE9vbzM0Z2liMGhOR1U4STEzZGRfSXlqeXhPVzZqUmh5NVhOMHFzTDloWG10VzdJQ0JaVHJ5TEU0bDFlWS1oWGRZZjJBZUxKeWVLZXE3enVBZ2J6SUdlZWNKeVRIMDBEalcweW1jb2VtZkQ0WGVrbnVYYm4zc3B4MHJ6VXluZUFsY1R0MVdVcThMQ3FDRmEweERZaFRQYTZIaGppNWZ1SWRmYUx5WGU5UEQ5bEFRN0pVcWhyV3djY0R1aW5EaEliUTRzaFZmZw?oc=5",
+      "fecha": "2026-10-20T16:17:05.000Z",
       "temas": [
         "petro"
       ],
@@ -2154,6 +2188,17 @@
       "fecha": "2026-10-20T04:45:34.000Z",
       "temas": [
         "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Las revelaciones del ‘Pacto de Valledupar’ que ponen bajo la lupa al Gobierno Petro",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEtMOVNhbEdBb1h1WU1RZ1g2TnpkdkRhZ0tXZC1qZ0J1ZFRnU2pkQnpNSXRJVXZmZjVnbmh0Z0M5Mm1oWGZSVEhGLXc0UVhsYjF0eUNIU18ybGhZN0xYQU1NZTNYUmFOV0lFNTFZWDVPYVpuX3AwdlZtd0lTOUdOaXVXVHhMX0IxWTU3eEVFY0JHcFBScG5WX1F1VW1yVWJRSmpEMUFDLVJySTNfR0VyejRHaEJ5Z3BlcTNpQUFZWHdRaXpqN2c?oc=5",
+      "fecha": "2026-10-20T03:10:00.000Z",
+      "temas": [
         "petro"
       ],
       "auto": true
