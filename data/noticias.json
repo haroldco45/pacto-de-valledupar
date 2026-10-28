@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-10-28T05:24:29.647Z",
-  "actualizado": "2026-10-28T05:24:29.647Z",
+  "revisado": "2026-10-28T11:33:30.978Z",
+  "actualizado": "2026-10-28T11:33:30.978Z",
   "noticias": [
     {
       "titulo": "Fiscalía cita a exjefes paramilitares en investigación contra Álvaro Uribe por masacres de El Aro y La Granja en Antioquia",
@@ -1719,6 +1719,19 @@
       "auto": true
     },
     {
+      "titulo": "Procuraduría abre investigación disciplinaria contra Benedetti y Angie Rodríguez por el ‘Pacto de Valledupar’",
+      "medio": "cablenoticias",
+      "urlMedio": "https://www.cablenoticias.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmVkOU52ejlKQmJac3hEWUxZdXVHVzl5dkd5MWZhQzR1WmoyVXVRa2I3Z2tDQ1BBd3p3VWgtQ0JmWUREczA0MFd0MS10YWF5QmFVOGY1T2x1LUdsT1RMV0JEbmhSZ0djQkF4d01xR0ZNVk5aNU5pLXRlNXNZeU5zN3BoSDVOc2Rkd1B4MDdfNjlTelh3U1ZlbUs3Q0lZTTFDMDZSdGxXTWpzeHM?oc=5",
+      "fecha": "2026-10-20T20:29:28.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Pacto de Valledupar: Procuraduría investiga a Benedetti",
       "medio": "cablenoticias",
       "urlMedio": "https://www.cablenoticias.tv",
@@ -1863,6 +1876,17 @@
         "procuraduria",
         "benedetti",
         "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Primera foto del ‘Pacto de Valledupar’, crecen señalamientos contra delegados de Petro",
+      "medio": "El Meridiano",
+      "urlMedio": "https://elmeridiano.co",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnpwb2F5OTk1V2EydFJMRUpVN2FrVVY5SzAtdGcyS2lWTDJFY3RLMVBRcXZJWWR2LUJ0UGo2ZzZMQ25PV0p0Z1BjdUcwekRQeEJKaEJNRFIzeGU4SGllVDg4LVAyb3J0QXktTy1JUjJIVzJzemRKazZCcHJqLXM1ZzFUdXVxNnNLZ2xoYWVadjJSZjZON0tXMlhyM1R6X3V5NUxVRXE3elNlNmJ0cnYxTERmQklsTzRDRk5NWEFmQk52dmxD?oc=5",
+      "fecha": "2026-10-20T19:56:19.000Z",
+      "temas": [
+        "petro"
       ],
       "auto": true
     },
@@ -2035,6 +2059,18 @@
       "fecha": "2026-10-20T15:33:51.000Z",
       "temas": [
         "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Fiscalía tomará declaración de Mancuso y los demás que estuvieron en Pacto de Valledupar",
+      "medio": "La FM",
+      "urlMedio": "https://www.lafm.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmllWnRSd25GMTlNRzN4VzBscV9KaGtWLVNWelZqcWd3Z01hOUdyTzAyTEI2ZEJPUC04Qldmd1RyY1ctWERnaHM4bHVxbGp6NUNObkt6c296V1owQ0FXMms0TUotMExGMHFqcDNDYkdyeHlfQmlfSFo2QXB6Yy05cnhTWmxCcWg5TDdiQkdLTE5CZ9IBkgFBVV95cUxOTjVLQ3JIRkxEUkM3d3BSTW5mbXN2WXY4dGFSS3NnWF9SNjYxTmItdFlpNnpVcUZtdFc1OXFPN2gtRjBtY2V5MnNTVUpfeUlEQTdmT1pxcm5jSVRGSlQ2ekNkbC1SUWxIVXZ3UEFnenVsdkJVcHdlNWdublV3WThuTkxfNzBXWW1TSmhXVG5XQlBvZw?oc=5",
+      "fecha": "2026-10-20T15:06:35.000Z",
+      "temas": [
+        "fiscalia",
+        "mancuso"
       ],
       "auto": true
     },
@@ -2249,6 +2285,18 @@
       "auto": true
     },
     {
+      "titulo": "Minjusticia pidió a Fiscalía investigar el fallido ‘pacto de Valledupar´",
+      "medio": "Caracol Radio",
+      "urlMedio": "https://caracol.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdktFTUplblVJcVZDNnNFOWlYTUlWbVl4amV4QUs0WUtid1NGd0I1SGtkcnlqWE1UUEJySmdCd2dQVzJlTXFpc2VLUnNDemoybEYwY0tlcndoZEc5ZEkxbDBNbXhVb1dOUUFWd1ByQU5qOUk3SFR1MGVfbm81c0NFZFh6TkN2VUVNbVNsQkNIT21YWmtmTmpqRHl5YUxFUzZCVHROQU5Ub03SAbwBQVVfeXFMTVFkQ1A1ZFA1WUhUWlUxSkxFWlMwejhwNTN5U1cwcUEtdURNQ2RlamJLbWRJWVFMRkF6NHhweFpPS3VVdlVkNWhWQk1LdWxjUnc1Q3FNbzJZRmZFbE13TlFSY0liWVNpNHZiaEh5OVE3eG9qenZZYXcyajJpWWxnNVcxd3dxeV93UUlWZk8wSlhNbDRScDJ5UTJQY1NFWlVZZk4tb1ZKSUsyOEJjYTYyYjc4Q0ZpZEpGeURDSTE?oc=5",
+      "fecha": "2026-10-19T22:55:00.000Z",
+      "temas": [
+        "fiscalia",
+        "justicia"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Así respondió Iván Cepeda cuando le preguntaron, en vivo y por llamada, sobre el pacto de Valledupar: exparamilitares dicen que lo vieron en avión",
       "medio": "Revista Semana",
       "urlMedio": "https://www.semana.com",
@@ -2320,6 +2368,19 @@
       "fecha": "2026-10-19T18:15:53.000Z",
       "temas": [
         "petro",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Expresidente Gustavo Petro rechaza señalamientos de Salvatore Mancuso y Angie Rodríguez sobre ‘Pacto de Valledupar’",
+      "medio": "El Tiempo",
+      "urlMedio": "https://www.eltiempo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYWpXSWZFOFo4c3BjVXQ4bWpIcjN6VTM0eUoza3p3dGlYdDV6cmpkdEVKaFdfYXRwVnUzM2g4NHhCTTg1RmIxQm0wQ3lkaFY5eEpFb2xLWkcxWmVjWE9MbkF4TFFzb0Q1dG94VEp0WGZLRHlLVGNoS3JnNlVQZXlqMm1CRFNUOHA4bXhJQkxiTjNHTURrMUFZSDQ2SWM3VE9GSC00WGk1MFBFN0drc1ZJcFVLUDd2TFRLOHpXRDlCUHYtSmNxa0VPYlVsYWp1VS1OYWxBR0phQmZuOVNacWFRZzNrNzRtRkJ4cVVac1JvRkZpcFBJaUNv0gH8AUFVX3lxTFA1bGdyT1gzNkZQV3RCVkcxVi1MTldUUWxlQWdOdzR3elVUa3pkUG55WXR5blEwOTdtaTlqbmJBNmltd3QwbVYwQXV3bXJIV09LNzE0Tk5ZOTdSR3ozR0M2SUd5S1NvVWIyWTJORUtMX1ZjU1FUcTBVSjZPdmFlMnZBdmhkelQ3MkRQNjVRdVBBMTJpQmZQQUZIdEJmX0Rpdll1eFIyQWtFMTlTVERHTF9NdV9nT1I0bUc4dTVZZlNCUmJUZEY0THIxd2R6WHFJTC1sb0RQR25Dbk0tMXg5SDdvRTdPX3pycWpQUGJ1ZDdocnE5NGwtRkhWT1NiQg?oc=5",
+      "fecha": "2026-10-19T17:40:32.000Z",
+      "temas": [
+        "petro",
+        "angie",
         "mancuso"
       ],
       "auto": true
