@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-10-30T06:20:11.755Z",
-  "actualizado": "2026-10-30T00:12:54.688Z",
+  "revisado": "2026-10-30T13:26:15.022Z",
+  "actualizado": "2026-10-30T13:26:15.022Z",
   "noticias": [
     {
       "titulo": "Fiscalía cita a exjefes paramilitares en investigación contra Álvaro Uribe por masacres de El Aro y La Granja en Antioquia",
@@ -2230,6 +2230,19 @@
       "fecha": "2026-10-20T09:31:21.000Z",
       "temas": [
         "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Procuraduría abre investigación disciplinaria contra Benedetti y Angie Rodríguez por denuncia sobre presunto plan con exparamilitares",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZnM0UmZVVnRiRXhBbmNKeVlfQ0VNV1ZjSjYzY0hCaldqWGoxUFVfR3NWUGkyeVVLcmt5SV82d0k1b1ZHa0l5enFxR19May0zUHhPSHZXOHNKNl9UV1BRWVg3UHRzZ0VrS3VQTnhnUUdpRFNEMlpZZHBOQTJjY1ZPWk96LUVwZ3VkTXNqY19tcGJKaG41Zng1NXVhckkxY3Y2NndTU3lNa19YMTQyYmJZYk9JUFl5cXVZUGdGSlpHN0NjQTdWcGlVdktxOVgwcTJJSHVBbG5ZZzZJLU1kdlc0UGpoc21PNGFaUVk4cUNQMmpGek5iTnZSUU82MjFjRTRVY3htSWNRU0dUWGs?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "temas": [
+        "procuraduria",
+        "benedetti",
+        "angie"
       ],
       "auto": true
     },
