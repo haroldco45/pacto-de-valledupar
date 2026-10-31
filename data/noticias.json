@@ -1,7 +1,18 @@
 {
-  "revisado": "2026-10-31T19:30:12.935Z",
-  "actualizado": "2026-10-31T19:30:12.935Z",
+  "revisado": "2026-10-31T22:45:40.175Z",
+  "actualizado": "2026-10-31T22:45:40.175Z",
   "noticias": [
+    {
+      "titulo": "Revelan que el Pacto de Valledupar de Petro buscaba \"destruir a la oposición de derecha”",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFBJNzBDUGdNYW1ib0hlbkVVRzNWWUFvYTVsUUFHaV9sbHI3T1JRQ0s0QW4ybzBDenVISzNOc25EaHdfUXVPUVMtQm9lemxQaVhtU1M1NFQ3SkxjNjNkVEtyeVk4WTRHRTcxMDhyUDRXZVJmRkI3bVhlbEZnaUU0MERNU0cwaS02QUxwU25JVDhRYnhHbjRBRTR1Y0tYYTU0X2FMdlc1YjU0czA0amdaZTY4T2fSAbQBQVVfeXFMTzJBeW1QZ3FnNmZUUWVteDJiVDF6R0RJR2ZubndaSTMzT0RUSkhmNnNMNmpuWjFKQlNhdGw0a1IzLWJSWkIzTGdvWl90dzRkV2VpeGNjVTVtWFBHRlFwbEJtcThGXzB6dldtSFh1TXFpSmJvNE1qLTVOMllEUV9pOVA5aWJGTkpucEg1R00ySXNKckYwSEVvaWhJaDc0UDl3QUVZTjBWeldSVGRETmlfUUJEVFhG?oc=5",
+      "fecha": "2026-10-31T22:39:47.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
     {
       "titulo": "Dos exjefes de las AUC respaldarían a Mancuso en denuncias sobre presuntas presiones para declarar contra Uribe y De La Espriella",
       "medio": "Diario La Libertad",
@@ -2328,6 +2339,17 @@
       "auto": true
     },
     {
+      "titulo": "Estalla escándalo por \"Pacto de Valledupar\" con el que Petro habría buscado enlodar a Uribe y De la Espriella",
+      "medio": "NTN24",
+      "urlMedio": "https://www.ntn24.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHVmR281YTFGVXhpdm5waHJhbFpTV3JJTGQ5cDdvZHpEVmJUQWUxZ3hXY1F0UTc1ZThncVo5SDliNm94ZFhZdWtXX0ZTOW5wT2FGMm5mVzkyMnM3c2pNQzdoWF9HNnl0dGFwQUNfNTdpSTRwRGlIamlyOFFKdU1CSUx4LWVoSHRRWlNWNDBKdkt3c1lmdkN6VlRNMkxsR3pMcUdTN1MxZlNlOFRObENpVXlER0VMa1JHelBsVmphc2IxUDhvMmdqT253SlEyYU5RYy1OclNuS083TkRwVmx1V0xjbXFTNmRKRzhMRdIB7AFBVV95cUxQWlZLeGJ3aXBhWTB0bk5hTll1cWxFOTh2c2gzZl91cl96ajBDeFhweWZ5czY0WFFXX3RzV1NHTkFuT3phb1B5Q2VFak02MC1wbTJ0OHV4Y25xNEhYbWxERmg2TXV4eDVlTC1saWdNMVozajRzQVp4LW9BQWI2Y1ZubjBXVkRXTlpRZVVOSUdGSGlLbW9yd3ZfcjdVZDZORHhLc2FEQWhJMVhGeUcyb3lLNXB3dGhkMnNsWFAtWjMtREFkZko0dzR6LWs3Qy1GbkNEWWk4QmpmQjRfVHFnTmM2ellVNDZpWWVOX1VjYw?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Lo que el gobierno Petro le habría prometido a exparas en el “Pacto de Valledupar”: excarcelar a gestores de paz y hasta revisar extradición",
       "medio": "El Colombiano",
       "urlMedio": "https://www.elcolombiano.com",
@@ -2802,17 +2824,6 @@
       "temas": [
         "petro",
         "mancuso"
-      ]
-    },
-    {
-      "titulo": "Benedetti respondió a De la Espriella por pacto de Valledupar",
-      "medio": "Diario del Sur",
-      "urlMedio": "https://www.diariodelsur.com.co",
-      "enlace": "https://www.diariodelsur.com.co/noticias/benedetti-respondio-a-de-la-espriella-por-pacto-de-valledupar-si-me-quiere-oir-hablo",
-      "fecha": null,
-      "mesTexto": "2026",
-      "temas": [
-        "benedetti"
       ]
     }
   ]
