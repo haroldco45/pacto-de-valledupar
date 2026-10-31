@@ -1,7 +1,18 @@
 {
-  "revisado": "2026-10-31T15:15:18.006Z",
-  "actualizado": "2026-10-31T08:46:54.046Z",
+  "revisado": "2026-10-31T19:30:12.935Z",
+  "actualizado": "2026-10-31T19:30:12.935Z",
   "noticias": [
+    {
+      "titulo": "Dos exjefes de las AUC respaldarían a Mancuso en denuncias sobre presuntas presiones para declarar contra Uribe y De La Espriella",
+      "medio": "Diario La Libertad",
+      "urlMedio": "https://diariolalibertad.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNktVQkw3ZlVEZTVIQ0ZuUHMzMDVNUzYyVGpBNlpFWUx2WUV2a0d2TEhNbFZyTk5uZG5lQlhjTWcxdEhXQl81S2FRQThxVEgxOG9sbHdTcHdCREJaZnpVWmFGWGZXX1VmbW1vU09abktjS2syWmxKXzBLNW5NMkYybnhkQ1ZsRG1fa0tGTkE4cS1veHpoTHgtN2E3U0NfSGpQTF9KbUk0SGxNTElNYXVhTkduQ2Z3T0VJckYtYlZNOTdsMXNEenZKN3JUQXNmblo4T2VHc25RWmgzZGZkNFRJVXJ6c1cxdXpPQm9oXzQ1QmVaNzE1MkhPLXg5bnpyZ2M?oc=5",
+      "fecha": "2026-10-31T15:49:43.000Z",
+      "temas": [
+        "mancuso"
+      ],
+      "auto": true
+    },
     {
       "titulo": "Pacto de Valledupar: dos exjefes de las AUC respaldarán versión de Salvatore Mancuso",
       "medio": "Revista Semana",
@@ -2317,6 +2328,17 @@
       "auto": true
     },
     {
+      "titulo": "Lo que el gobierno Petro le habría prometido a exparas en el “Pacto de Valledupar”: excarcelar a gestores de paz y hasta revisar extradición",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTRNeUJxd0hkYnd6UlgxaVpPOVBmLVQ2emFrVVBxTzVnZVpmZXdrRmJfQm85SndJOWtwU2RsREFWaW1FU053SmlkZlptTE5fLXNJdkVBOUx0Um1qVkR0YXFnNnVFV0ZtenN2RUk0MFNtbmFabFVoemZPU0VsZ2xMQU9LdDhyWEdNM3dHaGxXbEd4RG8zX1h2NmNUY2tZUEJ5ODJFYXMxd2g5TWtSVmhTZzB3SQ?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Procuraduría abre investigación disciplinaria contra Benedetti y Angie Rodríguez por denuncia sobre presunto plan con exparamilitares",
       "medio": "ELHERALDO.CO",
       "urlMedio": "https://www.elheraldo.co",
@@ -2634,6 +2656,18 @@
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGNhOUxMZjViTnhPbWFuMjE1NTdZeGUzRjNVVlp5RzRpX0NOVXJ5MHhwQXpraFZyMDVZUWxRQmJjRkVwRDYzeXRxSlpIeTlvRFdpVlVubmNrUXpiUVYxMURaTEs0b0UycURFNG45UThqTThZZTQxc3F5ejZQUnFza0dSSEZmX1hfUzdBUld4ZWpEZkNMWGpIRUpvNndxdlRyeVNZbloyMGZKVmtGWUk3UXBCX2JROWo4V1c2X3lPdjl1V1hxVExzcmpoY9IB3wFBVV95cUxOZzlfQnRaOHpSS2t1VEJXWkdrVUdONndKUkMtYWxZMG9hS1FYalktNmtUZFZ0dWRSOWE2Yml5WVRfWW1uWExQeDJ5aXFycmRSXy1ZdmpSdzhsUnp5Mk9JUG5ObnBaakdkY2pkMzlKMGtCZ0V5WTNVRV8zZV9qTWVGNUh1WkFvbkFQZ0oxM0NOaG1IWnBVaXhjcU02M0xxd1RERFhhM1pzOTBlZ05YcjB6RGpWRUR2SVNxdVpKdFJVTXlrSWh1V3NXcVo4MmhMNndpalV3aGVScFhSVUNPVFBz?oc=5",
       "fecha": "2026-10-19T13:26:29.000Z",
       "temas": [],
+      "auto": true
+    },
+    {
+      "titulo": "Esta es la resolución firmada por Petro donde designó a Angie Rodríguez como secretaria del cierre de Ralito y designó gestores de paz a exjefes de las AUC",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbHJCX2dQamlLVFVUY2pOVHd6enRSVy12dGRpeFRUTV9FaGZNaERhelprQm13S09rY3RlNDFxdWRFa1o2YkpiNkpCSGlJYmpLcklTeVV2SkNiSlpGWHY4ZHBiY0w2R3NfMUNPdTRHUXQzandfV2xkZWUtR0JhbjZUaUdWc0plc2duQVlUNkIwOXBCTjJiUTVadmprdks5SEFkMkk4TmVwbUxpNjA1d1dWQXFxV0JkVHNvVTFkVFJFUUV1N29WR0hnWU5MWUNPVGJSc1BUMldqYjF3dmpzN3hicnZlTXJlSjRFTE5EdXZrVFIxS2lRb2p2SkdrcU45cGlnYy1lb0x1el92TTFwUHNWVlZCWTFpbVRkeG9yX0VGM0hnZTJvSFVzOFA3SnnSAbICQVVfeXFMTWYwM3ZhTW41clNuVmdILUNRZmtNWVlENDFaSXNMLUVCSjVGTE13ZlJ4bEhtWDI1Vm44QVZmc0w2aEJYd1dNQ0ZCQ09uUVFiWkY2ZU1Gb0FudFdzVWJNa0ZEcHJELS1ERW43ZVByZmNNYlA1RlBabnJhZ0tfcGhoYXo4Mm5MWWJXWmZ3c29LS0ZONVJFXzBDcXZNUGM4WWJ2ZDZZQUg3MnFieWNlemtTSUk5VWIwSzk1cE85dW5ETVUxNjNBN0d5dzJ1dXRDU0g2YnFMZ1ZQX1pNeFp2d2M1RzhIOHFTc0luWVVUUThqSTV2d3gyMk11a1ZwLUZyTFh6WDhGWkZRLWQ1UlhGbEFqM2p5OURWZHFOREtPZEphc29pTmRyS25kM3VmUEthLXVpcG1B?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
       "auto": true
     },
     {
