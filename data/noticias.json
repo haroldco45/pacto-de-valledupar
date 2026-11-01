@@ -1,7 +1,16 @@
 {
-  "revisado": "2026-11-01T02:05:48.657Z",
-  "actualizado": "2026-10-31T22:45:40.175Z",
+  "revisado": "2026-11-01T09:07:49.744Z",
+  "actualizado": "2026-11-01T09:07:49.744Z",
   "noticias": [
+    {
+      "titulo": "¿Pasará algo con el Pacto de Valledupar?",
+      "medio": "El Colombiano",
+      "urlMedio": "https://www.elcolombiano.com",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVJYQXh4WlpFemM0dm5XM08yUGdmOWc3eTloeHNDeWpLTkdZNHZtcVI5YlNQbUd3d1ZTOFpVSzRVR2lsMUs2N3Q3X25lSm9xZExxeGI2WXFocEtoeUs3bElxRkhPbERnbzV0aWRYenZLTkhNdGFZbUJxcVdQbmhvZVRnNmE4UVpic2l4VERNeXRpNTNkYndpSzZrYW5NOG8?oc=5",
+      "fecha": "2026-11-01T05:04:42.000Z",
+      "temas": [],
+      "auto": true
+    },
     {
       "titulo": "Revelan que el Pacto de Valledupar de Petro buscaba \"destruir a la oposición de derecha”",
       "medio": "NTN24",
@@ -2812,18 +2821,6 @@
       "temas": [
         "justicia",
         "fiscalia"
-      ]
-    },
-    {
-      "titulo": "Petro habría pedido a exjefes paramilitares acusar a Uribe y a De La Espriella, para ganar elecciones",
-      "medio": "Pulzo",
-      "urlMedio": "https://www.pulzo.com",
-      "enlace": "https://www.pulzo.com/nacion/salvatore-mancuso-dice-que-petro-les-pidio-acusar-uribe-espriella-PP5333982",
-      "fecha": null,
-      "mesTexto": "2026",
-      "temas": [
-        "petro",
-        "mancuso"
       ]
     }
   ]
