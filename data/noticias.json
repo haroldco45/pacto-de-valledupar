@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-11-02T00:32:18.808Z",
-  "actualizado": "2026-11-02T00:32:18.808Z",
+  "revisado": "2026-11-02T06:42:49.689Z",
+  "actualizado": "2026-11-02T06:42:49.689Z",
   "noticias": [
     {
       "titulo": "¿Pasará algo con el Pacto de Valledupar?",
@@ -2735,6 +2735,17 @@
       "auto": true
     },
     {
+      "titulo": "'Pacto de Valledupar': Minjusticia pide investigar quiénes actuaron en posibles beneficios a exparas",
+      "medio": "Blu Radio",
+      "urlMedio": "https://www.bluradio.com",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkppLXByd3dFajBnSy12d2hXQ0pJdmtwTHJHcVpPZC1RTTNXQzBiSFZFSGtocmFQd1VWbzRhQ2VYakpUTlY1d2xJQkY2akdoRkpFTE80TnE1aWstd2Y1RUVTZFFFTWdDVXYwUlhRdXBqMUhoZEVrNGJkYnZDcW9xQUhGMkRWX2tjb1BUTW5NZXk2Qm9GUE96ckNiYmFSMkY2RGRQdVkxQTNxSElzZjR6MzRVZUhyazJqSEs1X2Q4RVh1WjBUejJ3dzctWE82MnfSAdwBQVVfeXFMUGxZRkFxLTVjaHVDMXgzUElzd3RqQkZzZEZDc0I5TWN5SWg1ZFhsQ1ZXTHcyYkVicTFZQWoxVDNHLXVWWlh6SlduZEZyVTBsel9uR18tS3pUWmdIRUotUUtYM0dqQUxtbEZPWHA3UHo2NGhSeXRodWhua2NVaGZROTdQMjBnRU9FNDFRYjhrc2pvX3pvNUVyYjNZY284c1cxa3pEanZjd1BRZWhuYjdPZkc4UjBwUjVIMUlhOWJ6cC1sc2RhNDdpam1NNnY0Wld1UW9LRGlKZ0ZnUzJhcg?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [
+        "justicia"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Exclusivo: aquí están los secretos del pacto de Valledupar, un complot del gobierno de Gustavo Petro contra Abelardo De La Espriella, Álvaro Uribe y Vargas Lleras",
       "medio": "Revista Semana",
       "urlMedio": "https://www.semana.com",
@@ -2802,17 +2813,6 @@
       "medio": "El Colombiano",
       "urlMedio": "https://www.elcolombiano.com",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcFViaGtHbS1UMmxNd3dMdncxZVJtNlNfWUEtNmxxWHdzTnNRcTZUNU8yWEFnRk5rZ1huaTlzSzdneWtvWkJEcnpGcFRjeXNvei1MT3ZCS3dWRGtsWHNjdFZoMDV1aDdTam1oU0VKZWVEei1JWnRiU2hOaHNEa2NmUkdXTEJHOUxfU2FJOUdyM0VMMDVPbTVtZURYZGJUZHJ4NkNVVG5vcHRod21xQVJETmItcTJZN1YzMWh3ams5YVRGaWYzM1h5OGtseFo4ZE9SaTE0LUNJS2ZLVERlSHfSAeMBQVVfeXFMT19nQ3pmMXc4T1l1YkMwWGxlcWJOSGVaWUItMWFTcThRUDVsSjFLOG4yc1hXczhYV1Z0Tk03dWEyOFgxdDZDRE1qbWpzUzUzNmxEMHlqWEFUc0tUVGJYZjZmajY5NWtEenZoMU1WaV9jX1Jkd19jZEFPUmFUODAzMExFRmJfYzA5RkgzMmNsTEQ4YlE4NWtZNldmZTQwYXV4UXFGWlRGeldwcUJ2YUxuZVc3NkZnYi00dy1HMkR6WGEzQUtEZ04xN1VwOGFCeDZFcGFkWnh1bXlGeld2dldaMUtJRDA?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "Pacto de Valledupar: el nuevo escándalo del gobierno Petro con exparamilitares",
-      "medio": "Revista Semana",
-      "urlMedio": "https://www.semana.com",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXpMeTcxMlJUTnBCOEdwdUg2bzhRLVU1a09FckpvRDhsaVNlZHNwMTFKWXRCZVBpWlNlbndYQ014aXh0RVpjVGFMbnc3WUxCbVIxS1hEX0ZfQktUZDN5eW00ZUIyU004MkdqU1VIZ0szV3NWa1FVbzl3d05hYklKZUVwbjlRLTd1bzNMZEpWeTJBYUQ1Q3dKR1NlUEwxZGF0Yi1jM0MxbEVydXpreUV5S0t2SDRoeW5JSEdQcEJjTVU1aDBFd3fSAcsBQVVfeXFMT1pfSUVYUXpEX2xBRDNTX29yMHYzNUdSUEF5Si1IU2pMcVZCaExFdFAzaGg4dVk2NU9QcGVGdS1PUm5kVnFKR1RmNlBuWUp1Sm53dnRQQ0plbW1zS2lhenE0SEhLeWFFYmcxTVRBa056ZnhvWFFwQXV6RnF2MVJQbE5IWWNFeWstc0ZkdlhhRERZSlVmcE1JRWJMOGt6V2x2aTB1WldLUnRMclVWSFdxUHF5OEdMX2VjRUNKWjJzcmxIclJvOUhFM0REaWc?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "temas": [
         "petro"
