@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-11-03T14:36:03.632Z",
-  "actualizado": "2026-11-03T14:36:03.632Z",
+  "revisado": "2026-11-03T20:36:14.281Z",
+  "actualizado": "2026-11-03T20:36:14.281Z",
   "noticias": [
     {
       "titulo": "¿Pasará algo con el Pacto de Valledupar?",
@@ -1251,6 +1251,18 @@
       "fecha": "2026-10-21T08:08:42.000Z",
       "temas": [
         "petro"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Petro mueve sus fichas y sacude el caso de Angie Rodríguez",
+      "medio": "El Nuevo Dia (Colombia)",
+      "urlMedio": "https://www.elnuevodia.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTV9xLWdKZVg3Y0R1RVhUYnVpYzQ0NGpucTNMRHVEMGdNdmR5QnY4d2JJM05nZExGVTVFWV9PSWpxTlBrZWY2YXVzaHpYQW1QLVdhMWFDUGlYOWd5cnZOTFZucnhjejV2eEg3c0V3bU8yR0N4OXVQVl9selo5ck56NFI2Y0JaTnpTQ01qVVhQVGVBd3FKVkRrLVBOSFZlOGNBV1hKR1lFYW5ETzNvaHQ5QkdR?oc=5",
+      "fecha": "2026-10-21T07:00:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
       ],
       "auto": true
     },
@@ -2735,6 +2747,27 @@
       "auto": true
     },
     {
+      "titulo": "“Buscaban que Abelardo perdiera”: Angie Rodríguez revela cómo el gobierno Petro quería influir en las elecciones con los paras",
+      "medio": "Revista Semana",
+      "urlMedio": "https://www.semana.com",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRk1pUjJZLW5QSEt4NmpvTHhzMjNINV81dG1VNGt4SmF0RFFldE11aGM1dXJNRm1SZDEtZDIxaFgyOS1yWkFYc0dxM0JVZ21sV3JyLThtRFdnZUxWX0VQUFR5Ulh1OFJZWnZVcDdpS3NsRFZNNjQwNlRFQ3BSTnJaT3l4dGt0OHc0QVJwa2RFUmhsMlRWOGFWc3owSzg2NXZxa3ljRzlLbkh4eEJ4azlXRHRyeWNDM25EbmNVTzkwVEJNYXZWU09nXzNxWHY4VEJoRHRLZWtGM0J5RDdVOW95ZlVtLV9vYXJ6RzA0ejFqZy0wal9lS0Y4ckVkOGp4dWs?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [
+        "petro",
+        "angie"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "Trabajadores de Asmet Salud en Valledupar realizan protesta y reclaman pagos atrasados y mejores condiciones laborales",
+      "medio": "Pulzo",
+      "urlMedio": "https://www.pulzo.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzVKZnZ6bFRCeDR2TGxSYUJTcDhoUmZNZjN2cU9NQlJUd04xd0c0Qnh6bWljSllZSDE3TlBYT3pOSFRpMl9mY1pSN1ZNN0tMU0xEWWRzejB1bGxSOEpRVzQ3QzY3eGFPOWVHVjhZWjNFWlpScVVFWlAyWFNQTjQ4UHlEanI5bW9XR0hmaTRYZm1seExCaGU3SUJ4eFNnbjhod3pSSWUtdzFETmc5WngybUJNc2VqRVNuUFhYdDcyZm1jWENwSGlYMtIBzgFBVV95cUxPTUNDdzl6LWU5aXF3aUQzWUpkZndvS3RTaVN2d0lkOVRxNWdhMThIZUl4RDNkYjAxLWFNTXRmci1sSi1hUHV0Um5kNzJoXzdqTW1QMUZoMWJ2NmNuTUdTX2U5c3Vaanc2SlFhVmNKeDJqSmx5X2RrYW5WdE1Sc1NTWlVQRDh4NHBpM3VqbVpDRnlVMm5aOHFTUThPM0lDQmdNM1Z1enhEZGZ1OHk5UGVCTlM0SUZFY2toYWxUcjlFamNYbmJ2YnV6N2tvQW9fZw?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [],
+      "auto": true
+    },
+    {
       "titulo": "Centro Democrático reaccionó a denuncia del ‘Pacto de Valledupar’: “El Estado no puede ser usado como arma de persecución”",
       "medio": "El Colombiano",
       "urlMedio": "https://www.elcolombiano.com",
@@ -2782,40 +2815,6 @@
       "fecha": "2026-10-19T07:00:00.000Z",
       "temas": [
         "justicia"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "Exclusivo: aquí están los secretos del pacto de Valledupar, un complot del gobierno de Gustavo Petro contra Abelardo De La Espriella, Álvaro Uribe y Vargas Lleras",
-      "medio": "Revista Semana",
-      "urlMedio": "https://www.semana.com",
-      "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPalVaSkg5RFVWQ0cwOWtfTWlQWTQzSjFsSVp0MUtma3B3MGNEMkhUTURIUXhEZmdQczhtQll3VnNFU2c2THBkc1BNRlNja3pSTHFYejM5SFFkc240aGpYb3hhdGlSZWZvR3llNnhyOVExUjBGVFRMMzFtZWJYUS1CYU1aN2ktS2lUeWJheXlwNXBlQ0VwanBqS2lWb1ByYWVoM2N0eTBCT2JQeV8wYW94UXEzZkNIOS1ReGY0MnhiM1V0VDREc1BmMFFJSnlqZzd3aU92eDUxSGF5RG9mZlV4MFpoZ0ZyY1NBdnFhQ2N0aV9ybHVxaVBCLUctUnV0bkJEZHBJZkZIcklzbVV3R2RlTjhrdks4SHRhM2NtcHNuZVE5R044clE4TV9MLVE2eTNkYWfSAbcCQVVfeXFMTWZjNGdOSm9FZER3WmRQUWRYSVlENXNNREZWaUFrWFRrMGROdVpqNDZYaXNjd003SlZxZFRIMGRNdjVqN0JLWUpJNzFWR3dLemNIeXJwSzR5RDFRN0ZMYkgxOWZGR1RPQzdBaDFKUEZZTjBrUFI1ZzJNemtqWEQ0alhsLTlwVHZPcHBiR1dsT3JBTzRHZE9LcUQtMDQ3TG1ZaXg2LTdiVDdHYlIydllVQUpZbkdqb2RyM1dHejRodkFsc2puSjdDNXhBNktGcEk2VDNlRTJOdXJwUHpUUll3SlVwekN6QTRoeFNnVE01d3JVb2tfaHN1dk9GMXRWbmxrQXpMOUh3R3cxNTk4VmRlbE8zbFdVZnlDdFRKQ1A5dFRzell2dmpRZU1PZDgyVXF6TF9fbEoxdEk?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "Esta es la resolución firmada por Petro donde designó a Angie Rodríguez como secretaria del cierre de Ralito y designó gestores de paz a exjefes de las AUC",
-      "medio": "Revista Semana",
-      "urlMedio": "https://www.semana.com",
-      "enlace": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbHJCX2dQamlLVFVUY2pOVHd6enRSVy12dGRpeFRUTV9FaGZNaERhelprQm13S09rY3RlNDFxdWRFa1o2YkpiNkpCSGlJYmpLcklTeVV2SkNiSlpGWHY4ZHBiY0w2R3NfMUNPdTRHUXQzandfV2xkZWUtR0JhbjZUaUdWc0plc2duQVlUNkIwOXBCTjJiUTVadmprdks5SEFkMkk4TmVwbUxpNjA1d1dWQXFxV0JkVHNvVTFkVFJFUUV1N29WR0hnWU5MWUNPVGJSc1BUMldqYjF3dmpzN3hicnZlTXJlSjRFTE5EdXZrVFIxS2lRb2p2SkdrcU45cGlnYy1lb0x1el92TTFwUHNWVlZCWTFpbVRkeG9yX0VGM0hnZTJvSFVzOFA3SnnSAbICQVVfeXFMTWYwM3ZhTW41clNuVmdILUNRZmtNWVlENDFaSXNMLUVCSjVGTE13ZlJ4bEhtWDI1Vm44QVZmc0w2aEJYd1dNQ0ZCQ09uUVFiWkY2ZU1Gb0FudFdzVWJNa0ZEcHJELS1ERW43ZVByZmNNYlA1RlBabnJhZ0tfcGhoYXo4Mm5MWWJXWmZ3c29LS0ZONVJFXzBDcXZNUGM4WWJ2ZDZZQUg3MnFieWNlemtTSUk5VWIwSzk1cE85dW5ETVUxNjNBN0d5dzJ1dXRDU0g2YnFMZ1ZQX1pNeFp2d2M1RzhIOHFTc0luWVVUUThqSTV2d3gyMk11a1ZwLUZyTFh6WDhGWkZRLWQ1UlhGbEFqM2p5OURWZHFOREtPZEphc29pTmRyS25kM3VmUEthLXVpcG1B?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro",
-        "angie"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "El ‘Pacto de Valledupar’ que compromete al gobierno Petro",
-      "medio": "ELHERALDO.CO",
-      "urlMedio": "https://www.elheraldo.co",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2YzVC1LNWVzYXlYV1ltTm5MT2lSSTUzRzBfUC1fTkR0ZkpMNmFVNXdTQk5aRV9pVkhGMWdSd1FGQkFhTnNDNF9yMEJKQXEzSzNoN0Z4dWJLcTlHeXczcENXcnVITGlfdlMxYnYwVjFUWkJfRzhFeGY2cXFtbGRZaGVCakJOanlSay16WkxDY1k5Y05jdnkzQWNzOWZremFXd3EwTFhUZmxQRkk3?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro"
       ],
       "auto": true
     }
