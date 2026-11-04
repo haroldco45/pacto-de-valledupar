@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-11-03T20:36:14.281Z",
-  "actualizado": "2026-11-03T20:36:14.281Z",
+  "revisado": "2026-11-04T00:52:25.232Z",
+  "actualizado": "2026-11-04T00:52:25.232Z",
   "noticias": [
     {
       "titulo": "¿Pasará algo con el Pacto de Valledupar?",
@@ -2360,6 +2360,17 @@
       "auto": true
     },
     {
+      "titulo": "Pacto de Valledupar: las reuniones del Gobierno Petro con exparas",
+      "medio": "CW+ Noticias",
+      "urlMedio": "https://cwmas.com.co",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0wwemFfbHI0aWNVRlRPUFNsNkZwLURxek9BdW9sMWxGRUs1RGp0S2hLWndqY3BxRERmVmFWZTFVbWNhZVkzbEdobktjSnpJejhFRkZOM1NkZVJ3UGdqMEZYTlQ3VGx5NGQzbWNWZWRBc3o3cTFEazZqSUIzWUFwQVRYU1phMW1OejlZR0ZLNlRXNHV1SlZVb180VGdFNXBWOUFFNTRYWUVCZ2hzWFY5YVlCbGQ1NEk0OWdaVWxBa1N5UTZWUlRMZ09nSVNWYk9WZnhzSlY0T2dpaVdiei1KTXJrcU8?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Revelan documento del presunto \"Pacto de Valledupar\"; estos son los beneficios que se habrían planteado para exparamilitares",
       "medio": "El Pilón",
       "urlMedio": "https://elpilon.com.co",
@@ -2747,6 +2758,29 @@
       "auto": true
     },
     {
+      "titulo": "Mancuso respaldó versión de Angie Rodríguez sobre presunto 'Pacto de Valledupar' para atacar a Uribe, De La Espriella y Vargas Lleras",
+      "medio": "Teleantioquia",
+      "urlMedio": "https://www.teleantioquia.co",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUDBxMXAzUm1uWTRCcGRuSTVxVGhMazlqckxzYkozbVBYQnRBQkZFMThIVkoxUW43b2tyUWkzYWstTDgzS0d4bmdURFI1d0pBaFNtQTFXY0FVVk5wMDNUNzV1QXZZN2dQVDcyV1VyaUIxRkpfQXI0NTFIZWd0eUJUT1hjZi1NZGFZVWliOFNITThnRDYxMVRMTkFsWEJfbEo1MEQyYzFNM1BadUZHSXl3c01mdERVRUtYU05rbTZleUJzcXM5dEZ0SkhCRW81elc1dXlTWEE1QWtwOFU5Vml4bFRUUWhJNnZjZlJuY2dVRk13V1lSZnBEQ1NSUVZPVGFTTnVKXzJB0gGSAkFVX3lxTE8wejE2ZEQ1SzFnTHVqMktOQ3BIM3VYYUJjeWpiZDA2YzR0M2dYN2lQNFhlV0U5UzJtekc3aHFsa2luRDRVd2xrMkJJVXhDZ2hPYnNtTGJaVXJubERCalpjLVJpVVROX2FyWWlxclJIQnV6LUg0VzNGWGxGMWd6X0pLb0tNQ0tBYV9HNUFaUlNZTUkwb0R1bGFzSHBQQjh4bEgwc0NGaEdEUmRXaTdIRHl0Rk1JNENlZlh3M01vN1NUeUV1QzFKSElqWnhsbjFlazlsNWlzdzJfY1FpYVQyTVdoNU1FT0ZfVTBMUElzM21vWHdQTWIzV1BPN1lVbl9uT1F6WkRmUkV6YzlRNFcxdVhNdmc?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [
+        "angie",
+        "mancuso"
+      ],
+      "auto": true
+    },
+    {
+      "titulo": "El ‘Pacto de Valledupar’ que compromete al gobierno Petro",
+      "medio": "ELHERALDO.CO",
+      "urlMedio": "https://www.elheraldo.co",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2YzVC1LNWVzYXlYV1ltTm5MT2lSSTUzRzBfUC1fTkR0ZkpMNmFVNXdTQk5aRV9pVkhGMWdSd1FGQkFhTnNDNF9yMEJKQXEzSzNoN0Z4dWJLcTlHeXczcENXcnVITGlfdlMxYnYwVjFUWkJfRzhFeGY2cXFtbGRZaGVCakJOanlSay16WkxDY1k5Y05jdnkzQWNzOWZremFXd3EwTFhUZmxQRkk3?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "temas": [
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "“Buscaban que Abelardo perdiera”: Angie Rodríguez revela cómo el gobierno Petro quería influir en las elecciones con los paras",
       "medio": "Revista Semana",
       "urlMedio": "https://www.semana.com",
@@ -2783,39 +2817,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHppdGZ2N0h3NUQzR09rOE02WGI5Ri1GLU9STmprS0x5RTNMeGpHMlNPbWd3SFZhNzdtT1JTclVqdEd1ZUlHSnpPN01zbjZqVmp5UW5VMjdFT0pSS1UxMmExdnRXR1ZJd0E2U2E3bXQyMXhCbHloN2VhbWlhY2d6WnZZd2paWGZ4aHloRXN4T2RzdTJISThuYUZ3eVl2UFdOR3RPVmItOU9YOGZ0VjhxctIBsAFBVV95cUxNZEFuZzVrMWZIRFFJLWpINjRIZTE1bW8tOXBjZ05HWFctUTZkeVlVUmNjdE1VWWIwQ0xBOGJEckFtcXM0Zk1heVY0SE9RWU9zVEhGNjhhblNMNHJaZ0dIamstZFdDaDktSlVDWjRRU0FNM1FxbjU1d2U2dnBBZGVfSXRUOTh1WFZ3QUNEaHhoQ0JmNDVIYTdhQ1dDTFhUQ2Z3Z1FHMFJuRXdLTi1QVXVGTQ?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "temas": [],
-      "auto": true
-    },
-    {
-      "titulo": "“No voy a aceptar que se me atribuyan hechos tan graves”: Petro responde por el Pacto de Valledupar | El Colombiano",
-      "medio": "El Colombiano",
-      "urlMedio": "https://www.elcolombiano.com",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcFViaGtHbS1UMmxNd3dMdncxZVJtNlNfWUEtNmxxWHdzTnNRcTZUNU8yWEFnRk5rZ1huaTlzSzdneWtvWkJEcnpGcFRjeXNvei1MT3ZCS3dWRGtsWHNjdFZoMDV1aDdTam1oU0VKZWVEei1JWnRiU2hOaHNEa2NmUkdXTEJHOUxfU2FJOUdyM0VMMDVPbTVtZURYZGJUZHJ4NkNVVG5vcHRod21xQVJETmItcTJZN1YzMWh3ams5YVRGaWYzM1h5OGtseFo4ZE9SaTE0LUNJS2ZLVERlSHfSAeMBQVVfeXFMT19nQ3pmMXc4T1l1YkMwWGxlcWJOSGVaWUItMWFTcThRUDVsSjFLOG4yc1hXczhYV1Z0Tk03dWEyOFgxdDZDRE1qbWpzUzUzNmxEMHlqWEFUc0tUVGJYZjZmajY5NWtEenZoMU1WaV9jX1Jkd19jZEFPUmFUODAzMExFRmJfYzA5RkgzMmNsTEQ4YlE4NWtZNldmZTQwYXV4UXFGWlRGeldwcUJ2YUxuZVc3NkZnYi00dy1HMkR6WGEzQUtEZ04xN1VwOGFCeDZFcGFkWnh1bXlGeld2dldaMUtJRDA?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "Pacto de Valledupar: el nuevo escándalo del gobierno Petro con exparamilitares",
-      "medio": "Revista Semana",
-      "urlMedio": "https://www.semana.com",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXpMeTcxMlJUTnBCOEdwdUg2bzhRLVU1a09FckpvRDhsaVNlZHNwMTFKWXRCZVBpWlNlbndYQ014aXh0RVpjVGFMbnc3WUxCbVIxS1hEX0ZfQktUZDN5eW00ZUIyU004MkdqU1VIZ0szV3NWa1FVbzl3d05hYklKZUVwbjlRLTd1bzNMZEpWeTJBYUQ1Q3dKR1NlUEwxZGF0Yi1jM0MxbEVydXpreUV5S0t2SDRoeW5JSEdQcEJjTVU1aDBFd3fSAcsBQVVfeXFMT1pfSUVYUXpEX2xBRDNTX29yMHYzNUdSUEF5Si1IU2pMcVZCaExFdFAzaGg4dVk2NU9QcGVGdS1PUm5kVnFKR1RmNlBuWUp1Sm53dnRQQ0plbW1zS2lhenE0SEhLeWFFYmcxTVRBa056ZnhvWFFwQXV6RnF2MVJQbE5IWWNFeWstc0ZkdlhhRERZSlVmcE1JRWJMOGt6V2x2aTB1WldLUnRMclVWSFdxUHF5OEdMX2VjRUNKWjJzcmxIclJvOUhFM0REaWc?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "petro"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "'Pacto de Valledupar': Minjusticia pide investigar quiénes actuaron en posibles beneficios a exparas",
-      "medio": "Blu Radio",
-      "urlMedio": "https://www.bluradio.com",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkppLXByd3dFajBnSy12d2hXQ0pJdmtwTHJHcVpPZC1RTTNXQzBiSFZFSGtocmFQd1VWbzRhQ2VYakpUTlY1d2xJQkY2akdoRkpFTE80TnE1aWstd2Y1RUVTZFFFTWdDVXYwUlhRdXBqMUhoZEVrNGJkYnZDcW9xQUhGMkRWX2tjb1BUTW5NZXk2Qm9GUE96ckNiYmFSMkY2RGRQdVkxQTNxSElzZjR6MzRVZUhyazJqSEs1X2Q4RVh1WjBUejJ3dzctWE82MnfSAdwBQVVfeXFMUGxZRkFxLTVjaHVDMXgzUElzd3RqQkZzZEZDc0I5TWN5SWg1ZFhsQ1ZXTHcyYkVicTFZQWoxVDNHLXVWWlh6SlduZEZyVTBsel9uR18tS3pUWmdIRUotUUtYM0dqQUxtbEZPWHA3UHo2NGhSeXRodWhua2NVaGZROTdQMjBnRU9FNDFRYjhrc2pvX3pvNUVyYjNZY284c1cxa3pEanZjd1BRZWhuYjdPZkc4UjBwUjVIMUlhOWJ6cC1sc2RhNDdpam1NNnY0Wld1UW9LRGlKZ0ZnUzJhcg?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "justicia"
-      ],
       "auto": true
     }
   ]
