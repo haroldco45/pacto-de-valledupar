@@ -1,6 +1,6 @@
 {
-  "revisado": "2026-11-19T23:45:08.578Z",
-  "actualizado": "2026-11-19T23:45:08.578Z",
+  "revisado": "2026-11-20T06:58:28.813Z",
+  "actualizado": "2026-11-20T06:58:28.813Z",
   "noticias": [
     {
       "titulo": "(OPINIÓN) El pacto de Valledupar: una radiografía de la guerra híbrida. Por: Carlos Andrés Echavarría Blandón",
@@ -2369,6 +2369,18 @@
       "auto": true
     },
     {
+      "titulo": "'Pacto de Valledupar' salpica a Gustavo Petro y lo podría llevar ante la Comisión de Acusaciones",
+      "medio": "Minuto60",
+      "urlMedio": "https://www.minuto60.com",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjRLNUQ1STc3ZF9xbTB6RkpUelg3M0FPQ2ZVczBqOG9kbmxwc3BYVnBSSlBxS2laV1Z6N2xtb2l4dkZpZi1HU3ByNklyeWJoNmg0Z3lqTi16UEdSb3FiVUlpUEx4Ui1OSDcwU2xDMXAwbEJES25xbTRCMHljcWQ4T250ZnJIVHFSNndN?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "temas": [
+        "acusacion",
+        "petro"
+      ],
+      "auto": true
+    },
+    {
       "titulo": "Pacto de Valledupar: los beneficios que el gobierno Petro ofreció a exparamilitares",
       "medio": "Agencia de Periodismo Investigativo",
       "urlMedio": "https://www.agenciapi.co",
@@ -2809,17 +2821,6 @@
       "fecha": "2026-10-19T07:00:00.000Z",
       "temas": [
         "petro"
-      ],
-      "auto": true
-    },
-    {
-      "titulo": "'Pacto de Valledupar': Minjusticia pide investigar quiénes actuaron en posibles beneficios a exparas",
-      "medio": "Blu Radio",
-      "urlMedio": "https://www.bluradio.com",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkppLXByd3dFajBnSy12d2hXQ0pJdmtwTHJHcVpPZC1RTTNXQzBiSFZFSGtocmFQd1VWbzRhQ2VYakpUTlY1d2xJQkY2akdoRkpFTE80TnE1aWstd2Y1RUVTZFFFTWdDVXYwUlhRdXBqMUhoZEVrNGJkYnZDcW9xQUhGMkRWX2tjb1BUTW5NZXk2Qm9GUE96ckNiYmFSMkY2RGRQdVkxQTNxSElzZjR6MzRVZUhyazJqSEs1X2Q4RVh1WjBUejJ3dzctWE82MnfSAdwBQVVfeXFMUGxZRkFxLTVjaHVDMXgzUElzd3RqQkZzZEZDc0I5TWN5SWg1ZFhsQ1ZXTHcyYkVicTFZQWoxVDNHLXVWWlh6SlduZEZyVTBsel9uR18tS3pUWmdIRUotUUtYM0dqQUxtbEZPWHA3UHo2NGhSeXRodWhua2NVaGZROTdQMjBnRU9FNDFRYjhrc2pvX3pvNUVyYjNZY284c1cxa3pEanZjd1BRZWhuYjdPZkc4UjBwUjVIMUlhOWJ6cC1sc2RhNDdpam1NNnY0Wld1UW9LRGlKZ0ZnUzJhcg?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "temas": [
-        "justicia"
       ],
       "auto": true
     }
