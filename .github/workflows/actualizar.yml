@@ -31,5 +31,5 @@ jobs:
           git config user.email "actions@github.com"
           git add data/noticias.json
           git diff --cached --quiet && exit 0
-          git commit -m "Noticias actualizadas $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') (hora Colombia)"
+          git commit -m "[skip netlify] Noticias actualizadas $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') (hora Colombia)"
           git push
